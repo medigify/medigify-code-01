@@ -1,0 +1,219 @@
+Question: A macrophage has all of the following features except:
+Options:
+a) An irregularly shaped nucleus
+b) Many lysosomes
+c) Many surface projections
+d) Few microfilaments
+Correct Option:
+Ans. Few microfilaments
+Explanation: Macrophages are highly motile "scavengers" that use phagocytosis to clear debris. To change shape and move, they require an extensive network of microfilaments (actin) and microtubules to form pseudopodia. Saying they have "few" microfilaments is histologically incorrect, as their motility depends on them.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Plasma cells:
+Options:
+a) Contain few ribosomes
+b) Have a centrally placed nucleus
+c) Are specialized for production of humoral antibodies
+d) Are found mostly in lymphatic tissue
+Correct Option:
+Ans. Are specialized for production of humoral antibodies
+Explanation: Derived from B-lymphocytes, plasma cells are the primary producers of humoral antibodies (immunoglobulins). Their cytoplasm is intensely basophilic due to an abundance of Rough Endoplasmic Reticulum (RER), which serves as the "factory" for these secretory proteins.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: The distinguishing feature of plasma cell is its:
+Options:
+a) Cartwheel nucleus
+b) Site of presence
+c) Shape
+d) Membrane structure
+Correct Option:
+Ans. Cartwheel nucleus
+Explanation: The cartwheel or "clock-face" appearance is the pathognomonic feature of a plasma cell. This is caused by large clumps of heterochromatin (condensed DNA) arranged at the periphery of the nucleus, alternating with lighter areas of euchromatin.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Production of antibodies is the function of:
+Options:
+a) Fibroblasts
+b) Plasma cells
+c) Histiocytes
+d) Mast cells
+Correct Option:
+Ans. Plasma cells
+Explanation: While fibroblasts make fibers and mast cells release inflammatory mediators, only plasma cells are programmed to secrete antibodies. This occurs through the large-scale translation of mRNA into protein within their specialized, protein-producing RER network.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Which one of the following cells located in the connective tissue arises from myeloid stem cells:
+Options:
+a) Pericytes
+b) Eosinophils
+c) Fibroblasts
+d) Osteoblasts
+Correct Option:
+Ans. Eosinophils
+Explanation: Eosinophils are white blood cells that originate from myeloid stem cells in the bone marrow. Unlike "fixed" connective tissue (CT) cells like fibroblasts which come from local mesenchyme, eosinophils migrate into the tissue from the bloodstream to respond to parasites or allergies.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Which cells are not resident cells of Connective tissue:
+Options:
+a) Adipocytes
+b) Fibroblasts
+c) Macrophages
+d) Myofibroblasts
+Correct Option:
+Ans. Macrophages
+Explanation: macrophages are classified as wandering (transient) cells because they arise from blood monocytes and "patrol" the connective tissue. Unlike resident adipocytes or fibroblasts, they move actively through the matrix toward sites of inflammation.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Transient (wandering cells) of CT are:
+Options:
+a) Adipocytes
+b) Fibroblasts
+c) Macrophages
+d) Myofibroblasts
+Correct Option:
+Ans. Macrophages
+Explanation: macrophages are classified as wandering (transient) cells because they arise from blood monocytes and "patrol" the connective tissue. Unlike resident adipocytes or fibroblasts, they move actively through the matrix toward sites of inflammation.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Sharpey fibers are composed of:
+Options:
+a) Collagen type I
+b) Collagen type II
+c) Collagen type III
+d) Collagen type IV
+Correct Option:
+Ans. Collagen type I
+Explanation: Sharpey fibers are robust bundles of Type I Collagen that anchor periosteum or ligaments into the bone matrix. They are essential for mechanical stability, effectively "sewing" the soft tissue into the hard mineralized tissue of the bone.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: The most generalized type of connective tissue (in the sense of possessing the greatest variety of connective tissue components) is:
+Options:
+a) Adipose
+b) Reticular
+c) Loose
+d) Mesenchyme
+Correct Option:
+Ans. Mesenchyme
+Explanation: Mesenchyme is the primordial, undifferentiated embryonic connective tissue. It is considered the most "generalized" because its pluripotent cells have the potential to differentiate into almost all other types of connective tissue, including bone, cartilage, and blood.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: The precursor of the heparin is contained in:
+Options:
+a) The mast cells
+b) The histiocytes
+c) The fibroblasts
+d) The plasma cell
+Correct Option:
+Ans. The mast cells
+Explanation: Mast cells act as the primary storage sites for chemical mediators like heparin and histamine. These are stored in large, dark-staining granules that are released during degranulation to prevent local blood clotting and increase vascular permeability.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Which one of the following statements concerning loose connective tissue is true:
+Options:
+a) It is less abundant than dense connective tissue
+b) It has a lower proportion of cells to fibers than does dense connective tissue
+c) It acts as a medium for exchange of nutrients and wastes between the blood and tissues
+d) It provides structural support for organs
+Correct Option:
+Ans. It has a lower proportion of cells to fibers than does dense connective tissue
+Explanation: Loose (areolar) connective tissue is characterized by having a higher proportion of cells to fibers compared to dense CT. Its abundant, gel-like ground substance makes it the perfect medium for the diffusion of oxygen, nutrients, and waste products between the blood and tissues
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Dense regular connective tissue is present in:
+Options:
+a) Capsules of organs
+b) Basement membrane
+c) Tendons
+d) Skin
+Correct Option:
+Ans. Tendons
+Explanation: Dense regular connective tissue consists of Type I collagen fibers packed into tight, parallel bundles. This histological arrangement is found in tendons, where the tissue must resist massive tensile forces pulling in a single, predictable direction.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Fascia lata is an example of:
+Options:
+a) Loose CT
+b) Dense regular CT
+c) Dense irregular CT
+d) Aponeurosis
+Correct Option:
+Ans. Dense irregular CT
+Explanation: While tendons are regular, the Fascia Lata (the deep fascia of the thigh) is primarily composed of dense irregular CT. It contains collagen fiber bundles running in multiple directions to provide structural support against multidirectional mechanical stress.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: The fibrous component of loose connective tissue is composed of:
+Options:
+a) Collagenous, reticular and elastic fibers
+b) Type I collagen in loose bundles
+c) Elastin, collagen, and glycoproteins
+d) Type I collagen in fine fibers
+Correct Option:
+Ans. Collagenous, reticular and elastic fibers
+Explanation: Loose connective tissue is a "composite" tissue containing all three fiber types: collagen (for strength), elastic (for stretch), and reticular (for a delicate supportive framework). This variety allows the tissue to be flexible yet resilient in its role as a filler.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Loose connective tissue, in comparison with tendon, contains relatively:
+Options:
+a) More fibers and more ground substance
+b) Fewer cells and fewer fibers
+c) Fewer cells and more fibers
+d) More fibers and more cells
+Correct Option:
+Ans. Fewer cells and fewer fibers
+Explanation: A tendon is a dense "wall" of fibers with very little room for anything else. In contrast, loose connective tissue contains fewer fibers and more ground substance, making it more pliable and spacious for the passage of nerves and vessels compared to the rigid tendon.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: White adipocytes are derived developmentally from what precursor cells:
+Options:
+a) Monocytes
+b) Fibroblasts
+c) Mesenchymal cells
+d) Brown adipocytes
+Correct Option:
+Ans. Mesenchymal cells
+Explanation: Both white and brown adipocytes differentiate from undifferentiated mesenchymal cells. These precursors first become lipoblasts before accumulating lipid droplets to become the mature "signet ring" cells seen in adult adipose tissue.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Important target cells of leptin are found in which organ:
+Options:
+a) Small intestine
+b) White adipose tissue
+c) Large intestine
+d) Hypothalamus
+Correct Option:
+Ans. Hypothalamus
+Explanation: Leptin is a hormone secreted by adipocytes that serves as a long-term energy sensor. It travels through the blood to the hypothalamus in the brain, where it binds to receptors to inhibit hunger and stimulate energy expenditure.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Ten days after birth a full-term newborn boy develops firm, erythematous nodules and plaques over his trunk, arms, buttocks, thighs, and cheeks. His mother's pregnancy was complicated by placenta previa and his airway was cleared of aspirated meconium immediately after birth. A biopsy of subcutaneous tissue shows necrosis within the brown adipose tissue. What metabolic activity is liable to be affected in this patient:
+Options:
+a) Export of fatty acids from fat
+b) Thermal insulation
+c) Oxidation of fatty acids for thermogenesis
+d) Initiation of shivering
+Correct Option:
+Ans. Oxidation of fatty acids for thermogenesis
+Explanation: Brown adipose tissue is specialized for non-shivering thermogenesis. Its cells contain numerous mitochondria with thermogenin (UCP-1), which uncouples the electron transport chain to release energy as heat rather than ATP, protecting newborns from cold stress.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: What cells numerous in loose connective tissue are filled with secretory granules and stain with metachromasia:
+Options:
+a) Macrophages
+b) Mast cells
+c) Fibrocytes
+d) Active fibroblasts
+Correct Option:
+Ans. Mast cells
+Explanation: Mast cells are identified by large granules that exhibit metachromasia. When stained with basic dyes like Toluidine blue, the high concentration of acidic heparin in the granules changes the dye's color from blue to purple or red—a hallmark of these cells.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue
+
+Question: Which of the following connective tissue components is located in the ECM but not in the ground substance:
+Options:
+a) Collagen bundles
+b) Fibronectin
+c) GAGs
+d) Proteoglycans
+Correct Option:
+Ans. Collagen bundles
+Explanation: The Extracellular Matrix (ECM) is a broad term encompassing everything outside the cells: Fibers + Ground Substance. Collagen bundles are fibers; while they are part of the ECM, they are structurally distinct from the "amorphous" gel-like ground substance that surrounds them.
+Tags: Histology, Block 1, Connective Tissue, Histology of Connective Tissue

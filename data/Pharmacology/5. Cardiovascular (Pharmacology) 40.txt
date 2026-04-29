@@ -1,0 +1,439 @@
+Question: Which of the following drugs block the effects of adrenaline and noradrenaline on the heart and blood vessels, leading to decreased heart rate and decreased blood pressure:
+Options:
+a) Muscarinic antagonist
+c) Alpha blockers
+b) Beta-blockers
+d) Angiotensin receptor blockers (ARBs)
+Correct Option:
+Ans. Beta-blockers
+Explanation: Beta-blockers are the correct choice for the first question because they competitively antagonize β-receptors, resulting in a decreased heart rate and reduced blood pressure by blocking sympathetic discharge. Muscarinic antagonists are incorrect because they typically increase heart rate. Alpha blockers are also wrong in this context because, while they reduce vascular tone to lower blood pressure, they often cause a compensatory reflex tachycardia, (Reflex in heart to avoid reduced pressure in vessels) which increases the heart rate as alpha receptors are not present in cardiac muscle. Angiotensin receptor blockers are incorrect as they target the hormonal RAAS pathway rather than directly blocking the immediate effects of adrenaline and noradrenaline on the heart and vessels
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs increase the excretion of sodium and water by the kidneys, leading to decreased blood volume and decreased blood pressure:
+Options:
+a) Diuretics
+c) Calcium channel blockers
+b) Beta-blockers
+d) Vasodilators
+Correct Option:
+Ans. Diuretics
+Explanation: Diuretics are the correct drugs for the second question as they increase the renal excretion of sodium and water, which reduces blood volume and effectively lowers blood pressure. Beta-blockers and vasodilators are incorrect because they lower blood pressure by modifying heart rate or vascular resistance rather than through direct fluid excretion mechanisms. Calcium channel blockers are also wrong because they primarily act on vascular smooth muscle to cause dilation and do not have a primary mechanism of action involving renal sodium excretion.
+Tags: Auxiliary Subjects, Minors
+
+Question: A man is admitted to the emergency department with a brownish cyanotic appearance, marked shortness of breath, and hypotension. Which of the following is most likely to cause methemoglobinemia:
+Options:
+a) Amyl nitrite
+c) Isosorbide mononitrate
+b) Isosorbide dinitrate
+d) Sodium cyanide
+Correct Option:
+Ans. Amyl nitrite
+Explanation: Amyl nitrite, because it is a highly volatile, rapid-acting nitrate that can induce methemoglobinemia, leading to a brownish cyanotic appearance and shortness of breath. Isosorbide dinitrate and isosorbide mononitrate are incorrect because, while they are nitrates used for angina, they are less commonly associated with acute, severe methemoglobinemia in an emergency setting compared to amyl nitrite. Sodium cyanide is incorrect as it is a metabolic toxin that inhibits cellular respiration rather than primarily causing methemoglobinemia, although nitrites are actually used as part of the treatment for cyanide poisoning.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs block the production of angiotensin II, a hormone that causes blood vessels to constrict, leading to decreased blood pressure:
+Options:
+a) ACE inhibitors
+c) Renin inhibitors
+b) Alpha-blockers
+d) Aldosterone antagonists
+Correct Option:
+Ans. ACE inhibitors
+Explanation: ACE specifically block the angiotensin-converting enzyme, preventing the production of Angiotensin II, a potent vasoconstrictor. Alpha-blockers are incorrect because they block adrenoceptors on blood vessels and do not interfere with hormone production. Renin inhibitors are wrong because they block the system earlier (the conversion of angiotensinogen to Angiotensin I), and aldosterone antagonists are incorrect as they block the downstream effects of aldosterone rather than the production of Angiotensin II.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs increase the amount of calcium that enters the heart muscle cells, increasing the strength of contractions and slowing the heart rate:
+Options:
+a) Beta-blockers
+c) Antiarrhythmic drugs
+b) Calcium channel blockers
+d) Digitalis glycosides
+Correct Option:
+Ans. Digitalis glycosides
+Explanation: Digitalis glycosides are correct because they increase the availability of calcium within heart cells, which enhances the strength of contraction (positive inotropy) while slowing the heart rate through vagal effects. Calcium channel blockers are incorrect because they reduce the entry of calcium into cardiac cells, which would decrease contraction strength. Beta-blockers are also wrong because they generally decrease both heart rate and the strength of contraction by inhibiting sympathetic stimulation
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs is used to dilate blood vessels and improve blood flow in peripheral vascular diseases:
+Options:
+a) Calcium channel blockers
+c) ACE inhibitors
+b) Beta-blockers
+d) Nitric oxide donors
+Correct Option:
+Ans. Nitric oxide donors
+Explanation: Nitric oxide donors, such as certain specialized nitrates or drugs like nebivolol, are the correct answer for the sixth question because they dilate blood vessels to improve flow in peripheral vascular diseases. Beta-blockers are typically incorrect for this purpose because beta2 blockade can sometimes lead to peripheral vasoconstriction (β₂ blockade = ↓ vasodilation → relatively ↑ vasoconstriction), potentially worsening the disease. ACE inhibitors and calcium channel blockers are used for hypertension but are not categorized primarily for vasodilation as "nitric oxide donors" in the context of vascular relaxation mechanisms
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs block the renin-angiotensin-aldosterone system (RAAS) and reduce the workload on the heart in heart failure:
+Options:
+a) Beta-blockers
+c) Diuretics
+b) ACE inhibitors
+d) Cardiac glycosides
+Correct Option:
+Ans. ACE inhibitors
+Explanation: ACE inhibitors are the correct choice for the seventh question as they directly block the renin-angiotensin-aldosterone system (RAAS) by preventing the formation of Angiotensin II, thereby reducing the workload on the heart. Beta-blockers are also used in heart failure to reduce workload and mortality, but they do so by blocking sympathetic activation rather than the RAAS itself. Diuretics and cardiac glycosides are incorrect as they manage fluid symptoms or increase contractility, respectively, without acting as primary RAAS blockers
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs increase blood flow to the heart muscle by dilating blood vessels, leading to decreased oxygen demand and decreased chest pain:
+Options:
+a) Nitrates
+b) Beta-blockers
+c) Ranolazine
+d) ACE inhibitors
+Correct Option:
+Ans. Nitrates
+Explanation: Nitrates are the correct because they act as potent vasodilators that dilate veins and coronary arteries, increasing blood flow to the heart while reducing the oxygen demand. Beta-blockers are incorrect because, while they do decrease oxygen demand and chest pain, they do so by slowing the heart rate rather than by dilating vessels to increase flow. Ranolazine is wrong because it works by modifying specific cardiac ion currents rather than being a primary vasodilator.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs has been shown to prolong life in patients with chronic congestive failure in spite of having a negative inotropic effect on cardiac contractility:
+Options:
+a) Beta blocker
+c) ACE inhibitor
+b) Digoxin
+d) Diuretic
+Correct Option:
+Ans. Beta blocker
+Explanation: Beta-blockers are the correct choice for the question because they have been shown in large clinical trials to reduce morbidity and mortality in patients with chronic heart failure. While they possess a negative inotropic effect (decreasing the force of contraction), their use in Chronic heart failure helps to reduce pathological hypertrophy of heart. Their benefit comes from blocking chronic sympathetic overactivation, reducing arrhythmias, preventing adverse remodeling, and improving ventricular function over time. Digoxin is incorrect because it is a positive inotrope that increases contraction force but does not necessarily prolong life. ACE inhibitors (e.g., Enalapril) DO reduce mortality in heart failure but are not negative inotropes, which is why they are not the correct answer here.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following antihypertensive drug acts by releasing nitric oxide:
+Options:
+a) Atenolol
+c) Losartan
+b) Captopril
+d) Nitroprusside
+Correct Option:
+Ans. Nitroprusside
+Explanation: Nitroprusside is the intended answer for the question, as it is a well-known antihypertensive that acts through the release of nitric oxide. Atenolol is a β 1 -selective blocker that lacks this nitric oxide mechanism. Captopril is an ACE inhibitor, and Losartan is an ARB; both lower blood pressure by interfering with the renin-angiotensin system rather than by direct nitric oxide release
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one of the following drugs is associated with clinically useful or physiologically important positive inotropic effect:
+Options:
+a) Beta blocker
+c) ACE inhibitor
+b) Digoxin
+d) Diuretic
+Correct Option:
+Ans. Digoxin
+Explanation: Digoxin (a cardiac glycoside) is the correct answer for the third question because it is specifically associated with a physiologically important positive inotropic effect, meaning it increases the strength of cardiac muscle contraction. Beta-blockers are wrong because they are negative inotropes. ACE inhibitors and diuretics are incorrect as they reduce the heart's workload by managing fluid volume or vascular resistance rather than directly increasing the force of the heart muscle's contraction.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs reduce the amount of work the heart has to do by decreasing the volume of blood it pumps, leading to decreased oxygen demand:
+Options:
+a) Nitrates
+c) Digitalis glycosides
+b) Beta-blockers
+d) Alpha agonists
+Correct Option:
+Ans. Nitrates
+Explanation: Nitrates are the correct choice for the fourth question because they vasodilate veins, which reduces the volume of blood returning to the heart (preload). This reduction in volume leads to decreased oxygen demand and reduced cardiac work. Beta-blockers also decrease oxygen demand, but they do so primarily by slowing the heart rate rather than by reducing blood volume. Digitalis glycosides are incorrect because they increase the force of contraction, which can actually increase oxygen demand. Alpha agonists are wrong because they cause vasoconstriction, which increases the heart's workload
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one of the following is characteristic of nifedipine treatment in patients with essential hypertension:
+Options:
+a) Competitively blocks angiotensin II at its receptor
+b) Decreases calcium efflux from skeletal muscle
+c) Decreases renin concentration in the blood
+d) Decreases calcium influx into smooth muscle
+Correct Option:
+Ans. Decreases calcium influx into smooth muscle
+Explanation: Decreasing calcium influx into smooth muscle is the correct characteristic of nifedipine for the question. Nifedipine belongs to the dihydropyridine class of calcium channel blockers, which interact with L-type voltage-gated channels to prevent calcium from entering smooth vascular muscle cells, leading to vasodilation and lower blood pressure. It does not block Angiotensin II, which is the role of ARBs. It does not significantly affect skeletal muscle calcium efflux or primarily decrease blood renin levels.
+Tags: Auxiliary Subjects, Minors
+
+Question: There are different classes of drugs used in treatment of hypertension. Which class of drug act by vasodilation:
+Options:
+a) Diuretics
+c) ACE inhibitor
+b) Calcium blocker
+d) Antihistamine
+Correct Option:
+Ans. Calcium blocker
+Explanation: Calcium blockers are the correct as they are a major class of drugs that act through vasodilation to treat hypertension. Diuretics are incorrect because they lower blood pressure by reducing blood volume through salt and water excretion. ACE inhibitors also lead to vasodilation indirectly by preventing the formation of Angiotensin II, but "Calcium blocker" is the most direct answer for a drug class defined by its vasodilatory action on the vessels. Antihistamines are incorrect as they are not standard antihypertensive medications
+Tags: Auxiliary Subjects, Minors
+
+Question: The cellular action of calcium channel blockers is:
+Options:
+a) They inhibit Na + /Ca 2+ exchanger in cardiac and smooth muscles
+b) They interact with the L-type voltage-gated channel
+c) Their interaction with the sodium pump results in the inhibition of calcium transport
+d) Their interaction with the membrane phospholipids results in a nonselective decrease in ion transport
+Correct Option:
+Ans. They interact with the L-type voltage-gated channel
+Explanation: The correct cellular action for calcium channel blockers in the seventh question is that they interact with the L-type voltage-gated channel. By binding to these channels, they reduce the inward calcium current during the action potential, which relaxes the muscle and slows conduction in sensitive tissues like the AV node. They do not primarily act on the Na+/Ca2+ exchanger, the sodium pump, or membrane phospholipids.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs increase the force of heart contractions and improve cardiac output in heart failure:
+Options:
+a) Beta-blockers
+c) Diuretics
+b) Angiotensin-converting enzyme (ACE) inhibitors
+d) Cardiac glycosides
+Correct Option:
+Ans. Cardiac glycosides
+Explanation: Cardiac glycosides (such as digoxin) are the correct choice for the eighth question because they increase the force of heart contractions (positive inotropy), which helps improve cardiac output in heart failure. Beta-blockers are incorrect in this specific context because they decrease the force of contraction. ACE inhibitors and diuretics are used in heart failure but work by reducing the resistance the heart must pump against or reduce fluid volume, rather than by directly increasing the strength of the heart muscle itself
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs block the flow of sodium into the heart muscle cells, reducing the rate of depolarization and preventing arrhythmias:
+Options:
+a) Beta-blockers
+c) Class I antiarrhythmic drugs
+b) Class II antiarrhythmic drugs
+d) Digitalis glycosides
+Correct Option:
+Ans. Class I antiarrhythmic drugs
+Explanation: Class I antiarrhythmic drugs are the correct answer for the ninth question because their primary mechanism is to block the flow of sodium into heart muscle cells during Phase 0 of the action potential. This action reduces the rate of depolarization and slows conduction velocity to prevent arrhythmias. Beta-blockers (Class II) work by blocking sympathetic effects and slowing the pacemaker activity. Digitalis glycosides are not classified as primary sodium channel blockers for arrhythmias
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs block the effects of adrenaline and noradrenaline on blood vessels, leading to relaxation of blood vessels and decreased blood pressure:
+Options:
+a) Diuretics
+c) Calcium channel blockers
+b) ARBs
+d) Alpha-blockers
+Correct Option:
+Ans. Alpha-blockers
+Explanation: Alpha-blockers are the correct answer for the final question because they specifically block the adrenoceptors on blood vessels that respond to adrenaline and noradrenaline. By inhibiting these receptors, the drugs cause a reduction in vascular tone, leading to the relaxation of blood vessels and a decrease in blood pressure. Diuretics and ARBs lower blood pressure through different hormonal or fluid-based pathways. Calcium channel blockers cause relaxation by blocking ion channels rather than adrenoceptors
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is the best-documented mechanism of beneficial action of cardiac glycosides:
+Options:
+a) A decrease in calcium uptake by SR
+c) A modification of the actin molecule
+b) An increase in ATP synthesis
+d) An increase in systolic cytoplasmic calcium levels
+Correct Option:
+Ans.  An increase in systolic cytoplasmic calcium levels
+Explanation: an increase in systolic cytoplasmic calcium levels is the correct mechanism because cardiac glycosides (like digoxin) increase the availability of calcium in the sarcoplasm. This calcium interacts with troponin to initiate cross-bridge formation and strengthen the contraction. A decrease in calcium uptake by the SR is wrong because the drug typically enhances stored calcium levels for release. An increase in ATP synthesis is incorrect as these drugs inhibit an ATPase rather than synthesizing it. Modification of the actin molecule is wrong because the drug affects concentrations, not the protein structure of actin itself.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which group of drug has no role in arrhythmia:
+Options:
+a) Sodium channel blocker
+b) Calcium channel blocker
+c) Potassium channel blocker
+d) Chloride channel blocker
+Correct Option:
+Ans. Chloride channel blocker
+Explanation: Chloride channel blockers have no role in arrhythmia management according to the standard classification in the sources. The four major classes of antiarrhythmics are Sodium channel blockers (Class I), Beta-blockers (Class II), Potassium channel blockers (Class III), and Calcium channel blockers (Class IV). Chloride channels are not involved in the standard therapeutic suppression of abnormal pacemakers or conduction
+Tags: Auxiliary Subjects, Minors
+
+Question: The cellular mechanism of action of digoxin is:
+Options:
+a) Inhibition of cAMP synthesis
+c) Inhibition of ATP degradation
+b) Inhibition of b-adrenergic stimulation
+d) Inhibition of Na+/K+ ATPase
+Correct Option:
+Ans. Inhibition of Na+/K+ ATPase
+Explanation: The cellular mechanism of digoxin is the inhibition of Na+/K+ ATPase. The sources indicate that sodium-calcium exchange depends on the sodium-potassium ATPase pump to maintain gradients. Inhibiting this pump indirectly increases intracellular calcium, leading to increased contractility. Inhibition of cAMP synthesis is wrong as that is associated with beta-blocker mechanisms. Inhibition of b-adrenergic stimulation is also the role of beta-blockers, not digoxin. Inhibition of ATP degradation is incorrect because digoxin targets the pump protein specifically
+Tags: Auxiliary Subjects, Minors
+
+Question: A pregnant lady presents with hypertension. Which anti-hypertensive drug should not be given to that lady:
+Options:
+a) ACEi
+c) Nifedipine
+b) Hydralazine
+d) Beta blocker
+Correct Option:
+Ans. ACEi
+Explanation: ACE inhibitors (ACEi) should not be given to a pregnant lady because they interfere with the renin-angiotensin system, which is essential for fetal development. While Hydralazine, Nifedipine, and certain Beta blockers are often used to manage hypertension in pregnancy, ACE inhibitors and ARBs are clinically documented as contraindicated due to fetal risks
+Tags: Auxiliary Subjects, Minors
+
+Question: Dobutamine (beta-1 agonist) increases cardiac contractility by:
+Options:
+a) Activation of adenylyl cyclase
+b) Inactivation of Na channels
+c) Inhibition of Na+/K+ ATPase
+d) Activation of Na/Cl cotransporter
+Correct Option:
+Ans. Activation of adenylyl cyclase
+Explanation: Dobutamine increases cardiac contractility by the activation of adenylyl cyclase. As a beta1 agonist, it stimulates the production of cAMP; this is the opposite of beta-blockers, which reduce cAMP. Inactivation of Na channels is wrong because that is the mechanism of Class I antiarrhythmics. Inhibition of Na+/K+ ATPase is wrong because that is the mechanism of digoxin. Activation of Na/Cl cotransporters is related to diuretic action, not cardiac contractility.
+Tags: Auxiliary Subjects, Minors
+
+Question: Main side effect of digoxin:
+Options:
+a) Heart failure
+b) Nausea, vomiting & diarrhea
+c) Liver failure
+d) Hypertension
+Correct Option:
+Ans. Nausea, vomiting & diarrhea
+Explanation: The main side effect of digoxin is nausea, vomiting, and diarrhea. The sources note that cardiac glycosides are frequently associated with gastrointestinal upsetting. Heart failure is wrong because digoxin is actually used as a treatment for it. Liver failure and hypertension are not primary toxicities of this drug class
+Tags: Auxiliary Subjects, Minors
+
+Question: Main side effect of beta blocker (propranolol):
+Options:
+a) It aggravates asthma
+c) It causes hypertension
+b) It causes headache
+d) It causes orthostatic hypotension
+Correct Option:
+Ans.  It aggravates asthma
+Explanation: The main side effect of the nonselective beta blocker (propranolol) is that it aggravates asthma. The beta 2 receptors are vital for preventing bronchospasm, and nonselective blockers can trigger severe asthma attacks by inhibiting these receptors. Headache is less common than bronchospasm, and these drugs are used to treat hypertension, not cause it. Orthostatic hypotension is more characteristic of alpha-blockers than beta-blockers
+Tags: Auxiliary Subjects, Minors
+
+Question: Losartan belongs to which antihypertensive group:
+Options:
+a) ARBs
+c) Ca channel blocker
+b) Beta blocker
+d) Diuretic
+Correct Option:
+Ans. ARBs
+Explanation: Losartan belongs to the ARBs (Angiotensin Receptor Blockers) group. It lowers blood pressure by blocking the receptors for Angiotensin II. It is not a Beta blocker, Calcium channel blocker, or Diuretic, as those belong to distinct drug classes with different mechanisms of action such as heart rate reduction or fluid excretion.
+Tags: Auxiliary Subjects, Minors
+
+Question: Beta blockers are used in treatment of angina because of all reasons except:
+Options:
+a) Reduce double product
+b) Reduce oxygen requirement of heart
+c) Reduce cardiac size
+d) Reduce vasospasm
+Correct Option:
+Ans. Reduce vasospasm
+Explanation: Beta blockers are used in angina because they reduce the double product (heart rate times blood pressure) and decrease the overall myocardial oxygen requirement by slowing the heart rate and reducing contractility. However, they are the "except" choice for reducing vasospasm because in vasospastic (Prinzmetal) angina, beta blockers can actually worsen the condition by leaving alpha-mediated vasoconstriction unopposed. Reducing cardiac size is a beneficial effect of reducing the workload and wall stress
+Tags: Auxiliary Subjects, Minors
+
+Question: Class I antiarrhythmic drug:
+Options:
+a) Procainamide
+c) Adenosine
+b) Flecainide
+d) Both A & B
+Correct Option:
+Ans. Both A & B
+Explanation: Procainamide and Flecainide are both correct for the second question as they are Class I antiarrhythmic drugs; Procainamide belongs to Subclass 1A and Flecainide belongs to 1C, both acting by blocking sodium channels. Adenosine is incorrect as it is a miscellaneous agent that primarily acts on the AV node by hyperpolarizing tissue through potassium currents
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs is not used for the management of congestive heart failure:
+Options:
+a) ACE inhibitor
+c) Beta blockers
+b) Calcium channel blockers
+d) Digoxin
+Correct Option:
+Ans. Calcium channel blockers
+Explanation: Calcium channel blockers (specifically non-dihydropyridines like verapamil) are generally not used for the primary management of congestive heart failure because their negative inotropic effects can further depress a failing heart. In contrast, ACE inhibitors, Beta blockers (like metoprolol or carvedilol), and Digoxin are all standard therapies used to reduce mortality or manage symptoms in heart failure patients
+Tags: Auxiliary Subjects, Minors
+
+Question: The antiarrhythmic drug that primarily belongs to Ia Na channel group:
+Options:
+a) Adenosine
+c) Amiodarone
+b) Quinidine
+d) Acebutalol
+Correct Option:
+Ans. Quinidine
+Explanation: Quinidine is the correct answer for the fourth question because it is a prototype Group 1A antiarrhythmic that blocks sodium channels and prolongs the action potential. Amiodarone belongs to Group 3, Adenosine is a miscellaneous agent, and Acebutalol is a Group 2 beta-blocker
+Tags: Auxiliary Subjects, Minors
+
+Question: ACEi/ARBs reduces the:
+Options:
+a) Preload
+b) Afterload
+c) Preload & afterload
+d) Cardiac output
+Correct Option:
+Ans. Preload & afterload
+Explanation: ACE inhibitors and ARBs reduce both preload and afterload; they reduce afterload by preventing the production or action of Angiotensin II, a potent vasoconstrictor, and they reduce preload by inhibiting aldosterone secretion, which decreases sodium and water retention. They do not primarily increase cardiac output directly, though it may improve as a secondary effect of reduced resistance
+Tags: Auxiliary Subjects, Minors
+
+Question: The therapeutic benefit of propranolol (beta blocker) in angina is believed to be primarily due to:
+Options:
+a) Reduced production of catecholamines
+c) Increased sensitivity to catecholamines
+b) A decreased requirement of myocardial oxygen
+d) Increased peripheral resistance
+Correct Option:
+Ans. A decreased requirement of myocardial oxygen
+Explanation: the primary therapeutic benefit of propranolol in angina is a decreased requirement of myocardial oxygen. By blocking beta1 receptors, it reduces heart rate and the force of contraction, which are the main determinants of oxygen demand during exertion. It does not reduce the production of catecholamines (A) or increase peripheral resistance (D) as its primary goal in angina therapy.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the followings are ways of treating angina except:
+Options:
+a) Reducing oxygen requirement
+b) Increasing efficiency of oxygen utilization
+c) Increasing oxygen delivery
+d) Increase in end diastolic volume
+Correct Option:
+Ans. Increase in end diastolic volume
+Explanation: Treating angina involves reducing oxygen requirement (via beta-blockers or nitrates), increasing oxygen delivery (via vasodilators), and increasing the efficiency of oxygen utilization. An increase in end-diastolic volume is the "except" choice because higher volume increases ventricular wall tension, which actually increases oxygen demand and worsens ischemia
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drug is calcium channel blocker used in treatment of hypertension:
+Options:
+a) Verapamil
+c) Quinidine
+b) Digoxin
+d) Prazosin
+Correct Option:
+Ans. Verapamil
+Explantion: Verapamil is the correct calcium channel blocker used for hypertension that interacts with L-type voltage-gated channels. Digoxin is a cardiac glycoside, Quinidine is a sodium channel blocker, and Prazosin is an alpha-blocker
+Tags: Auxiliary Subjects, Minors
+
+Question: Which drug group causes hyperkalemia:
+Options:
+a) Beta blocker
+b) ARBs/ACEi
+c) Alpha blocker
+d) Diuretics
+Correct Option:
+Ans. ARBs/ACEi
+Explanation: ACE inhibitors and ARBs are the drug groups that cause hyperkalemia. By blocking the effects of aldosterone, these drugs prevent the normal exchange of sodium for potassium in the distal tubule, leading to potassium retention in the blood. Diuretics (unless potassium-sparing) usually cause hypokalemia, and alpha/beta blockers do not typically have hyperkalemia as a primary side effect.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which antihypertensive drug causes cough & angioedema:
+Options:
+a) ACEi
+b) ARB
+c) Beta blocker
+d) Calcium channel blocker
+Correct Option:
+Ans. ACEi
+Explanation: ACE inhibitors (ACEi) are uniquely associated with the side effects of cough and angioedema; the cough is generally attributed to the accumulation of bradykinin in the lungs when its degradative enzyme is inhibited. ARBs are often used as an alternative because they do not affect bradykinin levels and thus rarely cause a cough.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a patient suffering from angina of effort, nitroglycerin may be given sublingually because of this mode of administration:
+Options:
+a) Bypasses the coronary circulation
+c) Has a decreased tendency to cause methemoglobinemia
+b) Improves patient compliance
+d) Avoids first-pass hepatic metabolism
+Correct Option:
+Ans. Avoids first-pass hepatic metabolism
+Explanation: Nitroglycerin is given sublingually in effort angina because this route allows the drug to be absorbed directly into the systemic circulation through the mucous membranes, thereby avoiding first-pass hepatic metabolism. This ensures a rapid onset of action and higher bioavailability compared to the oral route, where the liver would rapidly degrade the drug.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which should not be given in vasospastic angina:
+Options:
+a) Nitroglycerin
+c) Calcium channel blocker
+b) Beta blocker
+d) Oxygen
+Correct Option:
+Ans.Beta blocker
+Explanation: Beta blockers should not be given in vasospastic (Prinzmetal) angina because they can exacerbate coronary vasospasm by leaving alpha-adrenoceptor-mediated vasoconstriction unopposed. Nitroglycerin and calcium channel blockers are the preferred treatments as they directly relax the coronary vascular smooth muscle to relieve the spasm.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 40-year-old male presents in emergency with left-sided chest pain radiating towards left arm and sweating. ECG shows ST elevation. What should be given to this patient:
+Options:
+a) Nitroglycerin + Aspirin
+b) Beta blocker + Aspirin
+c) Adenosine + Aspirin
+d) Only aspirin
+Correct Option:
+Ans. Nitroglycerin + Aspirin
+Explanation: A 40-year-old male with chest pain and ST elevation on ECG is experiencing a transmural myocardial infarction. He should be given Nitroglycerin and Aspirin immediately; aspirin limits further thrombosis by inhibiting platelet aggregation, while nitroglycerin vasodilates veins and coronary arteries to minimize ischemia
+Tags: Auxiliary Subjects, Minors
+
+Question: The antiarrhythmic drug that primarily belongs to group 3 (potassium channel blocker):
+Options:
+a) Adenosine
+c) Amiodarone
+b) Quinidine
+d) Acebutalol
+Correct Option:
+Ans. Amiodarone
+Explanation: Amiodarone is the correct answer for the final question as it is the most efficacious Group 3 antiarrhythmic drug, acting primarily as a potassium channel blocker that prolongs the action potential duration and the effective refractory period. Quinidine is Group 1A, Adenosine is miscellaneous, and Acebutalol is Group 2.
+Tags: Auxiliary Subjects, Minors

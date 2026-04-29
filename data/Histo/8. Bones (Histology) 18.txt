@@ -1,0 +1,197 @@
+Question: The periosteum is firmly attached to compact bone by:
+Options:
+a) Processes from endosteal osteocytes
+b) Fibers from Volkmann's canals
+c) Outer circumferential lamellae
+d) Sharpey's fibers
+Correct Option:
+Ans. Sharpey's fibers
+Explanation: The periosteum is anchored to the bone by Sharpey’s fibers. These are thick bundles of Type I collagen that extend from the fibrous layer of the periosteum and "pin" themselves into the outer circumferential lamellae of the bone matrix.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: A principal difference between spongy and compact bone is the:
+Options:
+a) Composition of the amorphous ground substance
+b) Amount of collagen in the matrix
+c) Presence or absence of osseous lamellae
+d) Ratio of bone matrix to soft tissue spaces
+Correct Option:
+Ans. Ratio of bone matrix to soft tissue spaces
+Explanation: The primary difference lies in the ratio of matrix to soft tissue. Compact bone is a dense mass with only tiny vascular canals, while spongy (cancellous) bone is a light network of thin trabeculae with large, marrow-filled spaces between them.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: What is the space that an osteocyte rests in:
+Options:
+a) Canaliculi
+b) Sharpey's fibers
+c) Trabeculae
+d) Lacuna
+Correct Option:
+Ans. Lacuna
+Explanation: An osteocyte (a mature bone cell) resides in a small, fluid-filled space called a lacuna. Because the surrounding bone matrix is calcified and hard, the cell must sit in this "little lake" to survive and maintain the surrounding tissue.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Which of the following descriptions is a characteristic of cancellous bone:
+Options:
+a) Composed of parallel bony columns
+b) Thin and flat
+c) Composed of a network of trabeculae
+d) Contains canals
+Correct Option:
+Ans. Composed of a network of trabeculae
+Explanation: Cancellous bone is defined by its porous, honeycombed appearance. It consists of a branching network of bony spicules called trabeculae, which are oriented along lines of mechanical stress to provide strength without adding excessive weight.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: During intramembranous ossification, ossification first begins in:
+Options:
+a) Cartilage
+b) Bone
+c) Mesenchyme
+d) Irregular connective tissue
+Correct Option:
+Ans. Mesenchyme
+Explanation: In intramembranous ossification, bone develops directly within a sheet of vascular mesenchyme. Mesenchymal cells cluster together, differentiate into osteoblasts, and begin secreting osteoid without ever forming a cartilage model first.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Which cell is the mature bone cell:
+Options:
+a) Chondrocyte
+b) Chondroblast
+c) Osteocyte
+d) Osteoclast
+Correct Option:
+Ans. Osteocyte
+Explanation: The osteocyte is the mature cell of bone tissue. Once an osteoblast becomes completely surrounded by the mineralized matrix it secreted, it transforms into an osteocyte, which acts as a "mechanosensor" to regulate bone maintenance.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: What is the primary component of yellow marrow:
+Options:
+a) Cartilage
+b) Fat
+c) Hematopoietic tissue
+d) Fibrous tissue
+Correct Option:
+Ans. Fat
+Explanation: Yellow bone marrow is the inactive form of marrow found in the medullary cavities of adult long bones. It is primarily composed of adipocytes (fat cells), serving as a site for energy storage rather than blood cell production.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: The two most abundant inorganic components of bone matrix are:
+Options:
+a) Calcium carbonate and sodium citrate
+b) Magnesium sulfate and calcium sulfate
+c) Calcium phosphate and calcium carbonate
+d) Fluoride and magnesium carbonate
+Correct Option:
+Ans. Calcium phosphate and calcium carbonate
+Explanation: Bone is hard because its organic matrix is impregnated with inorganic salts. The most abundant are calcium phosphate (mostly in the form of hydroxyapatite crystals) and calcium carbonate, which together account for about 65% of the bone's weight.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: The Haversian canals of bone tissue:
+Options:
+a) Contain chondrocytes
+b) Are not common in spongy bone trabeculae
+c) Form the central structures of a Haversian system
+d) Run perpendicular to the long axis of the bone
+Correct Option:
+Ans. Form the central structures of a Haversian system
+Explanation: The Haversian canal is the central axis of an osteon. It runs longitudinally through the bone and contains the blood vessels, nerves, and lymphatics that provide the life-support system for the surrounding concentric lamellae.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Haversian canals are linked by:
+Options:
+a) Volkmann's canal
+b) Lacunae
+c) Periosteum
+d) Osteon
+Correct Option:
+Ans. Volkmann's canal
+Explanation: Volkmann’s canals (perforating canals) run perpendicular to the long axis of the bone. They serve as "cross-links" that connect Haversian canals to each other and to the blood supply of the periosteum and marrow cavity.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Variety of bone cells most commonly involved in primary carcinoma of bone "Osteosarcoma":
+Options:
+a) Osteoclasts
+b) Osteoblasts
+c) Osteocytes
+d) Osteoprogenitor cells
+Correct Option:
+Ans. Osteoblasts
+Explanation: Osteosarcoma is a highly malignant primary bone tumor. It originates from the osteoblasts, the bone-forming cells. The hallmark of this cancer is the production of disorganized, malignant "osteoid" (unmineralized bone matrix) by the tumor cells.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Growth in the diameter of a long bone is due to:
+Options:
+a) Interstitial expansion of cartilage within the epiphyseal plate
+b) Bone synthesis by the endosteum
+c) Bone deposition by the periosteum
+d) Secondary ossification centers
+Correct Option:
+Ans. Bone deposition by the periosteum
+Explanation: Growth in the thickness of a bone is called appositional growth. It occurs when osteoblasts in the inner layer of the periosteum deposit new layers of bone onto the outer surface, while osteoclasts usually resorb bone from the inside to enlarge the marrow cavity.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: "Soft Callus" that is formed after bone fracture is composed of:
+Options:
+a) Fibrocartilage
+b) Elastic cartilage
+c) Articular cartilage
+d) Compact Bone
+Correct Option:
+Ans. Fibrocartilage
+Explanation: After a fracture, a procallus is formed, which then matures into a soft callus. This temporary bridge is primarily composed of fibrocartilage, which provides enough stability to hold the bone ends together until it can be replaced by hard bone.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: What is the function of osteoclasts lying in Howship lacunae after 1 week of bone fracture:
+Options:
+a) Bone resorption
+b) Mineralization of osteoid
+c) Production of osteoid
+d) Formation of soft callus
+Correct Option:
+Ans. Bone resorption
+Explanation: Osteoclasts are large, multinucleated cells responsible for bone resorption. During fracture repair, they sit in shallow depressions called Howship lacunae and use acids and enzymes to clear away dead bone fragments and debris.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: In "Rickets & Osteomalacia" there is osteoid formation but there is no mineralization of osteoid. Keeping in view the functions of bone cells, which cells are actually pathologic:
+Options:
+a) Osteoblasts
+b) Osteoclasts
+c) Osteocytes
+d) Osteoprogenitor cells
+Correct Option:
+Ans. Osteoblasts
+Explanation: In Rickets (children) and Osteomalacia (adults), the osteoblasts are pathologic in their function. They successfully produce the organic osteoid, but because of a lack of Vitamin D or Calcium, they are unable to mineralize it, resulting in soft, bowed bones.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Which component of bone impedes the distribution of nutrients and oxygen to osteocytes:
+Options:
+a) Extracellular matrix
+b) Canaliculi
+c) Periosteum
+d) Haversian canals
+Correct Option:
+Ans. Extracellular matrix
+Explanation: The mineralized extracellular matrix of bone is dense and stone-like, which impedes the free diffusion of nutrients. This is why bone must have an elaborate system of canals (Haversian systems and canaliculi) to deliver oxygen to its cells.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: Which of the following most accurately describes compact bone:
+Options:
+a) Predominant bone type in the epiphyses of adult long bones
+b) Also known as cancellous bone
+c) Characterized by the presence of osteons
+d) Lines the medullary (marrow) cavity
+Correct Option:
+Ans. Characterized by the presence of osteons
+Explanation: Compact (cortical) bone is the dense outer shell of all bones. Histologically, its defining characteristic is the presence of osteons (Haversian systems), which are cylinders of concentric lamellae that provide immense structural strength.
+Tags: Histology, Block 2, Bones, Histology of Bones
+
+Question: In healthy bone canaliculi are likely to contain which one of the following:
+Options:
+a) Capillaries
+b) Osteocytic processes
+c) Osteoid
+d) Osteoclasts in resorption lacunae
+Correct Option:
+Ans. Osteocytic processes
+Explanation: Canaliculi are tiny, thread-like tunnels that radiate from lacunae. They contain the cytoplasmic processes of osteocytes, which reach out to touch neighboring cells, allowing for the exchange of nutrients and chemical signals via gap junctions.
+Tags: Histology, Block 2, Bones, Histology of Bones

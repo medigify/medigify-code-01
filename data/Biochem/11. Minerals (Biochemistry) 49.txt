@@ -1,0 +1,587 @@
+Question: Copper is transported in blood firmly bound to:
+Options:
+a) Transferrin
+b) Ceruloplasmin
+c) Albumin
+d) Alpha 2 macroglobulin
+e) Haemoglobin
+Correct Option:
+Ans. Ceruloplasmin
+Explanation:  Most plasma copper is transported by Ceruloplasmin, a copper-binding protein synthesized in the liver. About 90–95% of circulating copper is firmly bound to ceruloplasmin. This protein also has ferroxidase activity, helping iron metabolism. Only small fraction of copper circulates loosely bound to albumin.
+Tags: Biochemistry
+
+Question: Which of following mineral increases the effect of insulin:
+Options:
+a) Calcium
+b) Chromium
+c) Manganese
+d) Molybdenum
+e) Selenium
+Correct Option:
+Ans. Chromium
+Explanation:  Chromium enhances the action of insulin on target tissues. It forms part of the glucose tolerance factor (GTF). This factor improves insulin receptor activity and facilitates glucose. Deficiency may lead to impaired glucose tolerance.
+Tags: Biochemistry
+
+Question: All of the following are macro-minerals except:
+Options:
+a) Calcium
+b) Iron
+c) Phosphorus
+d) Sodium
+e) Magnesium
+Correct Option:
+Ans. Iron
+Explanation: Macrominerals are required in >100 mg/day in the diet. Examples include calcium, phosphorus, sodium, magnesium, and potassium. Iron is needed in much smaller amounts. Therefore, iron is classified as a trace element (micromineral).
+Tags: Biochemistry
+
+Question: Tetany is caused by:
+Options:
+a) Decrease in the serum phosphate level
+b) Decrease in the total serum calcium level
+c) Decrease in the ionized serum calcium level
+d) Increase in the serum calcium level
+e) Increase in the serum phosphate level
+Correct Option:
+Ans. Decrease in the ionized serum calcium level
+Explanation:  Tetany results from low levels of ionized calcium, the physiologically active form. Ionized calcium stabilizes neuronal membranes. When its level falls, nerve excitability increases, causing muscle spasms. Thus, hypocalcemia leads to tetany and neuromuscular irritability.
+Tags: Biochemistry
+
+Question: Physiologically active form of calcium Is:
+Options:
+a) Complexed calcium
+b) Ionized calcium
+c) Protein bound calcium
+d) Bound with calmodulin
+e) Hydroxyapatite form
+Correct Option:
+Ans. Ionized calcium
+Explanation:  Calcium in plasma exists in three forms: ionized, protein-bound, and complexed. Only Calcium in ionized form is biologically active. It participates in muscle contraction, nerve transmission, and blood coagulation.
+Tags: Biochemistry
+
+Question: In hemochromatosis, the liver is infiltrated with:
+Options:
+a) Copper
+b) Iron
+c) Magnesium
+d) Zinc
+e) Selenium
+Correct Option:
+Ans. Iron
+Explanation:  Hemochromatosis is a disorder of excessive iron absorption. Large amounts of Iron accumulate in tissues, especially liver, pancreas, and heart. The stored iron damages cells through oxidative stress. This may lead to cirrhosis, diabetes, and skin pigmentation.
+Tags: Biochemistry
+
+Question: Regarding Wilson's disease followings are true EXCEPT:
+Options:
+a) Low total plasma Cu
+b) Elevated urinary Cu
+c) Aminoaciduria
+d) Low Ceruloplasmin levels
+e) Osteoporosis
+Correct Option:
+Ans. Aminoaciduria
+Explanation:  Wilson's disease is caused by defective copper excretion from the liver. Patients have low ceruloplasmin and increased urinary copper excretion. Total plasma copper is usually reduced because ceruloplasmin is low. Aminoaciduria is not a typical biochemical feature.
+Tags: Biochemistry
+
+Question: All of following are the features of Cu deficiency EXCEPT:
+Options:
+a) Loss of weight
+b) Microcytic hypochromic Anemia
+c) Diarrhoea
+d) Greying of Hair
+e) Dermatitis
+Correct Option:
+Ans. Dermatitis
+Explanation:  Copper deficiency may cause microcytic hypochromic anemia due to impaired iron metabolism. Other findings include weight loss, diarrhea, and hair depigmentation. These occur because copper is needed for several oxidative enzymes.
+Tags: Biochemistry
+
+Question: Which of the following trace element can act as anti oxidant:
+Options:
+a) Magnesium
+b) Calcium
+c) Iron
+d) Florine
+e) Selenium
+Correct Option:
+Ans. Selenium
+Explanation:  Selenium is a component of glutathione peroxidase. This enzyme protects cells from oxidative damage by hydrogen peroxide. Thus, selenium acts as an important antioxidant trace element. It also helps protect cell membranes from free radicals.
+Tags: Biochemistry
+
+Question: Which of the following protein is required for transport of iron:
+Options:
+a) Ceruloplasmin
+b) Transferrin
+c) Ferritin
+d) Albumin
+e) Iron binding protein
+Correct Option:
+Ans. Transferrin
+Explanation: Transferrin is the main iron transport protein in plasma. It binds ferric iron (Fe³⁺) and carries it to tissues. Cells take up the transferrin–iron complex through specific receptors. This ensures safe transport without free iron toxicity.
+Tags: Biochemistry
+
+Question: Plasma calcium phosphorus are decreased in:
+Options:
+a) Osteomalacia
+b) Hyper parathyroidism
+c) Hyper vitamin D
+d) Calcification
+e) None of the above
+Correct Option:
+Ans. Osteomalacia
+Explanation: Osteomalacia results from vitamin D deficiency in adults. Vitamin D deficiency decreases intestinal absorption of calcium and phosphate. As a result, both plasma calcium and phosphorus levels may fall.
+Tags: Biochemistry
+
+Question: Iron is stored in the form of:
+Options:
+a) Ferritin & transferrin
+b) Transferring & hemosiderin
+c) Haemoglobin & myoglobin
+d) Ferritin & hemosiderin
+e) Cytochrome & catalyses
+Correct Option:
+Ans. Ferritin & hemosiderin
+Explanation: Body iron is mainly stored as Ferritin and Hemosiderin. Ferritin is a soluble storage protein found in liver, spleen, and bone marrow. Hemosiderin is an insoluble storage form seen when iron levels are high. Both forms help maintain iron reserve for hemoglobin synthesis.
+Tags: Biochemistry
+
+Question: Intestinal absorption of calcium is hampered by:
+Options:
+a) Phosphate
+b) Phytate
+c) Proteins
+d) Lactose
+e) Oxalates
+Correct Option:
+Ans. Phytate
+Explanation: Phytate present in cereals binds calcium in the intestine. This forms insoluble complexes that cannot be absorbed. As a result, dietary calcium availability decreases. Thus, phytate acts as an anti-nutritional factor for calcium absorption.
+Tags: Biochemistry
+
+Question: Muscle weakness, paralysis and mental confusion are the deficiency manifestations of:
+Options:
+a) Calcium
+b) Chloride
+c) Phosphorous
+d) Potassium
+e) Sodium
+Correct Option:
+Ans. Potassium
+Explanation: Potassium is the major intracellular cation. It plays a crucial role in membrane potential and nerve conduction. Low potassium (hypokalemia) causes muscle weakness, paralysis, and confusion. Severe deficiency may also lead to cardiac arrhythmias.
+Tags: Biochemistry
+
+Question: Hypocalcaemia affects:
+Options:
+a) Cardiac muscle only
+b) Skeletal muscles only
+c) Smooth muscles only
+d) Skeletal and smooth muscles
+e) Cardiac, skeletal and smooth muscle
+Correct Option:
+Ans. Cardiac, skeletal and smooth muscle
+Explanation: Calcium is essential for muscle contraction in all muscle types. Low calcium increases neuromuscular excitability. This can produce tetany, muscle spasms, and cardiac rhythm disturbances. Therefore, hypocalcemia affects skeletal, smooth, and cardiac muscle.
+Tags: Biochemistry
+
+Question: All the following are good sources of iron EXCEPT:
+Options:
+a) Kidney
+b) Liver
+c) Meat
+d) Milk
+e) None of these
+Correct Option:
+Ans. Milk
+Explanation: Foods rich in iron include liver, kidney, and meat. These contain heme iron, which is easily absorbed. Milk contains very little iron, making it a poor source. This is why infants relying only on milk may develop iron deficiency anemia.
+Tags: Biochemistry
+
+Question: The element that prevents the development of dental caries is:
+Options:
+a) Calcium
+b) Fluorine
+c) Iodine
+d) Phosphorous
+e) Selenium
+Correct Option:
+Ans. Fluorine
+Explanation: Fluorine strengthens tooth enamel by forming fluorapatite. Fluorapatite is more resistant to acid produced by oral bacteria. This reduces enamel demineralization. Therefore, fluorine helps prevent dental caries.
+Tags: Biochemistry
+
+Question: The mineral having Vitamin E sparing action is:
+Options:
+a) Chromium
+b) Copper
+c) Iron
+d) Selenium
+e) Zinc
+Correct Option:
+Ans. Selenium
+Explanation: Selenium works together with vitamin E in antioxidant defense. Both protect cell membranes from lipid peroxidation. When selenium is adequate, the requirement for vitamin E decreases. Hence selenium shows a vitamin E–sparing effect.
+Tags: Biochemistry
+
+Question: Magnesium has the following biochemical functions in the body except:
+Options:
+a) Acts as cofactor for enzymes requiring ATP
+b) Lowers the neuromuscular irritability
+c) Increases the sensitivity of Insulin
+d) Helps in the formation of bones & teeth
+e) Is an essential component of Nucleotide
+Correct Option:
+Ans. Is an essential component of Nucleotide
+Explanation: Magnesium acts as a cofactor for many ATP-dependent enzymes. It also helps in bone formation and neuromuscular regulation. Magnesium can influence insulin sensitivity. However, it is not a structural component of nucleotides.
+Tags: Biochemistry
+
+Question: All of the following are macro-minerals except:
+Options:
+a) Calcium
+b) Iron
+c) Phosphorus
+d) Sodium
+e) Magnesium
+Correct Option:
+Ans. Iron
+Explanation: Macrominerals are required in large amounts in the body. Examples include calcium, phosphorus, sodium, and magnesium. Iron is needed in much smaller amounts. Therefore, it is classified as a trace mineral rather than a macromineral.
+Tags: Biochemistry
+
+Question: Zinc is part of the structure of enzyme:
+Options:
+a) Carboxypeptidase
+b) Pepsin
+c) Aminopeptidase
+d) Carbonic Anhydrase
+e) Cytochrome Oxidase
+Correct Option:
+Ans. Carbonic Anhydrase
+Explanation: Zinc is an essential component of several metalloenzymes. One important enzyme is Carbonic anhydrase, which catalyzes the reversible conversion of CO₂ and water to carbonic acid. Zinc at the enzyme’s active site helps in rapid hydration of carbon dioxide.
+Tags: Biochemistry
+
+Question: Calcium activates most of the enzymes by binding with the protein:
+Options:
+a) Calbindin
+b) Transferrin
+c) Calmodulin
+d) Troponin C
+e) cAMP
+Correct Option:
+Ans. Calmodulin
+Explanation: Calmodulin is a calcium-binding regulatory protein. When Calcium binds to calmodulin, the complex activates many enzymes. These include enzymes involved in muscle contraction, metabolism, and signal transduction. Thus, calcium acts as a second messenger through calmodulin.
+Tags: Biochemistry
+
+Question: Iron is better absorbed:
+Options:
+a) In acidic medium
+b) In alkaline medium
+c) In presence of phytic acid
+d) In presence of Antacids
+e) In Neutral Ph
+Correct Option:
+Ans. In acidic medium
+Explanation: Iron absorption occurs mainly in the duodenum. An acidic environment converts ferric iron (Fe³⁺) to ferrous iron (Fe²⁺), which is more easily absorbed. Gastric acid and vitamin C enhance this process.
+Tags: Biochemistry
+
+Question: Acrodermatitis Enteropathica is caused by:
+Options:
+a) Copper deficiency
+b) Zinc deficiency
+c) Calcium deficiency
+d) Magnesium deficiency
+e) Iodine deficiency
+Correct Option:
+Ans. Zinc deficiency
+Explanation: Acrodermatitis enteropathica is a genetic disorder of impaired zinc absorption. It leads to severe deficiency of Zinc. Symptoms include dermatitis, alopecia, diarrhea, and growth retardation. Treatment involves lifelong zinc supplementation.
+Tags: Biochemistry
+
+Question: Iron in the mucosal cells binds with the protein:
+Options:
+a) Transferrin
+b) Ferritin
+c) Ceruloplasmin
+d) Hemosiderin
+e) Calmodulin
+Correct Option:
+Ans. Ferritin
+Explanation: In intestinal mucosal cells, absorbed iron is temporarily stored as Ferritin. Ferritin acts as an intracellular iron storage protein. When needed, iron is released and transported in blood by transferrin. This mechanism helps regulate iron absorption and prevent toxicity.
+Tags: Biochemistry
+
+Question: The mineral required as a constituent of Vitamin B12:
+Options:
+a) Iron
+b) Chromium
+c) Silicon
+d) Cobalt
+e) Zinc
+Correct Option:
+Ans. Cobalt
+Explanation: Cobalt forms the central metal ion of Vitamin B12 (cobalamin). The cobalt atom is essential for the biological activity of the vitamin. Vitamin B12 participates in DNA synthesis and red blood cell formation. Deficiency leads to megaloblastic anemia and neurological disorders.
+Tags: Biochemistry
+
+Question: The mineral which is important for the antioxidant capabilities of Vitamin E is:
+Options:
+a) Iron
+b) Chromium
+c) Silicon
+d) Zinc
+e) Selenium
+Correct Option:
+Ans. Selenium
+Explanation: Selenium is a component of glutathione peroxidase. This enzyme works with vitamin E to protect cells from oxidative damage. Both prevent lipid peroxidation of cell membranes. Therefore, selenium enhances the antioxidant effect of vitamin E.
+Tags: Biochemistry
+
+Question: Molybdenum is a component of:
+Options:
+a) Aconitase
+b) Carbonic Anhydrase
+c) Cytochrome Oxidase
+d) Hexokinase
+e) Xanthine Oxidase
+Correct Option:
+Ans.  Xanthine Oxidase
+Explanation: Molybdenum acts as a cofactor for certain oxidase enzymes. One important enzyme is Xanthine oxidase. This enzyme participates in purine metabolism, converting xanthine to uric acid. Thus, molybdenum plays a role in nitrogen compound metabolism.
+Tags: Biochemistry
+
+Question: Highest concentration of chloride is in:
+Options:
+a) Plasma
+b) RBCs
+c) Stool
+d) Urine
+e) CSF
+Correct Option:
+Ans. CSF
+Explanation: Chloride is the major extracellular anion. Its concentration is especially high in cerebrospinal fluid (CSF) compared with plasma. This helps maintain osmotic balance and electrical neutrality in the nervous system. Chloride also participates in acid–base regulation.
+Tags: Biochemistry
+
+Question: Clitomium is essential because it:
+Options:
+a) Catalyses oxidative processes
+b) Stops oxidative processes
+c) Acts as antioxidant
+d) Potentiates insulin action
+e) Reduces ferric to ferrous form
+Correct Option:
+Ans. Potentiates insulin action
+Explanation: Chromium enhances the activity of insulin. It forms part of the glucose tolerance factor (GTF). This factor increases insulin receptor efficiency and glucose uptake by cells. Chromium deficiency may lead to impaired glucose tolerance.
+Tags: Biochemistry
+
+Question: The absorption of iron is decreased by the deficiency of:
+Options:
+a) Vitamin A
+b) Vitamin D
+c) Thiamine
+d) Vitamin B12
+e) Folic acid
+Correct Option:
+Ans. Vitamin B12
+Explanation: Vitamin B12 is essential for normal RBC production. Deficiency causes megaloblastic anemia and impaired hematopoiesis. When erythropoiesis is reduced, the body’s demand for iron decreases. Consequently, intestinal iron absorption is reduced.
+Tags: Biochemistry
+
+Question: Rennin acts on casein of milk in infants in presence of:
+Options:
+a) Mg
+b) Zn
+c) Co
+d) Ca
+e) Mn
+Correct Option:
+Ans. Ca
+Explanation: Rennin (chymosin) is present in the stomach of infants. It converts milk casein into insoluble calcium paracaseinate. This reaction requires Calcium ions. The process allows slower digestion of milk proteins in infants.
+Tags: Biochemistry
+
+Question: Which of the following minerals is required as a constituent of vitamin B12:
+Options:
+a) Iron
+b) Calcium
+c) Cobalt
+d) Manganese
+e) Magnesium
+Correct Option:
+Ans. Cobalt
+Explanation: The core structure of Vitamin B12 contains a cobalt ion. This metal forms part of the corrin ring of cobalamin. It is essential for the vitamin’s coenzyme activity in metabolism. Thus, cobalt is the key mineral component of B12.
+Tags: Biochemistry
+
+Question: Cobalt is found in:
+Options:
+a) Riboflavin
+b) Tocopherol
+c) Vitamin B12
+d) Vitamin B6
+e) Vitamin B1
+Correct Option:
+Ans. Vitamin B12
+Explanation: Cobalt occurs naturally as part of Vitamin B12.No other vitamin contains a metal ion like cobalt. This vitamin is crucial for DNA synthesis and nervous system function. Deficiency leads to megaloblastic anemia.
+Tags: Biochemistry
+
+Question: Which one of the following is likely to be deficient in Wilson's disease:
+Options:
+a) Calcium
+b) Copper
+c) Ceruloplasmin
+d) Iron
+e) Zinc
+Correct Option:
+Ans. Ceruloplasmin
+Explanation: Wilson's disease is caused by defective copper metabolism. Patients show low levels of Ceruloplasmin, the copper-carrying protein in blood. Copper accumulates in liver, brain, and cornea. This causes hepatic and neurological symptoms.
+Tags: Biochemistry
+
+Question: Which of the following statement is NOT CORRECT for sodium:
+Options:
+a) A buffer constituent
+b) Excess leads to hypertension cell
+c) Involved in cell membrane permeability
+d) Principal extracellular cation
+e) Principal intracellular cation
+Correct Option:
+Ans. Principal intracellular cation
+Explanation: Sodium is the principal extracellular cation. It maintains osmotic pressure and fluid balance. Sodium also plays a role in nerve impulse transmission and membrane permeability. The principal intracellular cation is potassium, not sodium.
+Tags: Biochemistry
+
+Question: All of the following statements about Zinc are correct EXCEPT:
+Options:
+a) A constituent of DNA polymerase
+b) Acts as an antioxidant
+c) Deficiency causes hair loss
+d) Helps in wound healing
+e) Required for secretion of insulin
+Correct Option:
+Ans. Acts as an antioxidant
+Explanation: Zinc is a component of many enzymes such as DNA polymerase. It is important for wound healing, growth, and insulin storage in pancreas. Zinc deficiency can cause hair loss and impaired immunity. However, it is not primarily classified as an antioxidant trace element.
+Tags: Biochemistry
+
+Question: The following are true regarding Mg except:
+Options:
+a) Deficiency causes depression of neuromuscular transmission
+b) Serum level is 2-4 mg/dl
+c) Hypomagnesemia is seen in Addison’s disease
+d) About 70% of total Mg is found bones
+e) It is a cofactor for certain enzymes
+Correct Option:
+Ans. Hypomagnesemia is seen in Addison’s disease
+Explanation: Magnesium is mostly stored in bones (~60–70%). Normal serum levels are about 2–4 mg/dL. It acts as a cofactor for many ATP-dependent enzymes and affects neuromuscular function. Addison’s disease does not typically cause hypomagnesemia.
+Tags: Biochemistry
+
+Question: Copper is transported in blood bound to:
+Options:
+a) Transferrin
+b) Ceruloplasmin
+c) Albumin
+d) Alpha 2 macroglobulin
+e) Haemoglobin
+Correct Option:
+Ans. Ceruloplasmin
+Explanation: Most plasma Copper is bound to Ceruloplasmin. This protein is synthesized in the liver. It transports copper safely in circulation and participates in iron metabolism. Only a small fraction of copper is loosely bound to albumin.
+Tags: Biochemistry
+
+Question: Menke's disease is due abnormality in the metabolism of:
+Options:
+a) Iron
+b) Manganese
+c) Magnesium
+d) Copper
+e) Zinc
+Correct Option:
+Ans. Copper
+Explanation: Menkes disease is a genetic disorder of defective copper absorption and transport. This results in severe copper deficiency in tissues. Patients show kinky hair, neurological impairment, and growth failure. The disease is caused by mutation in a copper-transporting ATPase gene.
+Tags: Biochemistry
+
+Question: Sulphur is made available to the body by the amino acids:
+Options:
+a) Cystine and methionine
+b) Taurine and alanine
+c) Proline and Hydroxyproline
+d) Arginine and lysine
+e) Leucine and isoleucine
+Correct Option:
+Ans. Cystine and methionine
+Explanation: Sulfur in the body mainly comes from sulfur-containing amino acids. Methionine and Cystine provide sulfur for synthesis of many compounds. These include glutathione, coenzyme A, and taurine. They also contribute to disulfide bonds in proteins, which stabilize protein structure.
+Tags: Biochemistry
+
+Question: Iron is stored in excess amount as:
+Options:
+a) Haemosiderin
+b) Ferritin
+c) Myoglobin
+d) Transferrin
+e) Haemoglobin
+Correct Option:
+Ans. Hemosiderin
+Explanation: Iron is stored mainly as Ferritin under normal conditions. When iron is present in excess, ferritin aggregates to form Hemosiderin. Hemosiderin is an insoluble storage form found in liver, spleen, and bone marrow. Large deposits are seen in disorders like iron overload or hemochromatosis.
+Tags: Biochemistry
+
+Question: Increased absorption of copper from small intestine is seen in:
+Options:
+a) Thalassemia
+b) Beri Beri
+c) Pellagra
+d) Hartnup's disease
+e) Wilson's disease
+Correct Option:
+Ans. Wilson's disease
+Explanation:  Wilson's disease is caused by defective copper excretion from the liver. Because copper cannot be properly eliminated in bile, intestinal absorption increases. Copper accumulates in liver, brain, and cornea. Patients also have low ceruloplasmin levels in blood.
+Tags: Biochemistry
+
+Question: The normal range of plasma calcium is:
+Options:
+a) 9-11 mg/dl
+b) 3-5 mg/dl
+c) 5-10 mg/dl
+d) 11-15 mg/dl
+e) 10-15 mg/dl
+Correct Option:
+Ans. 9-11 mg/dl
+Explanation: Normal plasma Calcium concentration is about 9–11 mg/dL. About 50% is ionized, which is the physiologically active form. The rest is protein-bound or complexed with anions. Calcium levels are regulated by parathyroid hormone, vitamin D, and calcitonin.
+Tags: Biochemistry
+
+Question: The deficiency of which of the following minerals might lead to paralytic ileus:
+Options:
+a) Chlorine
+b) Chromium
+c) Magnesium
+d) Potassium
+e) Sodium
+Correct Option:
+Ans. Potassium
+Explanation: Potassium is essential for normal muscle contraction and nerve transmission. Deficiency (hypokalemia) reduces smooth muscle activity in the intestine. This can lead to intestinal paralysis called paralytic ileus. Severe hypokalemia also causes muscle weakness and cardiac arrhythmias.
+Tags: Biochemistry
+
+Question: Zinc is present as a cofactor in:
+Options:
+a) Aldolase
+b) Amylase
+c) Carbonic anhydrase
+d) Ceruloplasmin
+e) Catalase
+Correct Option:
+Ans. Carbonic anhydrase
+Explanation: Zinc functions as a structural or catalytic cofactor for many enzymes. A classic example is Carbonic anhydrase. This enzyme catalyzes the conversion of carbon dioxide to carbonic acid. It is important for CO₂ transport and acid–base balance in blood.
+Tags: Biochemistry
+
+Question: Which of the factors promotes calcium absorption:
+Options:
+a) Fatty acid malabsorption
+b) Low citric acid
+c) Low pH
+d) Low protein diet
+e) Phytic acid
+Correct Option:
+Ans. Low pH
+Explanation: Calcium absorption occurs mainly in the duodenum. An acidic environment (low pH) keeps calcium in a soluble ionized form. This improves intestinal absorption of Calcium. Alkaline conditions or compounds like phytates decrease absorption.
+Tags: Biochemistry
+
+Question: Menke's disease is due to an abnormality in the metabolism of:
+Options:
+a) Iron
+b) Manganese
+c) Magnesium
+d) Copper
+e) Zinc
+Correct Option:
+Ans. Copper
+Explanation: Menkes disease is a genetic disorder affecting copper transport. Defective intestinal absorption leads to systemic copper deficiency. This impairs enzymes that require Copper as a cofactor. Symptoms include kinky hair, neurological deterioration, and growth retardation.
+Tags: Biochemistry
+
+Question: Which of the following should be added regularly in traces to diet to avoid dental caries:
+Options:
+a) Chloride
+b) Fluoride
+c) Bromide
+d) Iodide
+e) Calcium
+Correct Option:
+Ans. Fluoride
+Explanation: Fluoride strengthens tooth enamel by forming fluorapatite. Fluorapatite is more resistant to acid produced by oral bacteria. This reduces enamel demineralization and prevents dental caries. Therefore, small amounts of fluoride are commonly added to drinking water or toothpaste.
+Tags: Biochemistry

@@ -1,0 +1,707 @@
+Question: Which of the following fatty acids is saturated:
+Options:
+a) Arachidonic acid
+b) Oleic acid
+c) Palmitic acid
+d) Linoleic acid
+e) Palmito oleic
+Correct Option:
+Ans. Palmitic acid
+Explanation: Palmitic acid is a saturated fatty acid consisting of 16 carbons with no double bonds in its hydrocarbon chain. Arachidonic, oleic, linoleic, and palmitoleic acids are all unsaturated because they contain one or more double bonds (saturated fatty acids contain no double bonds).
+Tags: Biochemistry
+
+Question: Energy yielded by 1 gram of lipids (kcal/g):
+Options:
+a) 3.5
+b) 4.5
+c) 6.5
+d) 7.5
+e) 9.5
+Correct Option:
+Ans. 9.5 kcal/g
+Explanation: Lipids are the most energy-dense macronutrient, yielding approximately 9.5 kcal/g of energy. Carbohydrates and proteins provide significantly less energy, roughly 4 kcal/g.
+Tags: Biochemistry
+
+Question: A nitrogenous base in sphingomyelin is:
+Options:
+a) Choline
+b) Sphingol
+c) Ceramide
+d) Glycerol
+e) Lecithin
+Correct Option:
+Ans. Choline
+Explanation: Sphingomyelin is composed of a ceramide unit linked to a phosphorylcholine group. While sphingol (sphingosine) forms the backbone, the specific nitrogenous base attached via the phosphate group is choline. Glycerol and lecithin are incorrect because they belong to different lipid classes or represent the entire molecule.
+Tags: Biochemistry
+
+Question: Simple lipids are called simple lipids because these lipids:
+Options:
+a) Are easily digestible
+b) Are made up of fatty acids & alcohols only
+c) Are smaller in size
+d) Axe straight in shape
+e) Can be hydrolyzed easily
+Correct Option:
+Ans. Are made up of fatty acids and alcohols only
+Explanation: Simple lipids are defined by their chemical formula and components. They do not contain any additional groups (like phosphates or carbohydrates), and are composed only of fatty acids and alcohols. While the other options may be true for certain simple lipids, they do not encompass the most accurate definition.
+Tags: Biochemistry
+
+Question: When choline of lecithin is replaced by ethanolamine the product is:
+Options:
+a) Cephalin
+b) Lysolecithin
+c) Phosphatidic acid
+d) Plasmalogen
+e) Sphingomyelin
+Correct Option:
+Ans. Cephalin
+Explanation: When the choline group in lecithin is replaced with ethanolamine, the molecule becomes cephalin. Sphingomyelin and plasmalogens involve different backbones or linkages entirely.
+Tags: Biochemistry
+
+Question: Sphingosine is an alcohol present in many of the compound lipids. It is present in all of the following except:
+Options:
+a) Lecithin
+b) Cerebrosides
+c) Ganglioside
+d) Sphingomyelin
+e) Ceramide
+Correct Option:
+Ans. Lecithin
+Explanation: Sphingosine is the amino alcohol backbone for sphingolipids like cerebrosides, gangliosides, and sphingomyelin. Lecithin is the exception because it is a glycerophospholipid, meaning it uses a glycerol backbone instead of sphingosine. Ceramide is simply the combination of sphingosine and a fatty acid.
+Tags: Biochemistry
+
+Question: All of the following are examples of saturated fatty acids except:
+Options:
+a) Palmitic acid
+b) Arachidic acid
+c) Caproic acid
+d) Arachidonic acid
+e) Stearic acid
+Correct Option:
+Ans. Arachidonic acid
+Explanation: Palmitic, arachidic, caproic, and stearic acids are all saturated chains with no double bonds. Arachidonic acid is the outlier as a polyunsaturated fatty acid containing four double bonds. This makes it a precursor for eicosanoids rather than a simple storage fat.
+Tags: Biochemistry
+
+Question: Fatty acids are obtained from lipids by:
+Options:
+a) Hydrolysis
+b) Oxygenation
+c) Chlorination
+d) Hydrogenation
+e) Hydro-peroxidation
+Correct Option:
+Ans. Hydrolysis
+Explanation: Fatty acids are bound to alcohols (like glycerol) via ester bonds, which are broken through hydrolysis. Hydrogenation and oxygenation involve adding atoms to the chain rather than releasing the acid from the backbone. Chlorination is a chemical reaction not typically used to extract fatty acids from biological lipids.
+Tags: Biochemistry
+
+Question: Cholesterol belongs to which of the following lipids:
+Options:
+a) Simple
+b) Compound
+c) Derived
+d) Conjugated
+e) Complex
+Correct Option:
+Ans. Derived
+Explanation: Derived lipids are produced from the hydrolysis of simple or compound lipids. Cholesterol is formed via such a process, and is hence a derived lipid.
+Tags: Biochemistry
+
+Question: Fats and oils differ from each other with respect to:
+Options:
+a) Length of fatty acid
+b) Saturation of fatty acid
+c) Alcohol
+d) Tri glycerol
+e) Rancidity
+Correct Option:
+Ans. Saturation of fatty acid
+Explanation: The primary difference between fats and oils at room temperature is the degree of saturation in their fatty acids. Fats contain more saturated fatty acids, allowing them to pack tightly as solids, while oils contain more unsaturated acids that remain liquid. Chain length and alcohol type are less significant factors for this specific physical distinction.
+Tags: Biochemistry
+
+Question: Which of the following cannot be attributed to cholesterol as a precursor:
+Options:
+a) Porphyrin
+b) Vitamin D
+c) Androgens
+d) Bile salts
+e) Steroidal hormones
+Correct Option:
+Ans. Porphyrin
+Explanation: Cholesterol is the essential starting material for vitamin D, bile salts, and various steroid hormones like androgens. However, porphyrin is synthesized from glycine and succinyl-CoA, having no metabolic link to cholesterol. Thus, it is the only option that cannot be attributed to a cholesterol precursor.
+Tags: Biochemistry
+
+Question: Lipoic acid is chemically:
+Options:
+a) Saturated linty acid
+b) Unsaturated fatty acid
+c) Sterol
+d) Steroid
+e) Sulphur containing fatty acid
+Correct Option:
+Ans. Sulphur containing fatty acid
+Explanation: Lipoic acid contains Sulphur atoms attached to an eight-carbon fatty acid chain. In addition, it is neither a sterol nor an unsaturated fatty acid.
+Tags: Biochemistry
+
+Question: Which of the following is nitrogen containing lipid:
+Options:
+a) Phosphatidic acid
+b) Lecithin
+c) Cardiolipin
+d) Phosphatidyl inositol
+e) None of them
+Correct Option:
+Ans. Lecithin
+Explanation: Lecithin contains a nitrogen-bearing choline group, making it a nitrogenous lipid. Phosphatidic acid, cardiolipin, and phosphatidylinositol lack nitrogenous bases in their structures.
+Tags: Biochemistry
+
+Question: Which of the following is not a phospholipid:
+Options:
+a) Cephalin
+b) Cerebroside
+c) Lecithin
+d) Plasmalogens
+e) Sphingomyelins
+Correct Option:
+Ans. Cerebroside
+Explanation: Cephalin, lecithin, plasmalogens, and sphingomyelins all contain a phosphate group as part of their structure. Cerebrosides are glycolipids, which means they consist of a sugar (like glucose or galactose) linked to a ceramide backbone without a phosphate group.
+Tags: Biochemistry
+
+Question: Fats are chemically:
+Options:
+a) Fatty acid with alcohol
+b) Water soluble
+c) Insoluble in chloroform
+d) Non esterified glycerol
+e) Esterified glycerol
+Correct Option:
+Ans. Esterified glycerol
+Explanation: Fats, specifically triacylglycerols, are chemically defined as esterified glycerol. They are formed when three fatty acid molecules are esterified to the three hydroxyl groups of a glycerol molecule. They are insoluble in water and non-esterified glycerol would just be free alcohol.
+Tags: Biochemistry
+
+Question: Glycerol is the alcohol present in all of the following EXCEPT:
+Options:
+a) Plasmalogens
+b) Lecithin
+c) Sphingomyelin
+d) Cardiolipin
+e) Cephalin
+Correct Option:
+Ans. Sphingomyelin
+Explanation: Plasmalogens, lecithin, cardiolipin, and cephalin are all glycerolipids, meaning they use glycerol as their backbone. Sphingomyelin is a sphingolipid and uses the amino alcohol sphingosine instead of glycerol.
+Tags: Biochemistry
+
+Question: The nitrogenous base present in lecithin:
+Options:
+a) Choline
+b) Ethanolamine
+c) Inositol
+d) Serine
+e) Sphingosine
+Correct Option:
+Ans. Choline
+Explanation: Lecithin is specifically identified by the presence of choline as its nitrogenous base. Ethanolamine, serine, and inositol are found in other phospholipids like cephalin or phosphatidylinositol. Sphingosine is a backbone, not a base for lecithin.
+Tags: Biochemistry
+
+Question: Cerebronic acid Is present In:
+Options:
+a) Gangliosides
+b) Galactosyl ceramide
+c) Glycerophospholipids
+d) Glycosaminoglycans
+c) Sphingophospholipids
+Correct Option:
+Ans. Galactosyl ceramide
+Explanation: Cerebronic acid is hydroxy fatty acid primarily found in galactosyl ceramide (a type of cerebroside). It is a characteristic component of the myelin sheath in the nervous system.
+Tags: Biochemistry
+
+Question: Sphingomyelin is found in:
+Options:
+a) Heart muscle
+b) Skin
+c) Bones
+d) Brain tissue
+e) Liver cells
+Correct Option:
+Ans. Brain tissue
+Explanation: Sphingomyelin is a major component of the myelin sheath that covers nerve axons, making it highly concentrated in brain tissue.
+Tags: Biochemistry
+
+Question: Cyclopentanophenanthrene ring is present in:
+Options:
+a) Rubber
+b) Cholesterol
+c) Vitamin A
+d) BETA hydroxyl butyric acid
+e) Acetoacetate
+Correct Option:
+Ans. Cholesterol
+Explanation: The steroid nucleus of cholesterol is characterized by the cyclopentanophenanthrene ring system. This four-ring structure is unique to steroids and is not found in rubber, Vitamin A, or ketone bodies like acetoacetate. This structure is essential for its role in membrane stability.
+Tags: Biochemistry
+
+Question: The leukotrienes are characterized, all of the following statement, EXCEPT:
+Options:
+a) They are derived from arachidonic acid
+b) They contain four double bonds
+c) They may contain amino acids
+d) They all contain six membered unsaturated rings
+e) One of them has been identified as the slow reacting substance of anaphylaxis.
+Correct Option:
+Ans. They all contain six membered unsaturated rings
+Explanation: Leukotrienes are linear eicosanoids derived from arachidonic acid and often contain amino acids. While they contain three to four double bonds, they do not contain a six-membered ring; that feature is characteristic of prostaglandins or thromboxanes.
+Tags: Biochemistry
+
+Question: Absolute essential fatty acids include:
+Options:
+a) Arachidonic acid
+b) Gamma linolenic acid
+c) Linoleic acid
+d) DHA
+e) EPA
+Correct Option:
+Ans. Linoleic acid
+Explanation: All of the fatty acids mentioned can be synthesized in the body, except for linoleic, making it an absolute essential fatty acid. Note that arachidonic acid can become essential in the absence of linoleic acid (as it is required to form arachidonic acid).
+Tags: Biochemistry
+
+Question: Which one of the following is a branched chain fatty acid:
+Options:
+a) Arachidonic acid
+b) Palmitic acid
+c) Phytanic acid
+d) Propionic acid
+e) Stearic acid
+Correct Option:
+Ans. Phytanic acid
+Explanation: Most biological fatty acids are straight chains, but phytanic acid is a branched-chain fatty acid derived from chlorophyll.
+Tags: Biochemistry
+
+Question: Products of lipid peroxidation include:
+Options:
+a) Lipid alcohols
+b) Lipid aldehydes
+c) Lipid ketones
+d) Lipid peroxides
+e) All of them
+Correct Option:
+Ans. All of them
+Explanation: Lipid peroxidation is a chain reaction that breaks down polyunsaturated fats into various reactive species. This process yields lipid alcohols, aldehydes (like malondialdehyde), ketones, and peroxides as intermediate or end products. Therefore, all of them are correct products of this oxidative damage.
+Tags: Biochemistry
+
+Question: The following system of human body is rich in lipids:
+Options:
+a) Skin
+b) Gastrointestinal system
+c) Respiratory system
+d) Central nervous, system
+e) Cardiovascular system
+Correct Option:
+Ans. Central nervous system
+Explanation: The central nervous system is exceptionally rich in lipids, particularly in the form of myelin sheaths that insulate neurons. While other systems contain fats, the structural and functional reliance on complex lipids like sphingomyelins and cerebrosides is highest in the brain.
+Tags: Biochemistry
+
+Question: In mammals, the major fat in adipose tissues is:
+Options:
+a) Cholesterol
+b) Phospholipid
+c) Sphingolipids
+d) Triacyl glycerides
+e) None of them
+Correct Option:
+Ans. Triacyl glycerides
+Explanation: In mammals, the primary form of energy storage in adipose tissue is triacylglycerides. Cholesterol and phospholipids are vital for cell membranes but do not serve as the major storage fuel.
+Tags: Biochemistry
+
+Question: Which of the following statements about prostacyclin is true:
+Options:
+a) Does not relax smooth muscle
+b) Enhance platelets aggregation
+c) Produces vasoconstriction
+d) Produces vasodilation
+e) None of them
+Correct Option:
+Ans. Produces vasodilation
+Explanation: Prostacyclin ($PGI_2$) is a potent eicosanoid that acts as a powerful vasodilator and inhibits platelet aggregation. It works in opposition to thromboxanes, which produce vasoconstriction.
+Tags: Biochemistry
+
+Question: N-Acetylneuraminic acid is present in:
+Options:
+a) Phospholipids
+b) Cholesterol
+c) Gangliosides
+d) Cerebrosides
+e) Sulphatides
+Correct Option:
+Ans. Gangliosides
+Explanation: N-Acetylneuraminic acid (NANA), also known as sialic acid, is a defining component of gangliosides. It is attached to the carbohydrate chain of the sphingolipid and gives gangliosides their negative charge. Standard phospholipids, cholesterol, and simple cerebrosides do not contain NANA.
+Tags: Biochemistry
+
+Question: The cholesterol molecule is:
+Options:
+a) Benzene derivative
+b) Quinoline derivative
+c) Steroid
+d) straight chain acid
+e) None of them
+Correct Option:
+Ans. Steroid
+Explanation: Cholesterol is structurally a steroid, specifically a sterol, due to its characteristic four-ring nucleus.
+Tags: Biochemistry
+
+Question: Acute respiratory distress syndrome is associated with insufficient:
+Options:
+a) D phosphatidyl glycerol
+b) Dipalmitoyl Phosphatidyl Choline
+c) Phosphatidyl choline
+d) Phosphatidyl ethanolamine
+e) Phosphatidyl serine
+Correct Option:
+Ans. Dipalmitoyl Phosphatidyl Choline
+Explanation: Acute RDS in neonates is primarily caused by a deficiency in lung surfactant, specifically dipalmitoyl phosphatidylcholine (DPPC). This phospholipid reduces surface tension in the alveoli, preventing lung collapse. Other phospholipids exist in the lungs, however, DPPC is the critical component for this function.
+Tags: Biochemistry
+
+Question: Cholesterol is the precursor of:
+Options:
+a) Sex hormones
+b) Vitamin D
+c) Bile acid
+d) Glucocorticoids
+e) All of them
+Correct Option:
+Ans. All of them
+Explanation: Cholesterol serves as the universal precursor for sex hormones, vitamin D, bile acids, and glucocorticoids like cortisol.
+Tags: Biochemistry
+
+Question: Cholesterol is the precursor of all EXCEPT:
+Options:
+a) Antidiuretic Hormone
+b) Aldosterone
+c) Cortisol
+d) Bile Acids
+e) Vitamin D
+Correct Option:
+Ans. Antidiuretic hormone
+Explanation: Antidiuretic Hormone (ADH) is a peptide hormone synthesized from amino acids in the hypothalamus. It has no structural relationship to cholesterol.
+Tags: Biochemistry
+
+Question: Thrombus formation is promoted by:
+Options:
+a) PGE2
+b) PGF2
+c) PGI
+d) LT
+e) TXA2
+Correct Option:
+Ans. TXA2
+Explanation: Thromboxane A2 (TXA2) is released by platelets and is a potent promoter of platelet aggregation and vasoconstriction, leading to thrombus formation. In contrast, prostacyclins ($PGI$) inhibit this process.
+Tags: Biochemistry
+
+Question: A fatty acid which Is not synthesized in human body and must be supplied in the diet:
+Options:
+a) Palmitic acid
+b) Oleic acid
+c) Linoleic acid
+d) Stearic acid
+e) Linoleic acid
+Correct Option:
+Ans. Linoleic acid
+Explanation: Linoleic acid must be supplied in the diet because the human body lacks the enzymes synthesize it, making it an essential fatty acid. Palmitic, oleic, and stearic acids can all be synthesized by the body from acetyl-CoA.
+Tags: Biochemistry
+
+Question: Lysolecithin is:
+Options:
+a) Completely hydrolyzed Lecithin
+b) Lecithin combines with lysine
+c) One fatty acid deficient lecithin
+d) Has one fatty acid in addition to lecithin
+e) Lecithin combined with glycine
+Correct Option:
+Ans. One fatty acid deficient lecithin
+Explanation: Lysolecithin is a derivative of lecithin where one fatty acid has been removed, It is not completely hydrolyzed, nor does it contain extra amino acids like lysine or glycine.
+Tags: Biochemistry
+
+Question: Which one of these is unsaturated fatty acid:
+Options:
+a) Palmitic Acid
+b) Stearic Acid
+c) Lauric Acid
+d) Butyric Acid
+e) Oleic Acid
+Correct Option:
+Ans. Oleic acid
+Explanation: Oleic acid is the only unsaturated fatty acid in the list, containing a double-bond. All other mentioned acids are saturated (contain only carbon-carbon single bonds).
+Tags: Biochemistry
+
+Question: Sphingosine is the backbone of all of the following EXCEPT:
+Options:
+a) Cerebrosides
+b) Ceramides
+c) Gangliosides
+d) Prostaglandins
+e) Lecithin
+Correct Option:
+Ans. Lecithin
+Explanation: Cerebrosides, ceramides, and gangliosides are all sphingolipids built upon a sphingosine backbone. Lecithin is the exception because it is a glycerophospholipid that uses glycerol as its structural foundation. Prostaglandins are eicosanoids and do not use sphingosine or glycerol backbones.
+Tags: Biochemistry
+
+Question: The lipid that tends to prevent Fatty Liver:
+Options:
+a) Cardiolipin
+b) Lecithin
+c) Plasmalogen
+d) Triglyceride
+e) Valine
+Correct Option:
+Ans. Lecithin
+Explanation: Lecithin is necessary for the synthesis of Very Low-Density Lipoproteins (VLDL), which export fats from the liver. Without sufficient lecithin, triglycerides accumulate in the liver, leading to "fatty liver"
+Tags: Biochemistry
+
+Question: A fatty acid which Is not synthesized in human body and must be supplied in the diet:
+Options:
+a) Palmitic acid
+b) Oleic acid
+c) Linoleic acid
+d) Stearic acid
+e) Linoleic acid
+Correct Option:
+Ans. Linoleic acid
+Explanation: Linoleic acid must be supplied in the diet because the human body lacks the enzymes synthesize it, making it an essential fatty acid. Palmitic, oleic, and stearic acids can all be synthesized by the body from acetyl-CoA.
+Tags: Biochemistry
+
+Question: Linoleic acid is the precursor of:
+Options:
+a) Cellulose
+b) Keratin.
+c) Prostaglandin.
+d) Collagen.
+e) Glycosaminoglycans.
+Correct Option:
+Ans. Prostaglandin
+Explanation: Linoleic acid is an essential omega-6 fatty acid that serves as the dietary precursor for arachidonic acid. Arachidonic acid is then used to synthesize prostaglandins and other eicosanoids. It is not used to build structural proteins like collagen or keratin.
+Tags: Biochemistry
+
+Question: The nitrogenous base in cephalin is:
+Options:
+a) Ethanolamine
+b) Choline
+c) Serine
+d) Betaine
+e) Phosphoric acid
+Correct Option:
+Ans. Ethanolamine
+Explanation: Choline is the base for lecithin, while serine is found in phosphatidylserine. Phosphoric acid is part of the phospholipid head in cephalin, but is not the nitrogenous base itself.
+Tags: Biochemistry
+
+Question: The neurologic disturbances seen in Niemann pick disease are associated with the accumulation in central nervous tissue of which one of the following:
+Options:
+a) Prostaglandins.
+b) Gangliosides.
+c) Sphingomyelin.
+d) Cerebrosides.
+e) Cholesterol.
+Correct Option:
+Ans. Sphingomyelin
+Explanation: Niemann-Pick disease is a lysosomal storage disorder caused by a deficiency in the enzyme sphingomyelinase. This leads to the pathological accumulation of sphingomyelin.
+Tags: Biochemistry
+
+Question: The omega-3 polyunsaturated fatty acid is:
+Options:
+a) Linoleic acid
+b) Alpha-Linolenic acid.
+c) Gamma - Linolenic acid.
+d) Arachidonic acid.
+e) Stearic acid
+Correct Option:
+Ans. Alpha-Linolenic acid
+Explanation: Alpha-Linolenic acid is a primary omega-3 polyunsaturated fatty acid characterized by double bonds. Linoleic and arachidonic acids are omega-6, while oleic acid is omega-9. Stearic acid is saturated and lacks omega classification.
+Tags: Biochemistry
+
+Question: Thromboxane cause:
+Options:
+a) Vasodilation
+b) Vasoconstriction
+c) Chemotaxis
+d) Increase in Ca2+ influx
+e) None of the above
+Correct Option:
+Ans. Vasoconstriction
+Explanation: Thromboxanes, specifically TXA2, are released during platelet activation and primarily cause vasoconstriction and platelet aggregation. This helps to minimize blood loss at a site of injury. Vasodilation is typically caused by other eicosanoids like prostacyclin.
+Tags: Biochemistry
+
+Question: Which is an essential fatty acid:
+Options:
+a) Palmitic acid
+b) Arachidonic acid
+c) Stearic acid
+d) Butyric acid
+e) Caproic acid
+Correct Option:
+Ans. Arachidonic acid
+Explanation: All mentioned fatty acids can be synthesized in the body, except arachidonic acid. Note that arachidonic can be synthesized if linoleic acid is present, meaning that it only becomes essential in the absence of linoleic acid.
+Tags: Biochemistry
+
+Question: Phospholipid acting as surfactant is:
+Options:
+a) Cephalin.
+b) Phosphatidyl Inositol
+c) Plasmalogen.
+d) Lecithin
+e) Glycolipid
+Correct Option:
+Ans. Lecithin
+Explanation: Lecithin, specifically dipalmitoylphosphatidylcholine, is the primary phospholipid that acts as a lung surfactant.
+Tags: Biochemistry
+
+Question: Which one of these is saturated fatty acids:
+Options:
+a) Palmitoleic Acid
+b) Palmitic Acid
+c) Arachidonic Acid
+d) Linolenic Acid
+e) Oleic Acid
+Correct Option:
+Ans. Palmitic acid
+Explanation: Palmitic acid is an example of a saturated fatty acid. Palmitoleic, arachidonic, linolenic, and oleic acids all contain double bonds, which classifies them as unsaturated.
+Tags: Biochemistry
+
+Question: Fatty acid combines with alcohol sphingosine through:
+Options:
+a) Amide linkage
+b) Ester linkage
+c) Ether linkage.
+d) Glycosidic linkage
+e) None of the above
+Correct Option:
+Ans. Amide linkage
+Explanation: In sphingolipids, the fatty acid is attached to the amino group of sphingosine through an amide linkage. This combination forms ceramide, the structural parent of all sphingolipids. Ester linkages are common in glycerolipids, but the presence of the amino group in sphingosine dictates the amide bond.
+Tags: Biochemistry
+
+Question: Glycolipids mostly occur in:
+Options:
+a) Skeletal muscles and muscles of the heart
+b) Platelets and RBC
+c) Brain gangliosides and grey matter of brain
+d) Myelin sheaths of nerve fibres and white matter of brain
+e) Cardiac muscles
+Correct Option:
+Ans. Myelin sheaths of nerve fibres and white matter of brain
+Explanation: Glycolipids play a critical role in insulating neurons and facilitating signal transduction. While they appear in other tissues, their concentration and structural importance are most significant in the nervous system.
+Tags: Biochemistry
+
+Question: Which of the following is the main fuel reserve of the body:
+Options:
+a) Fatty acids
+b) Glucose
+c) Glycogen
+d) Starch
+e) Triacylglycerol
+Correct Option:
+Ans. Triacylglycerol
+Explanation: The primary energy reserve in the human body is triacylglycerol, stored in adipose tissue. While glycogen provides a quick source of glucose, it is heavy and limited in capacity compared to the high energy value of fats.
+Tags: Biochemistry
+
+Question: The following lipids act as emulsifying agents:
+Options:
+a) All steroids
+b) Bile acids
+c) Cholesterol
+d) Cholesterol esters
+e) Fatty acids
+Correct Option:
+Ans. Bile acids
+Explanation: Bile acids are powerful emulsifying agents produced from cholesterol in the liver. They possess both hydrophilic and hydrophobic regions, allowing them to break large fat droplets into smaller ones for digestion. Pure cholesterol and fatty acids do not have the same emulsifying efficiency.
+Tags: Biochemistry
+
+Question: In humans, prostaglandins are primarily derived from which one of the following:
+Options:
+a) Glucose
+b) Acetyl CoA
+c) Arachidonic Acid
+d) Oleic acid
+e) Palmatic Acid
+Correct Option:
+Ans. Arachidonic acid
+Explanation: In humans, most prostaglandins are synthesized from arachidonic acid. While linoleic acid is the dietary precursor to arachidonic acid, it is arachidonic acid that directly enters the cyclooxygenase pathway, forming prostaglandins. Saturated fats like palmitic acid cannot be converted into eicosanoids.
+Tags: Biochemistry
+
+Question: Which one of the following fatty acids contains odd number of carbon atoms:
+Options:
+a) Arachidonic acid
+b) Myristic acid
+c) Oleic acid
+d) Propionic acid
+e) Stearic acid
+Correct Option:
+Ans. Propionic acid
+Explanation: Propionic acid contains exactly 3 carbons. Arachidonic (20), myristic (14), oleic (18), and stearic (18) all have even numbers.
+Tags: Biochemistry
+
+Question: Ceramide is a part of which of the following compounds:
+Options:
+a) Phosphatidyl serine
+b) Sphingomyelin
+c) Phosphatidyl glycerol
+d) Phosphatidyl choline
+e) Phosphatidyl ethanolamine
+Correct Option:
+Ans. Sphingomyelin
+Explanation: Ceramide is the structural core of sphingomyelin, consisting of a sphingosine backbone linked to a fatty acid. The other options listed (phosphatidyl serine, glycerol, etc.) are all glycerophospholipids and do not contain ceramide.
+Tags: Biochemistry
+
+Question: All of the following statement are applied to cholesterol EXCEPT:
+Options:
+a) ls amphipathic
+b) Derivative of bile acids
+c) Exists as cholesterol ester in the body
+d) 18-carbon compound
+e) Particularly abundant in nervous system
+Correct Option:
+Ans. 18-carbon compound
+Explanation: Cholesterol is an amphipathic molecule that is highly abundant in the nervous system and exists as cholesterol esters. However, it is a 27-carbon compound, not an 18-carbon compound. Furthermore, bile acids are derivatives of cholesterol, rather than cholesterol being a derivative of them.
+Tags: Biochemistry
+
+Question: All of the following have 18 carbon atoms except:
+Options:
+a) Arachidonic acid
+b) Linoleic acid
+c) Linolenic acid
+d) Oleic acid
+e) Stearic acid
+Correct Option:
+Ans. Arachidonic acid
+Explanation: Linoleic, linolenic, oleic, and stearic acids all possess 18 carbon atoms in their structures. Arachidonic acid is the exception, as it contains a 20-carbon chain.
+Tags: Biochemistry
+
+Question: Which of the following statement best describes respiratory distress syndrome:
+Options:
+a) It cannot occur in adults whose surfactant producing pneumocytes have been damaged
+b) It is not related to baby’s premature birth
+c) It is not a significant cause of neonatal death
+d) the lecithin/sphingomyelin ratio in amniotic fluid is greater than two
+e) There is decreased production of dipalmitoyl phosphatidyl choline
+Correct Option:
+Ans. There is decreased production of dipalmitoyl phosphatidyl choline
+Explanation: Dipalmitoyl phosphatidyl choline is a key component of surfactant, which is deficient in respiratory distress syndrome, causing surface tension to increase and alveolar collapse.
+Tags: Biochemistry
+
+Question: The only human glycerophospholipid with antigenic property is:
+Options:
+a) Cephalin
+b) Cardiolipin
+c) Lecithin
+d) Plasmalogen
+e) Sphingomyelin
+Correct Option:
+Ans. Cardiolipin
+Explanation: Cardiolipin is unique among human glycerophospholipids because it possesses antigenic properties. It is found primarily in the inner mitochondrial membrane and is used clinically as the antigen in the Wassermann test for syphilis.
+Tags: Biochemistry
+
+Question: Which of the following is rich in hexosamines:
+Options:
+a) Cephalin
+b) Cerebrosides
+c) Gangliosides
+d) Sphingosine
+e) Sulphatides
+Correct Option:
+Ans. Gangliosides
+Explanation: Gangliosides are complex sphingolipids that are particularly rich in hexosamines and sialic acid (NANA). These sugar components are attached to the ceramide backbone, providing the molecule with its unique signaling and receptor functions. Simple cerebrosides and sulphatides lack the extensive hexosamine chains found in gangliosides
+Tags: Biochemistry

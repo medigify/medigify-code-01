@@ -1,0 +1,164 @@
+Question: The largest immunoglobulin is:
+Options:
+a) IgA
+b) IgD
+c) IgE
+d) IgG
+e) IgM
+Correct Option:
+Ans. IgM
+Explanation: IgM is the largest immunoglobulin because it exists as a pentamer, giving it high molecular weight and avidity. It is the first antibody produced in the primary immune response.
+Tags: Biochemistry
+
+Question: Which apoprotein acts as an activator of lipoprotein lipase (LPL):
+Options:
+a) ApoC-III
+b) ApoC-II
+c) ApoB-100
+d) ApoB-48
+e) ApoE
+Correct Option:
+Ans. ApoC-II
+Explanation: ApoC-II activates lipoprotein lipase, which is responsible for the breakdown of triglycerides in chylomicrons and VLDL. ApoC-III, in contrast, inhibits this enzyme.
+Tags: Biochemistry
+
+Question: Colostrum contains:
+Options:
+a) IgA
+b) IgG
+c) IgM
+d) IgE
+e) IgD
+Correct Option:
+Ans. IgA
+Explanation: Colostrum (breast milk in the first 2-5 days post birth) is rich in secretory IgA, which provides mucosal immunity to the newborn and protects against infections in the gastrointestinal tract.
+Tags: Biochemistry
+
+Question: The main site of production of plasma proteins is:
+Options:
+a) Muscles
+b) Liver
+c) Bone marrow
+d) Spleen
+e) Kidney
+Correct Option:
+Ans. Liver
+Explanation: The liver is the primary site for synthesis of most plasma proteins, including albumin and clotting factors, while immunoglobulins are produced by plasma cells.
+Tags: Biochemistry
+
+Question: Immunoglobulin that can cross the placental membrane is:
+Options:
+a) IgA
+b) IgD
+c) IgE
+d) IgM
+e) IgG
+Correct Option:
+Ans. IgG
+Explanation: IgG is the only immunoglobulin that crosses the placenta, providing passive immunity to the fetus through Fc receptor-mediated transport.
+Tags: Biochemistry
+
+Question: The immunoglobulin present in serum, saliva, tears, intestinal and bronchial secretions is:
+Options:
+a) IgA
+b) IgD
+c) IgE
+d) IgG
+e) IgM
+Correct Option:
+Ans. IgA
+Explanation: IgA is the predominant immunoglobulin in mucosal secretions and exists mainly as a dimer in these secretions, playing a key role in mucosal defense.
+Tags: Biochemistry
+
+Question: Which is the most abundant of circulating antibodies:
+Options:
+a) IgA
+b) IgG
+c) IgM
+d) IgE
+e) IgD
+Correct Option:
+Ans. IgG
+Explanation: IgG is the most abundant immunoglobulin in circulation, accounting for about 75% of serum antibodies and playing a major role in secondary immune responses.
+Tags: Biochemistry
+
+Question: From the liver, triglycerides are transported to extrahepatic tissue by:
+Options:
+a) Chylomicrons
+b) VLDL
+c) HDL
+d) LDL
+e) IDL
+Correct Option:
+Ans. VLDL
+Explanation: VLDL transports endogenous triglycerides synthesized in the liver to peripheral tissues, whereas chylomicrons transport dietary triglycerides from the intestine.
+Tags: Biochemistry
+
+Question: Elevated plasma level of the following protects against atherosclerosis:
+Options:
+a) Chylomicrons
+b) VLDL
+c) HDL
+d) LDL
+e) IDL
+Correct Option:
+Ans. HDL
+Explanation: HDL protects against atherosclerosis by mediating reverse cholesterol transport, carrying cholesterol from peripheral tissues back to the liver for excretion.
+Tags: Biochemistry
+
+Question: Acute phase proteins are plasma proteins secreted in response to inflammation. Which of the following does not belong to this category:
+Options:
+a) Albumin
+b) CRP
+c) Fibrinogen
+d) Alpha₁-antitrypsin
+Correct Option:
+Ans. Albumin
+Explanation: Albumin is a negative acute phase protein whose levels decrease during inflammation, whereas CRP, fibrinogen, and alpha₁-antitrypsin are positive acute phase reactants that increase.
+Tags: Biochemistry
+
+Question: Immunoglobulins attach to antigens through which structural site:
+Options:
+a) Light chain
+b) Heavy chain
+c) Fc fragment
+d) Fab fragment
+Correct Option:
+Ans. Fab fragment
+Explanation: The Fab (fragment antigen-binding) region of an immunoglobulin is responsible for binding to antigens. It contains the variable regions of both heavy and light chains, which determine antigen specificity, whereas the Fc portion mediates effector functions.
+Tags: Biochemistry
+
+Question: Which of the following antibody can cross the placental membrane:
+Options:
+a) IgA
+b) IgD
+c) IgE
+d) IgG
+Correct Option:
+Ans. IgG
+Explanation: IgG is the only immunoglobulin that can cross the placenta, providing passive immunity to the fetus through Fc receptor-mediated transport.
+Tags: Biochemistry
+
+Question: Which of the following is regarded as cardioprotective:
+Options:
+a) LDH
+b) LDL
+c) VLDL
+d) HDL
+e) Cholesterol
+Correct Option:
+Ans. HDL
+Explanation: HDL is considered cardioprotective because it facilitates reverse cholesterol transport, removing cholesterol from peripheral tissues and transporting it to the liver for excretion, thereby reducing the risk of atherosclerosis.
+Tags: Biochemistry
+
+Question: Which of the following class of immunoglobulin can cross the placental barrier:
+Options:
+a) IgA
+b) IgM
+c) IgD
+d) IgE
+e) IgG
+Correct Option:
+Ans. IgG
+Explanation: IgG is the only class of immunoglobulin capable of crossing the placental barrier, playing a crucial role in providing passive immunity to the developing fetus.
+Tags: Biochemistry

@@ -1,0 +1,319 @@
+Nervous System
+Question: The autonomic nervous system:
+Options:
+a) Control Skeletal muscles
+b) Arise from spinal cord only
+c) Prepare the body for fight & flight response
+d) has no connection with adrenal medulla
+Correct Option:
+Ans. Prepare the body for fight and flight response
+Explanation: The autonomic nervous system controls involuntary activities. Its sympathetic division prepares the body for fight or flight, increasing heart rate, dilating pupils, and redirecting blood flow, unlike skeletal muscles which are voluntary.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following is not a component of CNS:
+Options:
+a) Neuron
+b) Spinal cord
+c) Basal ganglia
+d) Cranial nerve
+Correct Option:
+Ans. Cranial nerve
+Explanation: CNS includes the brain, spinal cord, neurons, and basal ganglia. Cranial nerves belong to the peripheral nervous system; they carry signals to and from CNS but are not part of it.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Outermost Covering of nerve is called:
+Options:
+a) Endoneurium
+b) Perineurium
+c) Epineurium
+d) Epimysium
+Correct Option:
+Ans. Epineurium
+Explanation: The epineurium is the outermost connective tissue covering a whole nerve. It provides mechanical protection, houses blood vessels, and surrounds multiple fascicles of nerve fibers.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Spinal nerves:
+Options:
+a) have dorsal and ventral rami with peripheral ganglion on dorsal ramus
+b) Are formed in intervertebral foramen
+c) Comprise 25 pairs
+d) Distribution of lower limb is through dorsal rami
+Correct Option:
+Ans. Are formed in intervertebral foramen
+Explanation: Spinal nerves are formed by union of dorsal (sensory) and ventral (motor) roots at the intervertebral foramen. They are mixed nerves carrying both motor and sensory fibers.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: A typical spinal nerve is:
+Options:
+a) Motor
+b) Sensory
+c) Mixed
+d) Sympathetic
+Correct Option:
+Ans. Mixed
+Explanation: A typical spinal nerve carries both sensory and motor fibers, allowing coordinated transmission of impulses to and from the periphery.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Regarding the sympathetic division of autonomic nervous system:
+Options:
+a) Acetylcholine is released by some sympathetic post ganglionic fibers
+b) Most sympathetic pre-ganglionic nerve fibers secrete nor-adrenaline
+c) Sympathetic postganglionic fibers are found in spinal segment T1-L2
+d) The sympathetic chain extends from thoracic to the sacral region of spinal cord
+Correct Option:
+Ans. Acetylcholine is released by some sympathetic post ganglionic fibers
+Explanation: Most sympathetic postganglionic fibers release noradrenaline, but some (e.g., to sweat glands) release acetylcholine, showing variation in neurotransmitter use.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: A part of neuron provides greatest surface area of synaptic reception:
+Options:
+a) Axon
+b) Cell body
+c) Collateral axon
+d) Dendritic process
+Correct Option:
+Ans. Dendritic process
+Explanation: Dendrites provide maximum surface area for synaptic inputs. They allow neurons to receive and integrate signals from multiple sources, unlike axons.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Multiple Sclerosis is a disease characterized by preferential damage to myelin that becomes detached from axon in the CNS. Which associated cells involve:
+Options:
+a) Oligodendrocytes
+b) Microglia
+c) Satellite cell
+d) Schwan cell
+Correct Option:
+Ans. Oligodendrocytes
+Explanation: In MS, CNS myelin degenerates. Oligodendrocytes, which form CNS myelin, are damaged, disrupting nerve impulse conduction.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Type of neuron in autonomic ganglion is:
+Options:
+a) Unipolar neuron
+b) Bipolar neuron
+c) Multipolar neuron
+d) Purkinje cell
+Correct Option:
+Ans. Multipolar neuron
+Explanation: Neurons in autonomic ganglia are multipolar, with one axon and multiple dendrites to receive inputs from preganglionic neurons.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following statements regarding post-ganglionic fibers of parasympathetic ganglia is incorrect:
+Options:
+a) From ciliary ganglion they supply constrictor of
+b) From ganglion they supply lacrimal gland pupil
+c) From submandibular ganglion they supply sublingual gland
+d) From otic ganglion they supply minor salivary gland
+Correct Option:
+Ans. From otic ganglion they supply minor salivary gland
+Explanation: The otic ganglion supplies the parotid gland, not minor salivary glands. Other ganglia supply correct targets like ciliary (eye), pterygopalatine (lacrimal), and submandibular (sublingual).
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Select the incorrect match of gland and the nerve supplying pre-ganglionic fibers:
+Options:
+a) Ciliary ganglion (Occulomotor nerve
+b) Pterygopalatine ganglion (facial nerve)
+c) Submandibular ganglion (trigeminal nerve)
+d) Otic ganglion (Glossopharyngeal nerve)
+Correct Option:
+Ans. Pterygopalatine ganglion (facial nerve)
+Explanation: Submandibular ganglion is supplied by facial nerve, not trigeminal. Other ganglia are correctly paired with their cranial nerves.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following statements is incorrect regarding Spinal nerves.
+Options:
+a) Ventral rami supply anterio-lateral body
+b) Dorsal rami supply posterior part of body
+c) Thoracic spinal nerves are typical spinal nerve
+d) Ventral rami except T6-L3 form plexus
+Correct Option:
+Ans. Ventral rami except T6-L3 form plexus
+Explanation: Ventral rami form plexuses in most regions except thoracic nerves (T2–T12). Dorsal rami supply posterior structures, and thoracic spinal nerves remain intercostal.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Nerve fibers are bound in and held together by connective tissue known as the:
+Options:
+a) Endoneurium
+b) Sheath of Schwann
+c) Perineurium
+d) Epineurium
+Correct Option:
+Ans. Perineurium
+Explanation: Perineurium surrounds each nerve fascicle, maintaining structural integrity and protecting internal nerve fibers from mechanical stress.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following layer of brain contains blood vessels:
+Options:
+a) Arachnoid
+b) Pia matter
+c) Dura matter
+d) Subdural space
+Correct Option:
+Ans. Pia matter
+Explanation: The pia mater contains blood vessels supplying the CNS. Arachnoid and dura mater are largely avascular, with CSF in the subarachnoid space.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Each of the following is found within the cytoplasm of nerve cell body except:
+Options:
+a) lysosomes
+b) Microtubules
+c) Nissl granules
+d) Axoplasmic vessels
+Correct Option:
+Ans. Axoplasmic vessels
+Explanation: Neuron cell bodies contain Nissl granules, microtubules, lysosomes, but axoplasmic vesicles are restricted to axons for transport.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Nissl bodies are composed of:
+Options:
+a) Synaptic vesicles
+b) Polysomes
+c) Neurofilaments
+d) SER
+Correct Option:
+Ans. Polysomes
+Explanation: Nissl bodies are clusters of rough ER and polyribosomes, responsible for protein synthesis in neurons.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: which of the following is non-capsulated afferent nerve ending:
+Options:
+a) Pacinian
+b) Kraus end bulb
+c) Meissner corpuscle
+d) Markel's ending
+Correct Option:
+Ans. Meissner corpuscles
+Explanation: Merkel endings detect fine touch and are non-capsulated, unlike Pacinian or Meissner corpuscles which are encapsulated.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Axon hillock contains:
+Options:
+a) RER
+b) Ribosomes
+c) Microtubules
+d) Golgi complex
+Correct Option:
+Ans. Microtubules
+Explanation: The axon hillock contains microtubules for transport and structural support but lacks ribosomes or rough ER.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: The blood brain barrier is thought to occur because capillaries in the CNS have which of the following characteristics:
+Options:
+a) Discontinuous basal lamina
+b) Fenestrae with diaphragm
+c) Fenestrae without diaphragm
+d) A few pinocytic vesicles
+Correct Option:
+Ans. A few pinocytic vesicles
+Explanation: CNS capillaries form the blood-brain barrier due to tight junctions and very few pinocytic vesicles, restricting free diffusion of substances.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following specialized receptors exhibit a large ovoid capsule containing of many concentric lamellae each separated by a space containing tissue fluid:
+Options:
+a) Cold receptors
+b) Pacinian corpuscles
+c) Ruffini endings
+d) Meissner corpuscles
+Correct Option:
+Ans. Pacinian corpuscles
+Explanation: Pacinian corpuscles have concentric lamellae separated by fluid, detecting pressure and vibration, unlike other mechanoreceptors.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Synapses may be classified on the basis of each of the following except:
+Options:
+a) Position
+b) Membrane specialization
+c) Organelle content
+d) Synaptic vesicle content
+Correct Option:
+Ans. Organelle content
+Explanation: Synapses are classified by position, membrane specialization, or vesicle type, not by cytoplasmic organelles.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Myelin is formed by:
+Options:
+a) Satellite cell
+b) Schwann cell
+c) Ependyma cell
+d) Astrocytes
+Correct Option:
+Ans. Schwann cells
+Explanation: Schwann cells form myelin in the PNS, wrapping axons for fast conduction; in CNS, oligodendrocytes perform this function.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: In CNS, macrophages are formed by:
+Options:
+a) Astrocytes
+b) Microglia
+c) Satellite cells
+d) Ependyma
+Correct Option:
+Ans. Microglia
+Explanation: Microglia act as CNS macrophages, performing phagocytosis and immune surveillance.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Which of the following cell in CNS is homologous to Schwann cell in PNS:
+Options:
+a) Astrocytes
+b) Satellite cell
+c) Oligodendrocytes
+d) Microglia
+Correct Option:
+Ans. Oligodendrocytes
+Explanation: Oligodendrocytes myelinate CNS axons, analogous to Schwann cells in the PNS.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: The highest concentration of microtubules occur in which part of neuron:
+Options:
+a) Nissl granules
+b) Apical dendrite
+c) Initial segment of axon
+d) Node of Ranvier
+Correct Option:
+Ans. Initial segment of axon
+Explanation: The axon initial segment has the highest concentration of microtubules, supporting axonal transport and action potential initiation.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Collateral sprouting occurs in:
+Options:
+a) Damaged axons
+b) Damaged cell bodies
+c) Undamaged axons
+d) intact glial process
+Correct Option:
+Ans. Undamaged axons
+Explanation: Collateral sprouting occurs from undamaged axons, which form new branches to reinnervate denervated targets.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: The cell lining the ventricle of the brain and central canal of the spinal cord are known as:
+Options:
+a) Astrocytes
+b) Microglia
+c) Ependymal cells
+d) Oligodendrocytes
+Correct Option:
+Ans. Ependymal cells
+Explanation: Ependymal cells line the brain ventricles and central canal, aiding CSF production, and circulation.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: The node of Ranvier is a region which may be best described as:
+Options:
+a) An area of sensory input
+b) A region where Schwann cells are in juxtaposition
+c) A motor endplate
+d) An area of synaptic contact
+Correct Option:
+Ans. A region where Schwann cells are in juxtaposition
+Explanation: The node of Ranvier is the gap between Schwann cells along myelinated axons, facilitating saltatory conduction.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves
+
+Question: Major impediment to regeneration in CNS is:
+Options:
+a) Astrocytic process
+b) Oligodendrocyte process
+c) Axonal process
+d) Collagen scar
+Correct Option:
+Ans. Astrocytic process
+Explanation: Astrocytic glial scars inhibit axonal regeneration; major reason CNS neurons regenerate poorly.
+Tags: General Anatomy, Block 1, Anatomy, Nervous System, Neurons, Nerves

@@ -1,0 +1,455 @@
+Question: Porphyrins emit red fluorescence because of:
+Options:
+a) Double bond joining two pyrrole rings
+b) Acetate group
+c) Iron bonded to globin
+d) Methyl group
+e) Propionate group
+Correct Option:
+Ans. Double bond joining two pyrrole rings
+Explanation: The conjugated double bond system between pyrrole rings in porphyrins is responsible for their characteristic red fluorescence. This extended conjugation allows absorption and emission of light.
+Tags: Biochemistry
+
+Question: Which of the following is needed for synthesis of porphyrin:
+Options:
+a) Alanine
+b) Glutamine
+c) Glycine
+d) Histidine
+e) Serine
+Correct Option:
+Ans. Glycine
+Explanation: Glycine is a key substrate in heme synthesis, combining with succinyl-CoA to form δ-aminolevulinic acid, the first step in porphyrin synthesis.
+Tags: Biochemistry
+
+Question: The porphyrin present in haem is:
+Options:
+a) Uroporphyrin
+b) Protoporphyrin I
+c) Coproporphyrin
+d) Protoporphyrin III
+e) Protoporphyrin II
+Correct Option:
+Ans. Protoporphyrin III
+Explanation: Protoporphyrin III is the immediate precursor of heme, which binds iron to form the functional heme molecule.
+Tags: Biochemistry
+
+Question: Which of the following form of haemoglobin provides useful information for the management of diabetes mellitus:
+Options:
+a) HbA1
+b) HbA2
+c) HbA1C
+d) HbC
+e) HbS
+Correct Option:
+Ans. HbA1C
+Explanation: HbA1C reflects long-term blood glucose control over the previous 2–3 months and is used in monitoring and diagnosis of diabetes mellitus.
+Tags: Biochemistry
+
+Question: In heme catabolism, the first bile pigment formed is:
+Options:
+a) Cholic acid
+b) Bilirubin
+c) Lithocholic acid
+d) Deoxycholic acids
+e) Biliverdin
+Correct Option:
+Ans. Biliverdin
+Explanation: Heme is first converted into biliverdin by heme oxygenase, which is then reduced to bilirubin by biliverdin reductase.
+Tags: Biochemistry
+
+Question: In sickle cell haemoglobin, glutamic acid in 6th position of both β chains is replaced by:
+Options:
+a) Valine
+b) Tyrosine
+c) Leucine
+d) Lysine
+e) Glycine
+Correct Option:
+Ans. Valine
+Explanation: Sickle cell disease results from substitution of valine for glutamic acid at the sixth position of the β-globin chain, causing hemoglobin polymerization under low oxygen conditions.
+Tags: Biochemistry
+
+Question: The conjugation of bilirubin occurs in liver cells. Which of the enzymes catalyzes this reaction:
+Options:
+a) Bilirubin reductase
+b) SGOT
+c) UDP-glucuronyl transferase
+d) UDP-glucose dehydrogenase
+e) Dismutase
+Correct Option:
+Ans. UDP-glucuronyl transferase
+Explanation: This enzyme conjugates bilirubin with glucuronic acid in the liver, making it water-soluble for excretion in bile.
+Tags: Biochemistry
+
+Question: Porphyria cutanea tarda is due to defect in enzyme:
+Options:
+a) Uroporphyrinogen synthase
+b) Uroporphyrinogen decarboxylase
+c) Coproporphyrinogen oxidase
+d) Protoporphyrinogen oxidase
+e) Ferrochelatase
+Correct Option:
+Ans. Uroporphyrinogen decarboxylase
+Explanation: Porphyria cutanea tarda is caused by deficiency of uroporphyrinogen decarboxylase, leading to accumulation of uroporphyrins and photosensitivity.
+Tags: Biochemistry
+
+Question: Biliverdin is converted into bilirubin by the action of enzyme:
+Options:
+a) Biliverdin oxidase
+b) Biliverdin reductase
+c) Bilirubin oxidase
+d) Bilirubin reductase
+e) Heme oxygenase
+Correct Option:
+Ans. Biliverdin reductase
+Explanation: Biliverdin reductase converts biliverdin to bilirubin during heme degradation.
+Tags: Biochemistry
+
+Question: Which of the following prevents loss of Hb through kidneys:
+Options:
+a) Albumin
+b) Haptoglobin
+c) Alpha fetoprotein
+d) Transferrin
+e) Ferritin
+Correct Option:
+Ans. Haptoglobin
+Explanation: Haptoglobin binds free hemoglobin released from red blood cells, forming a complex that prevents renal loss and facilitates clearance by the reticuloendothelial system.
+Tags: Biochemistry
+
+Question: Which of the following is a precursor of porphyrin:
+Options:
+a) Glycine
+b) Proline
+c) Histidine
+d) Valine
+e) Lysine
+Correct Option:
+Ans. Glycine
+Explanation: Glycine is a key precursor in porphyrin synthesis, combining with succinyl-CoA to form δ-aminolevulinic acid, the first step in heme biosynthesis.
+Tags: Biochemistry
+
+Question: Acute intermittent porphyria is caused due to deficiency of:
+Options:
+a) ALA synthase
+b) Coproporphyrinogen oxidase
+c) Uroporphyrinogen decarboxylase
+d) Coproporphyrinogen synthase
+e) Uroporphyrinogen I synthase
+Correct Option:
+Ans. Uroporphyrinogen I synthase
+Explanation: Acute intermittent porphyria is due to deficiency of porphobilinogen deaminase, also known as uroporphyrinogen I synthase, leading to accumulation of ALA and porphobilinogen.
+Tags: Biochemistry
+
+Question: The porphyrin synthesis requires an amino acid:
+Options:
+a) Proline
+b) Glycine
+c) Serine
+d) Histidine
+e) Lysine
+Correct Option:
+Ans. Glycine
+Explanation: Glycine is essential for porphyrin synthesis as it participates in the formation of δ-aminolevulinic acid, the first committed step in heme synthesis.
+Tags: Biochemistry
+
+Question: Name the amino acid that directly participates in the synthesis of heme:
+Options:
+a) Methionine
+b) Aspartate
+c) Glycine
+d) Tryptophan
+e) Tyrosine
+Correct Option:
+Ans. Glycine
+Explanation: Glycine directly participates in heme synthesis by combining with succinyl-CoA to form δ-aminolevulinic acid under the action of ALA synthase.
+Tags: Biochemistry
+
+Question: In HbS, the amino acid at position 6 in β chain is substituted by:
+Options:
+a) Lysine
+b) Valine
+c) Arginine
+d) Histidine
+e) Proline
+Correct Option:
+Ans. Valine
+Explanation: In sickle cell hemoglobin, valine replaces glutamic acid at position 6 of the β-globin chain, resulting in abnormal hemoglobin polymerization under low oxygen conditions.
+Tags: Biochemistry
+
+Question: Normal haemoglobin is composed of 4 polypeptide chains:
+Options:
+a) 2 alpha and 2 beta
+b) 2 alpha and 2 gamma
+c) 2 alpha and 2 zeta
+d) 2 alpha and 2 epsilon
+e) All of them
+Correct Option:
+Ans. 2 alpha and 2 beta
+Explanation: Adult hemoglobin (HbA) consists of two alpha and two beta chains. Other combinations represent fetal or embryonic hemoglobins.
+Tags: Biochemistry
+
+Question: Unconjugated bilirubin is increased in:
+Options:
+a) Crigler–Najjar syndrome
+b) Dubin–Johnson syndrome
+c) Obstructive jaundice
+d) Rotor syndrome
+e) Viral hepatitis
+Correct Option:
+Ans. Crigler–Najjar syndrome
+Explanation: Crigler–Najjar syndrome is due to deficiency of UDP-glucuronyl transferase, leading to accumulation of unconjugated bilirubin. Dubin–Johnson and Rotor syndromes involve conjugated hyperbilirubinemia.
+Tags: Biochemistry
+
+Question: Delta aminolevulinic acid synthase activity:
+Options:
+a) Is frequently decreased in patients being treated on CNS drugs
+b) Catalyzes a rate limiting reaction in heme biosynthesis
+c) Requires biotin as coenzyme
+d) Is strongly stimulated by heavy metals such as lead
+e) Occurs in the cytosol
+Correct Option:
+Ans. Catalyzes a rate limiting reaction in heme biosynthesis
+Explanation: ALA synthase catalyzes the rate-limiting step of heme synthesis and requires pyridoxal phosphate (vitamin B6) as a cofactor. It is located in mitochondria and is inhibited by heme.
+Tags: Biochemistry
+
+Question: Hb Bart’s hydrops fetalis is due to deletion of:
+Options:
+a) One alpha gene
+b) Two alpha genes
+c) Three alpha genes
+d) Four alpha genes
+e) Four beta genes
+Correct Option:
+Ans. Four alpha genes
+Explanation: Hb Bart’s hydrops fetalis results from deletion of all four alpha-globin genes, leading to absence of alpha chains and formation of nonfunctional gamma tetramers.
+Tags: Biochemistry
+
+Question: In variegate porphyria the following enzyme is deficient:
+Options:
+a) Heme synthetase
+b) Protoporphyrinogen oxidase
+c) Uroporphyrinogen I synthetase
+d) Uroporphyrinogen III synthetase
+e) Coproporphyrinogen oxidase
+Correct Option:
+Ans. Protoporphyrinogen oxidase
+Explanation: Variegate porphyria is caused by deficiency of protoporphyrinogen oxidase, leading to accumulation of porphyrin precursors and resulting in photosensitivity and neurovisceral symptoms.
+Tags: Biochemistry
+
+Question: Elevated unconjugated bilirubin is a manifestation of:
+Options:
+a) Bile duct stones
+b) Viral hepatitis
+c) Hemolytic anemia
+d) Tumor of head of pancreas
+e) Brain tumor
+Correct Option:
+Ans. Hemolytic anemia
+Explanation: Hemolytic anemia causes increased breakdown of red blood cells, leading to excess production of unconjugated bilirubin that exceeds the liver’s capacity for conjugation.
+Tags: Biochemistry
+
+Question: In hereditary protoporphyria, enzyme deficient is:
+Options:
+a) Deaminase
+b) ALA synthase
+c) Coproporphyrinogen oxidase
+d) Protoporphyrinogen oxidase
+e) Heme synthetase (ferrochelatase)
+Correct Option:
+Ans. Heme synthetase (ferrochelatase)
+Explanation: Hereditary protoporphyria is caused by deficiency of ferrochelatase, the enzyme responsible for inserting iron into protoporphyrin IX to form heme.
+Tags: Biochemistry
+
+Question: Which of the following compound is the direct precursor for the heme nitrogen atoms:
+Options:
+a) Alanine
+b) Glycine
+c) Tyrosine
+d) Histidine
+e) Leucine
+Correct Option:
+Ans. Glycine
+Explanation: Glycine provides the nitrogen atoms in the porphyrin ring during heme synthesis through its role in forming δ-aminolevulinic acid.
+Tags: Biochemistry
+
+Question: A 4-year-old infant develops severe jaundice and is found to have complete lack of UDP-glucuronyl transferase. Which of the following disorders does the infant have:
+Options:
+a) Crigler–Najjar syndrome
+b) Gilbert syndrome
+c) Dubin–Johnson syndrome
+d) Hereditary orotic aciduria
+e) Gout
+Correct Option:
+Ans. Crigler–Najjar syndrome
+Explanation: Crigler–Najjar syndrome results from complete deficiency of UDP-glucuronyl transferase, leading to severe unconjugated hyperbilirubinemia.
+Tags: Biochemistry
+
+Question: A 3-year-old boy is brought with abdominal pain, mental changes, and fatigue. Lead poisoning is suspected. Which enzyme is interfered:
+Options:
+a) Cytochrome oxidase
+b) Protoporphyrinogen oxidase
+c) UMP synthase
+d) Delta-ALA dehydrogenase
+e) Porphobilinogen deaminase
+Correct Option:
+Ans. Delta-ALA dehydrogenase
+Explanation: Lead inhibits delta-ALA dehydrogenase and ferrochelatase, impairing heme synthesis and leading to accumulation of toxic intermediates.
+Tags: Biochemistry
+
+Question: For delta-aminolevulinic acid synthase activity, which one is correct:
+Options:
+a) Is frequently decreased in individuals treated with drugs such as phenobarbital
+b) Catalyzes a rate limiting reaction in porphyrin biosynthesis
+c) Requires the coenzyme biotin
+d) Is strongly inhibited by heavy metal ions such as lead
+e) Occurs in the cytosol
+Correct Option:
+Ans. Catalyzes a rate limiting reaction in porphyrin biosynthesis
+Explanation: ALA synthase catalyzes the rate-limiting step of heme synthesis, requires pyridoxal phosphate as cofactor, occurs in mitochondria, and is inhibited by heme.
+Tags: Biochemistry
+
+Question: In Crigler–Najjar syndrome there is:
+Options:
+a) Conjugated hyperbilirubinemia
+b) Increased glucuronyl transferase activity
+c) Increased hemolytic activity
+d) Unconjugated hyperbilirubinemia
+e) None of the above
+Correct Option:
+Ans. Unconjugated hyperbilirubinemia
+Explanation: Due to deficiency of UDP-glucuronyl transferase, bilirubin cannot be conjugated, resulting in accumulation of unconjugated bilirubin.
+Tags: Biochemistry
+
+Question: The conjugation of bilirubin takes place in presence of:
+Options:
+a) Albumin
+b) Bilirubin reductase
+c) Heme oxygenase system
+d) UDP-glucuronyl reductase
+e) UDP-glucuronyl transferase
+Correct Option:
+Ans. UDP-glucuronyl transferase
+Explanation: This enzyme catalyzes conjugation of bilirubin with glucuronic acid in the liver, making it water-soluble for excretion.
+Tags: Biochemistry
+
+Question: The porphyrin present in haem is:
+Options:
+a) Uroporphyrin
+b) Protoporphyrin I
+c) Coproporphyrin
+d) Protoporphyrin III
+e) Sapphyrin
+Correct Option:
+Ans. Protoporphyrin III
+Explanation: Protoporphyrin III is the porphyrin ring that combines with iron to form heme.
+Tags: Biochemistry
+
+Question: Hb S is formed by substitution of an amino acid at position 6 in:
+Options:
+a) Alpha chain
+b) Beta chain
+c) Gamma chain
+d) Delta chain
+e) Epsilon chain
+Correct Option:
+Ans. Beta chain
+Explanation: HbS results from substitution of valine for glutamic acid at position 6 of the beta-globin chain, causing sickling of red blood cells under low oxygen conditions.
+Tags: Biochemistry
+
+Question: The porphyrin present in haem is:
+Options:
+a) Uroporphyrin
+b) Protoporphyrin I
+c) Coproporphyrin
+d) Protoporphyrin III
+e) Protoporphyrin II
+Correct Option:
+Ans. Protoporphyrin III
+Explanation: Protoporphyrin III is the specific porphyrin ring that combines with iron to form heme. It is the biologically active isomer used in hemoglobin.
+Tags: Biochemistry
+
+Question: Gower 1 Hb has:
+Options:
+a) 2 epsilon and 2 zeta chains
+b) 2 alpha and 2 epsilon chains
+c) Only delta chains
+d) 2 alpha and 2 beta chains
+e) Only epsilon chain
+Correct Option:
+Ans. 2 epsilon and 2 zeta chains
+Explanation: Hb Gower 1 is an embryonic hemoglobin composed of two zeta and two epsilon chains, present early in fetal development before switching to fetal and adult forms.
+Tags: Biochemistry
+
+Question: Variegate porphyria is:
+Options:
+a) Hereditary hepatic porphyria
+b) Erythroblastic porphyria
+c) Cytosolic porphyria
+d) Mitochondrial porphyria
+e) All of the above
+Correct Option:
+Ans. Hereditary hepatic porphyria
+Explanation: Variegate porphyria is a hereditary hepatic porphyria characterized by a defect in heme synthesis enzymes primarily in the liver, leading to neurovisceral and cutaneous symptoms.
+Tags: Biochemistry
+
+Question: Substrates required to start heme synthesis are:
+Options:
+a) Glutaryl CoA and leucine
+b) Malonyl CoA and taurine
+c) Acetyl CoA and lysine
+d) Succinyl CoA and glycine
+e) Acetyl CoA and leucine
+Correct Option:
+Ans. Succinyl CoA and glycine
+Explanation: Heme synthesis begins with condensation of glycine and succinyl CoA to form δ-aminolevulinic acid under the action of ALA synthase.
+Tags: Biochemistry
+
+Question: Primary conjugated bile acid is:
+Options:
+a) Cholic acid
+b) Chenodeoxycholic acid
+c) Lithocholic acid
+d) Deoxycholic acid
+e) Glycochenodeoxycholic acid
+Correct Option:
+Ans. Glycochenodeoxycholic acid
+Explanation: Primary bile acids such as cholic acid and chenodeoxycholic acid are conjugated in the liver with glycine or taurine, forming conjugated bile acids like glycochenodeoxycholic acid.
+Tags: Biochemistry
+
+Question: The enzyme which incorporates iron into porphyrin ring is:
+Options:
+a) Heme oxygenase
+b) Heme reductase
+c) Transferase
+d) Ferrochelatase
+e) Ferroxidase
+Correct Option:
+Ans. Ferrochelatase
+Explanation: Ferrochelatase catalyzes the insertion of iron into protoporphyrin IX to form heme, representing the final step in heme synthesis.
+Tags: Biochemistry
+
+Question: Erythroblastosis fetalis is caused by:
+Options:
+a) Increased glucuronyl transferase
+b) Rh incompatibility
+c) Hepatitis
+d) Decreased albumin level in blood
+e) Viral infection
+Correct Option:
+Ans. Rh incompatibility
+Explanation: Erythroblastosis fetalis occurs due to Rh incompatibility between mother and fetus, leading to hemolysis of fetal red blood cells by maternal antibodies.
+Tags: Biochemistry
+
+Question: Which of the following enzyme is deficient in variegate porphyria:
+Options:
+a) Aminolevulinic acid synthase
+b) Coproporphyrinogen decarboxylase
+c) Protoporphyrinogen oxidase
+d) Uroporphyrinogen decarboxylase
+e) Uroporphyrinogen synthetase
+Correct Option:
+Ans. Protoporphyrinogen oxidase
+Explanation: Variegate porphyria is caused by deficiency of protoporphyrinogen oxidase, leading to accumulation of porphyrin intermediates and resulting in photosensitivity and neurological symptoms.
+Tags: Biochemistry

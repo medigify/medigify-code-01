@@ -1,0 +1,828 @@
+Question: Purines / Pyrimidines are attached to sugar in a nucleotide through:
+Options:
+a) Amide linkage
+b) N-glycosidic linkage
+c) O-glycosidic linkage
+d) Phosphor-di-ester linkage
+e) Peptide linkage
+Correct Option:
+Ans. N-glycosidic linkage
+Explanation: In nucleotides, the nitrogenous base attaches to the C1′ carbon of the pentose sugar via an N-glycosidic bond. In purines the bond is through N9, and in pyrimidines through N1. Lippincott chapter(chapter 22). Peptide and amide bonds occur in proteins; phosphodiester bonds connect nucleotides, not base to sugar; O-glycosidic bonds are typical of carbohydrates.
+Tags: Biochemistry
+
+Question: The anti-codon region is an important part of the structure of:
+Options:
+a) rRNA
+b) hnRNA
+c) mRNA
+d) Z-DNA
+e) tRNA
+Correct Option:
+Ans. tRNA
+Explanation: tRNA contains a three-base anticodon loop that pairs with codons on mRNA during translation. This ensures the correct amino acid is added to the growing polypeptide chain. This function of tRNA is clearly discussed in Lippincott protein synthesis section. rRNA forms ribosome structure, mRNA carries genetic message, hnRNA is precursor mRNA, and Z-DNA is a DNA conformation.
+Tags: Biochemistry
+
+Question: CCA sequence is present at the:
+Options:
+a) 5'-End of tRNA
+b) 3 -End of tRNA
+c) 5 -End of mRNA.
+d) 3'-End of mRNA
+e) 3 -End of hnRNA
+Correct Option:
+Ans. 3 -End of tRNA
+Explanation: All tRNA molecules contain a CCA sequence at the 3′ end, called the acceptor stem, where the amino acid attaches via an ester bond. This site is essential for aminoacyl-tRNA formation. mRNA ends contain 5′ cap and 3′ poly-A tail, not CCA; the 5′ end of tRNA does not carry this sequence.
+Tags: Biochemistry
+
+Question: Chargaff's rule states that the amount of purine must be equal to:
+Options:
+a) Guanine
+b) Cytosine
+c) Adenine
+d) Thymine
+e) Pyrimidine
+Correct Option:
+Ans. Pyrimidine
+Explanation: Chargaff’s rule states A = T and G = C, so total purines (A+G) equal total pyrimidines (T+C) in double-stranded DNA. This is a fundamental concept used to explain DNA base pairing in the Lippincott DNA structure section(chapter 29).
+Other options list individual bases, but the rule applies to total purines vs pyrimidines, not a single base.
+Tags: Biochemistry
+
+Question: The repeating units of nucleic acids are:
+Options:
+a) Phosphate molecules
+b) Nucleotides
+c) Bases
+d) Sugar molecules
+e) Nucleosides
+Correct Option:
+Ans. Nucleotides
+Explanation: DNA and RNA are polymers of nucleotides, each consisting of base + sugar + phosphate. These nucleotides join through phosphodiester bonds to form long polynucleotide chains. Bases and sugars are the only components; nucleosides lack phosphate, and phosphate alone cannot form nucleic acid polymers.
+Tags: Biochemistry
+
+Question: The backbone of nucleic acid structure is constructed by:
+Options:
+a) Peptide bonds
+b) Glycosidic bonds
+c) Phosphodiester bonds
+d) Carbon-carbon bonds
+e) Oxygen-hydrogen bonds
+Correct Option:
+Ans. Phosphodiester bonds
+Explanation: The DNA/RNA backbone consists of alternating sugar and phosphate groups connected by 3′–5′ phosphodiester bonds between nucleotides. This gives the molecule its structural stability and polarity.  Peptide bonds occur in proteins, glycosidic bonds attach base to sugar, and carbon-carbon or hydrogen bonds are not responsible for backbone formation.
+Tags: Biochemistry
+
+Question: Complementary base pairing in the Watson-Crick model includes:
+Options:
+a) Adenine & Thymine
+b) Adenine & Cytosine
+c) Adenine & Guanine
+d) Guanine & Thymine
+e) Cytosine & Thymine
+Correct Option:
+Ans. Adenine and Thymine
+Explanation: In DNA, A pairs with T via two hydrogen bonds, while G pairs with C via three hydrogen bonds. These complementary interactions stabilize the double helix. This base pairing model was proposed by Watson and Crick and described in the Lippincott DNA structure section(chapter 29).
+Tags: Biochemistry
+
+Question: The anti-codon is present in:
+Options:
+a) mRNA
+b) t-RNA
+c) rRNA
+d) n-RNA
+e) b-DNA
+Correct Option:
+Ans. t-RNA
+Explanation: The anticodon loop of tRNA contains three bases that recognize complementary codons on mRNA during translation. This ensures correct amino acid incorporation into the protein. mRNA contains codons, rRNA forms ribosome structure, and DNA carries genetic information but does not have anticodons.
+Tags: Biochemistry
+
+Question: In DNA molecules, the antiparallel strands are held together by:
+Options:
+a) Phosphodiester bonds
+b) Hydrogen bonds
+c) S-S Bonds
+d) Covalent linkages
+e) Glycosidic bonds
+Correct Option:
+Ans. Hydrogen bonds
+Explanation: The two DNA strands run antiparallel (5′→3′ and 3′→5′) and are held together by hydrogen bonds between complementary bases. A–T form two bonds and G–C form three bonds. Phosphodiester bonds hold nucleotides within a strand, while glycosidic bonds link base to sugar.Lipincot(chapter 22)
+Tags: Biochemistry
+
+Question: The nitrogenous base present in DNA but absent in RNA:
+Options:
+a) Adenine
+b) Guanine
+c) Cytosine
+d) Uracil
+e) Thymine
+Correct Option:
+Ans. Thymine
+Explanation: DNA contains adenine, guanine, cytosine, and thymine, whereas RNA contains uracil instead of thymine.
+Tags: Biochemistry
+
+Question: In relation to nucleic acid which of the following statement is NOT correct:
+Options:
+a) Base pairing occurs between a purine and pyrimidine base
+b) The sugar and phosphate groups play structural role in DNA
+c) The two polynucleotide chains in DNA show opposite polarity
+d) Two hydrogen bonds are formed between guanine and cytosine
+e) RNA is an unbranched linear polymer of ribonucleotide
+Correct Option:
+Ans. Two hydrogen bonds are formed between guanine and cytosine
+Explanation: In DNA, G–C pairs form three hydrogen bonds, not two. A–T pairs have two bonds. Lippincott Biochemistry(chapter 22). Purine–pyrimidine pairing maintains width, the backbone is structural, the strands are antiparallel, and RNA is linear.
+Tags: Biochemistry
+
+Question: Nucleotides serve all of the following roles EXCEPT:
+Options:
+a) Components of Nucleic acids
+b) Constituents of coenzymes
+c) Physiological mediators
+d) Structural components of membranes
+e) Used as a source of energy
+Correct Option:
+Ans. Structural components of membranes
+Explanation: Nucleotides function in energy (ATP), coenzymes (NAD⁺, FAD), and signaling (cAMP). However, they are not structural membrane components; lipids and proteins perform that role. Lippincott(chapter 22).
+Tags: Biochemistry
+
+Question: The interconnecting bonds between the nucleotides of RNA and DNA are termed:
+Options:
+a) N-glycosidic linkages
+b) phosphodiester linkages
+c) Thio-diester linkages
+d) 3',2' - phosphodiester linkages
+e) O-glycosidic linkages
+Correct Option:
+Ans. phosphodiester linkages
+Explanation: Nucleotides are linked by 3′–5′ phosphodiester bonds, forming the sugar-phosphate backbone. This is a core structural concept in nucleic acids. Glycosidic bonds connect base to sugar, not nucleotides; others listed are irrelevant.
+Tags: Biochemistry
+
+Question: The acceptor arm is an important region of:
+Options:
+a) mRNA
+b) hnRNA
+c) tRNA
+d) rRNA
+e) snRNA
+Correct Option:
+Ans. tRNA
+Explanation: The acceptor arm (3′ CCA end) of tRNA binds the amino acid. It is essential for forming aminoacyl-tRNA, the active molecule in translation. Other RNAs (mRNA, rRNA, hnRNA) do not have this structure.
+Tags: Biochemistry
+
+Question: All of the following are functions of nucleotides except:
+Options:
+a) They act as high-energy compounds
+b) They are used as coenzymes
+c) Are used in protein biosynthesis as a source of energy
+d) Act as a carrier of various groups, for example, methyl, S, etc.
+e) Take part in the maturation of collagen
+Correct Option:
+Ans. Take part in the maturation of collagen
+Explanation: Nucleotides act as energy carriers (ATP), coenzymes, and group carriers (e.g., SAM). Collagen maturation requires vitamin C, not nucleotides. Other options reflect real nucleotide roles in metabolism and biosynthesis.
+Tags: Biochemistry
+
+Question: Which of the following statements about nucleotide structure is NOT CORRECT:
+Options:
+a) Nucleotides are polyfunctional acids.
+b) Caffeine and theobromine differ structurally solely with respect to the number of methyl groups attached to their ring nitrogen.
+c) The atoms of the purine ring portion are numbered in the same direction as those of a pyrimidine
+d) NAD+, FMN, "active methionine", and coenzyme A are derivatives of ribonucleotides.
+e) 3', 5' - cyclic AMP and GMP (cAMP and cGMP) serve as second messengers in human biochemistry
+Correct Option:
+Ans. The atoms of the purine ring portion are numbered in the same direction as those of a pyrimidine
+Explanation: Purine and pyrimidine rings have different numbering systems, so this statement is false. Lippincott nucleic acid basics(chapter 29). Other options are correct as nucleotide derivatives act as coenzymes, second messengers (cAMP), and methylated bases differ structurally.
+Tags: Biochemistry
+
+Question: All of the following are true about mRNA except:
+Options:
+a) It has a cap at the 5' end
+b) It has a tail at the 3' end
+c) It has a single strand
+e) It carries anticodon for protein synthesis
+Correct Option:
+Ans. It carries anticodon for protein synthesis
+Explanation: mRNA carries codons, not anticodons. Anticodons are present on tRNA. mRNA has 5′ cap, 3′ poly-A tail, and is single-stranded. Lipincott (chapter 31).
+Tags: Biochemistry
+
+Question: The backbone of a DNA molecule is composed of which of the following:
+Options:
+a) Alternating sugars and nitrogenous bases
+b) Nitrogenous bases alone
+c) Phosphate groups alone
+d) Alternating phosphate and sugar groups
+e) Five carbon sugars alone
+Correct Option:
+Ans. Alternating phosphate and sugar groups
+Explanation: DNA backbone consists of alternating deoxyribose sugar and phosphate groups, forming a stable framework. Bases project inward. Other options are incorrect because bases are not part of the backbone itself. Lipincott(chapter 30)
+Tags: Biochemistry
+
+Question: A nucleotide molecule consists of the following components:
+Options:
+a) Nitrogenous base, pentose sugar (Ribose)
+b) Purine or pyrimidine base, Ribose, Phosphate
+c) Purine or pyrimidine base, Ribose or deoxyribose & phosphate
+d) Purine base, pyrimidine base, Ribose
+e) Purine base, Ribose, Phosphate
+Correct Option:
+Ans. Purine or pyrimidine base, Ribose or deoxyribose & phosphate
+Explanation: A nucleotide = nitrogenous base + pentose sugar (ribose/deoxyribose) + phosphate group. This is the fundamental unit of nucleic acids. Options missing any of these components are incomplete or incorrect.
+Tags: Biochemistry
+
+Question: Codons are present on:
+Options:
+a) Non-coding strand of DNA
+b) hnRNA
+c) mRNA
+d) eRNA
+e) snRNA
+Correct Option:
+Ans. mRNA
+Explanation: Codons are triplet sequences on mRNA that specify amino acids during protein synthesis. tRNA carries anticodons that match these codons. DNA stores the code, but codons are functionally read on mRNA during translation.
+Tags: Biochemistry
+
+Question: RNA does not contain:
+Options:
+a) Uracil
+b) Adenine
+c) Hydroxyl methyl cytosine
+d) Ribose
+e) Phosphate
+Correct Option:
+Ans. Hydroxyl methyl cytosine
+Explanation: RNA contains A, G, C, U, ribose, and phosphate. Hydroxymethyl cytosine is a modified DNA base (seen in some viruses), not RNA. Lippincott Illustrated Reviews: Biochemistry(chapter 31). Other options are normal RNA components.
+Tags: Biochemistry
+
+Question: If the guanine content of the DNA molecule is 20% of the total bases, the thymine content will be:
+Options:
+a) 10%
+b) 20%
+c) 30%
+d) 40%
+e) 50%
+Correct Option:
+Ans. 30%
+Explanation: By Chargaff’s rule: G = C = 20%, so GC = 40%. Remaining 60% = A + T, and since A = T, so T = 30%. Other values don’t satisfy base-pair equality.
+Tags: Biochemistry
+
+Question: Purine nucleus contains:
+Options:
+a) Two nitrogen atoms and seven carbon atoms
+b) Three nitrogen atoms and six carbon atoms
+c) Four nitrogen atoms and six carbon atoms
+d) Four nitrogen atoms and five carbon atoms
+e) Five nitrogen atoms and four carbon atoms
+Correct Option:
+Ans. Four nitrogen atoms and five carbon atoms
+Explanation: Purine ring (adenine, guanine) is a double-ring structure with 9 atoms total (4 N + 5 C). Lippincott (chapter 22). Other options give incorrect atom counts.
+Tags: Biochemistry
+
+Question: Cyclic AMP is formed from:
+Options:
+a) CTP
+b) GDP
+c) UDP
+d) GTP
+e) ATP
+Correct Option:
+Ans. ATP
+Explanation: cAMP is formed from ATP by adenylyl cyclase, removing two phosphates and forming a cyclic bond. It acts as a second messenger.
+Other nucleotides (GTP, CTP, etc.) form different cyclic nucleotides (e.g., cGMP from GTP).
+Tags: Biochemistry
+
+Question: Which one of the following is not present in DNA:
+Options:
+a) Adenine
+b) Guanine
+c) Cytosine
+d) Thymine
+e) Uracil
+Correct Option:
+Ans. Thymine
+Explanation: DNA uses thymine, while RNA uses uracil.
+Tags: Biochemistry
+
+Question: Which one of the following nucleotides is present in mRNA but not in DNA:
+Options:
+a) dAMP
+b) dCMP
+c) dGMP
+d) dUMP
+e) Both c & d
+Correct Option:
+Ans. dUMP
+Explanation: Uracil presence in RNA only. Other options (dAMP, dCMP, dGMP) are DNA nucleotides. Uracil (UMP) is found in RNA, not DNA
+Tags: Biochemistry
+
+Question: The number of purine bases and pyrimidine bases is equal in:
+Options:
+a) DNA
+b) mRNA
+c) tRNA
+d) rRNA
+e) hnRNA
+Correct Option:
+Ans. DNA
+Explanation: In double-stranded DNA, purines = pyrimidines due to base pairing. This does not apply to single-stranded RNA. Hence mRNA, tRNA, rRNA don’t follow this strict equality.
+Tags: Biochemistry
+
+Question: The smallest RNA amongst the following is:
+Options:
+a) r RNA
+b) hn RNA
+c) m RNA
+d) tRNA
+e) nRNA
+Correct Option:
+Ans. tRNA
+Explanation: tRNA is the smallest (~70–90 nucleotides) and has a compact cloverleaf structure. rRNA is largest, hnRNA is precursor and very large, mRNA varies but generally longer than tRNA.
+Tags: Biochemistry
+
+Question: The anticodon is the triplet code residing on:
+Options:
+a) mRNA
+b) tRNA
+c) rRNA
+d) DNA
+e) nRNA
+Correct Option:
+Ans. tRNA
+Explanation: The anticodon loop of tRNA recognizes codons on mRNA during translation. This ensures correct amino acid placement. mRNA has codons, not anticodons.
+Tags: Biochemistry
+
+Question: mRNA and tRNA are synthesized in the:
+Options:
+a) Nucleoplasm
+b) Nucleolus
+c) Cytosol
+d) Mitochondria
+e) Endoplasmic Reticulum
+Correct Option:
+Ans. Nucleolus
+Explanation: Actually, mRNA is synthesized in the nucleoplasm, while rRNA is made in the nucleolus. But UHS-style answers often link RNA synthesis to the nucleus/nucleolus region, and the closest option is nucleolus.
+Tags: Biochemistry
+
+Question: The backbone of nucleic acid structure is constructed by:
+Options:
+a) Peptide bond
+b) Glycoside bond
+c) Phosphodiester bond
+d) Ionic bond
+e) All of them
+Correct Option:
+Ans. Phosphodiester bond
+Explanation: The backbone is formed by 3′–5′ phosphodiester bonds linking nucleotides. This creates the sugar-phosphate framework of DNA/RNA. Peptide bonds form proteins; glycosidic bonds link bases to sugars; ionic bonds are not the main linkages.
+Tags: Biochemistry
+
+Question: The Watson & Crick model of DNA structure shows:
+Options:
+a) A triple-stranded structure
+b) The DNA strands running in opposite directions
+c) Pair bonding between A and G
+d) Covalent bonding between bases
+e) Globular structure
+Correct Option:
+Ans. The DNA strands running in opposite directions
+Explanation: DNA strands run in opposite directions (5′→3′ and 3′→5′), which is essential for replication and stability. DNA is double-stranded (not triple), A pairs with T (not G), and bonding between bases is hydrogen, not covalent.
+Tags: Biochemistry
+
+Question: In cyclic AMP, phosphate is attached to the carbon atoms of:
+Options:
+a) 1 and 5
+b) 2 and 5
+c) 1 and 4
+d) 3 and 5
+e) 2 and 3
+Correct Option:
+Ans. 3 and 5
+Explanation: cAMP has a cyclic phosphodiester bond between 3′ and 5′ carbons of ribose. This structure is key to its role as a second messenger. Other options don’t represent the cyclic structure correctly.
+Tags: Biochemistry
+
+Question: The most abundant free nucleotide in mammalian cells is:
+Options:
+a) ATP
+b) FAD
+c) GTP
+d) NAD
+e) None of these
+Correct Option:
+Ans. ATP
+Explanation: ATP is the main energy currency and the most abundant free nucleotide. It powers metabolic reactions and signaling. FAD, NAD, and GTP are important but less abundant in free form.
+Tags: Biochemistry
+
+Question: Codons are present in:
+Options:
+a) Template strand of DNA
+b) mRNA
+c) tRNA
+d) rRNA
+e) 3' end of tRNA
+Correct Option:
+Ans. mRNA
+Explanation: Codons are triplet sequences on mRNA that specify amino acids during translation. DNA stores the code but is not directly read by ribosomes; tRNA has anticodons, not codons.
+Tags: Biochemistry
+
+Question: Which of following RNA is the precursor of mRNA:
+Options:
+a) hnRNA
+b) mRNA
+c) SnRNA
+d) tRNA
+e) DNA
+Correct Option:
+Ans. hnRNA
+Explanation: hnRNA (heterogeneous nuclear RNA) is the primary transcript that undergoes processing (capping, splicing, polyadenylation) to become mature mRNA. Other RNAs are not precursors of mRNA.
+Tags: Biochemistry
+
+Question: The phosphodiester linkages holding nucleotides in DNA and RNA are:
+Options:
+a) Covalent bonds
+b) Hydrogen bonds
+c) Disulphide bonds
+d) Van der Waal interactions
+e) Hydrophobic interaction
+Correct Option:
+Ans. (A)
+Tags: Biochemistry
+
+Question: Which of the following is correct regarding DNA:
+Options:
+a) Deoxyribonucleotides are linked by 2',5 phosphodiester bonds
+b) DNA is absent in prokaryotic cells
+c) DNA is bound to protein histones
+d) Adenine pairs with cytosine
+e) The base pairing rule was proposed by Watson and Crick
+Correct Option:
+Ans. DNA is bound to protein histones
+Explanation: In eukaryotes, DNA is packaged with histones to form chromatin. Bonds are 3′–5′, DNA is present in prokaryotes, A pairs with T, and Chargaff (not Watson & Crick) proposed base ratios.
+Tags: Biochemistry
+
+Question: The following is true regarding denaturation/melting of DNA EXCEPT:
+Options:
+a) DNA is denatured when hydrogen bonds break in the molecule
+b) At Tm (melting temperature), half of the DNA is denatured
+c) The absorbance of DNA is decreased by denaturation
+d) Tm is strongly influenced by the composition of DNA
+e) Denatured DNA can be renatured by cooling
+Correct Option:
+Ans. The absorbance of DNA is decreased by denaturation
+Explanation: Denaturation causes an increase in absorbance (hyperchromic effect) due to base unstacking. Other statements are correct,  H-bonds break, Tm = 50% denatured, GC content ↑ Tm, and renaturation can occur.
+Tags: Biochemistry
+
+Question: Allopurinol is a competitive inhibitor of:
+Options:
+a) Dihydrofolate reductase
+b) Xanthine oxidase
+c) Carbonic anhydrase
+d) Oxidase
+Correct Option:
+Ans. Xanthine oxidase
+Explanation: Allopurinol is a competitive inhibitor of xanthine oxidase, reducing uric acid formation in gout.
+Tags: Biochemistry
+
+Question: The nucleobases in DNA linked through triple H bonds are:
+Options:
+a) C & T
+b) A & T
+c) G & C
+d) T & C
+e) A & A
+Correct Option:
+Ans. G & C
+Explanation: Guanine pairs with cytosine via THREE hydrogen bonds, making GC-rich DNA more stable. A–T has only two bonds. Lippincott Illustrated Reviews: Biochemistry(chapter 22). Other options either pair incorrectly or don’t form triple bonds.
+Tags: Biochemistry
+
+Question: Which acid is a constituent part of Nucleotide:
+Options:
+a) Glucuronic acid
+b) Hydrochloric acid
+c) Nitric acid
+d) Carbonic acid
+e) Phosphoric acid
+Correct Option:
+Ans. Phosphoric acid
+Explanation: Nucleotides contain phosphate (phosphoric acid), pentose sugar, and a base. The phosphate group gives nucleotides their acidic nature.
+Other acids listed are unrelated to nucleotide structure. Lipincott(chapter 22)
+Tags: Biochemistry
+
+Question: mRNA is a complementary copy of:
+Options:
+a) tRNA
+b) rRNA
+c) A single strand of DNA
+d) Ribosomal RNA
+e) None
+Correct Option:
+Ans. A single strand of DNA
+Explanation: mRNA is synthesized as a complementary copy of the DNA template strand during transcription. It is NOT complementary to tRNA or rRNA; those function in translation, not transcription.
+Tags: Biochemistry
+
+Question: The following nitrogen atom of purines is attached to the sugar in nucleoside:
+Options:
+a) Nitrogen 2
+b) Nitrogen 3
+c) Nitrogen 5
+d) Nitrogen 7
+e) Nitrogen 9
+Correct Option:
+Ans. Nitrogen 9
+Explanation: In purines, the sugar attaches at N9 via an N-glycosidic bond; in pyrimidines, attachment is at N1. Other nitrogen positions are not involved in this linkage.
+Tags: Biochemistry
+
+Question: The acceptor arm is an Important region of:
+Options:
+a) mRNA
+b) hnRNA
+c) tRNA
+d) rRNA
+e) SnRNA
+Correct Option:
+Ans. tRNA
+Explanation: In purines, the sugar attaches at N9 via an N-glycosidic bond; in pyrimidines, attachment is at N1. Other nitrogen positions are not involved in this linkage.
+Tags: Biochemistry
+
+Question: Nuclear DNA is present in combination with:
+Options:
+a) Only Histones
+b) Only non-histones
+c) Triglycerides
+d) Histones and non-histones
+e) Histones and Triglycerides
+Correct Option:
+Ans. Histones and non-histones
+Explanation: DNA in nucleus is packaged with histones (structural) and non-histone proteins (regulatory) forming chromatin. Not just histones alone, and definitely not triglycerides.
+Tags: Biochemistry
+
+Question: A molecule of DNA having high GC content will have:
+Options:
+a) High melting temperature
+b) Low melting temperature
+c) Optimal melting temperature
+d) Balanced melting temperature
+e) Basal melting temperature
+Correct Option:
+Ans. High melting temperature
+Explanation: More GC means more triple H bonds, meaning stronger bonding leading to higher Tm. This is a classic concept in DNA stability. Low Tm would occur with more AT content.
+Tags: Biochemistry
+
+Question: Which of the following sequences is complementary to the DNA sequence
+5:AGTCCGA-3' :
+Options:
+a) 5'-AAGUCCCA-3'
+b) 3'-TCAGGCT-5'
+c) 3'-TCGGACTT-5'
+d) 5'-TTCAGGCT-3
+e) 5'-CCTGAATG-3
+Correct Option:
+Ans. 3'-TCAGGCT-5'
+Explanation: Base pairing rules: A–T, G–C, and strands are antiparallel. So the correct complementary strand must run 3′→5′. Other options either mismatch bases or direction.
+Tags: Biochemistry
+
+Question: All of the following are true about mRNA EXCEPT:
+Options:
+a) It has a cap at the 5'end
+b) It has a tail at the 3'end
+c) It has a single strand
+d) It acts as a template for Protein Synthesis.
+e) It carries an anticodon.
+Correct Option:
+Ans. It carries an anticodon.
+Explanation: mRNA carries codons, not anticodons. Anticodons are on tRNA. Other features (5′ cap, 3′ tail, single strand, template role) are correct.
+Tags: Biochemistry
+
+Question: All of the following statements are true about cAMP EXCEPT:
+Options:
+a) It acts as a second messenger
+b) Its increased levels lead to glycogenolysis
+c) It activates different steps of steroid biosynthesis
+d) It inhibits Protein Kinases
+e) It modulates both transcription and translation in Protein biosynthesis
+Correct Option:
+Ans. It inhibits Protein Kinases
+Explanation: cAMP actually activates protein kinase A (PKA), leading to phosphorylation cascades. Other options are correct; it’s a second messenger, promotes glycogenolysis, and affects transcription/translation.
+Tags: Biochemistry
+
+Question: Poly A Tail is found in mRNA at:
+Options:
+a) 5'. end
+b) 4' end
+c) 3'-end
+d) T-end
+Correct Option:
+Ans. 3'-end
+Explanation: mRNA has a poly-A tail at the 3′ end, added post-transcriptionally for stability and export. Lippincott Illustrated Reviews: Biochemistry(chapter 31). Other ends (5′ or “4′”) are incorrect; the 5′ end has a cap, not poly-A.
+Tags: Biochemistry
+
+Question: Which of the following is a nucleoside:
+Options:
+a) Deoxyadenosine Monophosphate
+b) Cytidine
+c) Guanosine Triphosphate
+d) Uridine Diphosphate
+e) Adenosine Diphosphate
+Correct Option:
+Ans. Cytidine
+Explanation: A nucleoside = base + sugar (no phosphate). Cytidine fits this definition. Others (AMP, GTP, UDP, ADP) all contain phosphate groups, so they are nucleotides.
+Tags: Biochemistry
+
+Question: Nucleic Acid Synthesis would be reduced most directly by a deficiency of:
+Options:
+a) Biotin
+b) 11-cis retinal
+c) Folic acid
+d) Potassium
+e) Thiamine
+Correct Option:
+Ans. Folic acid
+Explanation: Folate is required for one-carbon transfer reactions in purine and thymidine synthesis. Deficiency → impaired DNA synthesis (megaloblastic anemia). Other options don’t directly block nucleotide synthesis.
+Tags: Biochemistry
+
+Question: The purine nucleotide acting as a high-energy intermediate in metabolic reactions is:
+Options:
+a) cAMP
+b) ATP
+c) cGMP
+d) UMP
+e) UDP
+Correct Option:
+Ans. ATP
+Explanation: ATP is the primary energy currency, driving countless metabolic reactions. cAMP/cGMP are signaling molecules; UMP/UDP are not high-energy in the same sense.
+Tags: Biochemistry
+
+Question: mRNA is the complementary copy of:
+Options:
+a) Template strand of DNA
+b) Coding strand of DNA
+c) Transfer RNA
+d) Heterogeneous nuclear RNA
+e) Ribosomal RNA
+Correct Option:
+Ans. Template strand of DNA
+Explanation: mRNA is synthesized as a complement of the template (antisense) strand, so it matches the coding strand except that U replaces T. Other options are incorrect sources.
+Tags: Biochemistry
+
+Question: A pentose found in nucleotides is:
+Options:
+a) D-Ribose
+b) L-Ribose
+c) D-Ribulose
+d) L-Ribulose
+e) D-Xylulose
+Correct Option:
+Ans. D-Ribose
+Explanation: RNA contains D-ribose, while DNA has deoxyribose (missing 2′-OH). Other sugars listed (ribulose, xylulose) are metabolic intermediates, not nucleic acid sugars.
+Tags: Biochemistry
+
+Question: Which of the following is not present in transfer RNA:
+Options:
+a) CCA end
+b) Variable arm
+c) Codon region
+d) D-arm
+e) TkvC Arm
+Correct Option:
+Ans. Codon region
+Explanation: tRNA contains anticodon, not codon. It also has D-arm, TΨC arm, variable arm, and CCA end. Codons are on mRNA, not tRNA.
+Tags: Biochemistry
+
+Question: Which of the following is a free purine deoxyribonucleotide:
+Options:
+a) cAMP
+b) TMP
+c) dAMP
+d) GMP
+e) TPP
+Correct Option:
+Ans. dAMP
+Explanation: dAMP = deoxyadenosine monophosphate, a purine deoxyribonucleotide. cAMP is cyclic (not deoxy), GMP is ribonucleotide, TMP is pyrimidine, TPP is unrelated.
+Tags: Biochemistry
+
+Question: Which of the following is a nucleotide:
+Options:
+a) Cytidine
+b) Deoxyadenosine
+c) Deoxythymidine
+d) Deoxy guanylate
+e) Uridine
+Correct Option:
+Ans. Deoxy guanylate
+Explanation: A nucleotide must include base + sugar + phosphate. Deoxyguanylate satisfies this. Cytidine, uridine, deoxyadenosine, etc., are nucleosides (no phosphate).
+Tags: Biochemistry
+
+Question: Which of the following nucleotides serves as an "activated" intermediate in biochemical reactions:
+Options:
+a) CDP-Choline
+b) GDP-Mannose
+c) UDP-glucuronic acid
+d) All of the above
+e) None of the above
+Correct Option:
+Ans. All of the above
+Explanation: Compounds like UDP-glucose, GDP-mannose, and CDP-choline act as activated carriers in biosynthetic pathways. They donate groups (sugars, lipids, etc.) during metabolism.
+Tags: Biochemistry
+
+Question: Pseudouridine, a modified base, is present in:
+Options:
+a) B-DNA
+b) mRNA
+c) rRNA
+d) tRNA
+e) snRNA
+Correct Option:
+Ans. tRNA
+Explanation: Pseudouridine (Ψ) is a modified base commonly found in tRNA, contributing to its structural stability. This modification is highlighted in Lippincott Illustrated Reviews: Biochemistry under RNA structure(chapter 31). mRNA is mostly unmodified; rRNA has some modifications, but Ψ is classically tested with tRNA.
+Tags: Biochemistry
+
+Question: Which of the following nitrogenous bases of DNA and RNA is the largest:
+Options:
+a) Adenine
+b) Cytosine
+c) Guanine
+d) Thymine
+e) Uracil
+Correct Option:
+Ans. Guanine
+Explanation: Guanine is a purine (double-ring) and slightly larger than adenine due to additional functional groups. Pyrimidines (C, T, U) are smaller (single ring).
+Hence, guanine is the largest among the listed options.
+Tags: Biochemistry
+
+Question: A Nucleosome is a:
+Options:
+a) Double-stranded DNA
+b) Double-stranded DNA with all histones
+c) Double-stranded DNA with all histories except H1
+d) Denatured DNA
+e) Single-stranded DNA
+Correct Option:
+Ans. Double-stranded DNA with all histories except H1
+Explanation: A nucleosome consists of DNA wrapped around a histone octamer (H2A, H2B, H3, H4). H1 is a linker histone, not part of the core nucleosome. Other options are incomplete or incorrect definitions.
+Tags: Biochemistry
+
+Question: Which of the following statements regarding a double-helical molecule of DNA is true:
+Options:
+a) All hydroxyl groups of pentoses are involved in linkages
+b) Bases are perpendicular to the axis
+c) Each strand is identical
+d) Each strand has a parallel, 5' to 3’ direction
+e) Each strand replicates itself
+Correct Option:
+Ans. Bases are perpendicular to the axis
+Explanation: Nitrogenous bases are stacked perpendicular to the helical axis, stabilizing the structure via stacking interactions. Other options are strands that are antiparallel (not parallel), not identical, and not all OH groups are involved in bonds.
+Tags: Biochemistry
+
+Question: The so-called caps of RNA molecules:
+Options:
+a) Allow tRNA to be processed
+b) Occur at the end of tRNA
+c) Are composed of poly A
+d) Have high guanine content
+e) Have uridine content
+Correct Option:
+Ans. Have high guanine content
+Explanation: The 5′ cap of mRNA is 7-methylguanosine, so it has high guanine content. It protects mRNA and aids in translation initiation. Not related to tRNA, not poly-A, and not uridine-rich.
+Tags: Biochemistry
+
+Question: A pentose with a 5'-phosphate group, a 2'-hydroxyl group, and a' 1'-pyrimidine group describes which of the following structures:
+Options:
+a) Cytosine
+b) Guanosine
+c) Thymidine
+d) Thymidine monophosphate
+e) Cytidine monophosphate
+Correct Option:
+Ans. Cytidine monophosphate
+Explanation: Given, ribose (2′ OH), phosphate, and pyrimidine base → this defines a ribonucleotide. Cytidine monophosphate fits perfectly. Other options either lack phosphate or have wrong base/sugar.
+Tags: Biochemistry
+
+Question: In DNA, three hydrogen bonds are formed between:
+Options:
+a) Adenine and guanine
+b) Adenine and thymine
+c) Guanine and cytosine
+d) Thymine and cytosine
+e) Adenine and cytosine
+Correct Option:
+Ans. Guanine and cytosine
+Explanation: Again, G≡C forms three H bonds, giving higher stability than A=T (two bonds). Other pairings are incorrect.
+Tags: Biochemistry
+
+Question: Pyrimidine nucleus contains:
+Options:
+a) One nitrogen atom and five carbon atoms
+b) Two nitrogen atoms and three carbon atoms
+c) Two nitrogen atoms and four carbon atoms
+d) Three nitrogen atoms and three carbon atoms
+e) Three nitrogen atoms and four carbon atoms
+Correct Option:
+Ans. Two nitrogen atoms and four carbon atoms
+Explanation: Pyrimidines (C, T, U) are single-ring structures with 6 atoms total (2 N + 4 C). Other options have incorrect atom numbers.
+Tags: Biochemistry
+
+Question: Poly A tail is found in mRNA at:
+Options:
+a) 5'-end
+b) 4'-end
+c) 3'-end
+d) 7'-end
+e) 2'-end
+Correct Option:
+Ans. 3'-end
+Explanation: mRNA has a poly-A tail at the 3′ end, aiding in stability, export, and translation efficiency.  5′ end instead has a cap (7-methylguanosine).
+Tags: Biochemistry

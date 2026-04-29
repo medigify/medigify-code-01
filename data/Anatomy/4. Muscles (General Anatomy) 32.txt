@@ -1,0 +1,352 @@
+Muscle
+Question: Regarding Muscle all of the above statements are correct except:
+Options:
+a) Smooth muscles are spindle shaped
+b) Cardiac muscles are striated
+c) Skeletal muscles are in voluntary control
+d) Smooth muscles of ciliary body are voluntary
+Correct Option:
+Ans. Smooth muscles of ciliary body are voluntary
+Explanation: Smooth muscles, including those in the ciliary body, are involuntary. They are spindle-shaped, while cardiac muscles are striated and skeletal muscles are under voluntary control.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Regarding the muscle all are true except:
+Options:
+a) Deltoid is multipennate muscle
+b) Dorsal interossei are multipennate
+c) Sartorius has parallel muscle fibers
+d) Parallel muscle fibers have great range of movement
+Correct Option:
+Ans. Parallel muscle fibers have great range of movement
+Explanation: Muscles with parallel fibers, like the sartorius, generally allow a greater range of movement. The statement “parallel fibers have great range” is false in general for all muscles because fiber arrangement varies.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Epimysium Covers:
+Options:
+a) Muscle fiber
+b) Bundle of muscle fibers
+c) Whole muscle
+d) Ligament
+Correct Option:
+Ans. Whole muscle
+Explanation: The epimysium is a connective tissue sheath that surrounds the entire muscle, providing protection and transmitting force to tendons. Fascicles and individual fibers have separate sheaths: perimysium and endomysium.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Following is a fan shaped muscle:
+Options:
+a) Omohyoid
+b) Subclavius
+c) Orbicularis oris
+d) Temporalis
+Correct Option:
+Ans. Orbicularis Oris
+Explanation: The temporalis muscle is fan-shaped, with fibers spreading from a broad origin and converging to a narrow insertion. Other muscles listed are not fan shaped.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which condition is false regarding condition of muscle atrophy:
+Options:
+a) Chronic illness
+b) Lower motor neuron disease
+c) Denervation
+d) Weight lift
+Correct Option:
+Ans. Weight lift
+Explanation: Muscle atrophy occurs due to denervation, chronic illness, or lower motor neuron disease. Weightlifting leads to hypertrophy, not atrophy.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Tendon is made up of:
+Options:
+a) Irregular collagen fibers
+b) Elastic fibers
+c) fibroelastic cartilage
+d) dense regular collagen
+Correct Option:
+Ans. Dense regular collagen
+Explanation: Tendons are made of dense regular collagen fibers, arranged in parallel for high tensile strength, allowing them to transmit force from muscle to bone.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Select the incorrect match:
+Options:
+a) Hemiplegia (paralysis of' one half of the body
+b) Paraplegia (paralysis of both lower limbs)
+c) Quadriplegia (paralysis of all four limbs)
+d) Hemiparesis (weakness of both shoulders)
+Correct Option:
+Ans. Hemiparesis (weakness of both shoulders)
+Explanation: Hemiparesis is weakness of one side of the body, not both shoulders. Hemiplegia is paralysis of one half, paraplegia of lower limbs, and quadriplegia of all four limbs.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is not a spiral muscle:
+Options:
+a) Latissimus dorsi
+b) Pectoralis major
+c) Serratus anterior
+d) supinator
+Correct Option:
+Ans. Serratus anterior
+Explanation: Spiral muscles twist around the axis of the limb, e.g., latissimus dorsi, pectoralis major, supinator. Serratus anterior is not spiral; it is a fan-shaped or flat muscle.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is not a triangular muscle:
+Options:
+a) Adductor longus
+b) Deltoid
+c) Temporalis
+d) Frontalis
+Correct Option:
+Ans. Frontalis
+Explanation: Triangular muscles have a broad origin converging to a narrow insertion. Frontalis is flat, not triangular, while deltoid, temporalis, and adductor longus are triangular.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is not a uni-pennate muscle:
+Options:
+a) Rectus femoris
+b) Flexor pollicis longus
+c) Extensor digitorum
+d) Peroneus tertius
+Correct Option:
+Ans. Rectus femoris
+Explanation: Rectus femoris is bipennate, not unipennate. Unipennate muscles include flexor pollicis longus, extensor digitorum, and peroneus tertius.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is bipennate muscle:
+Options:
+a) Flexor pollicis
+b) Extensor digitorum
+c) Deltoid
+d) Rectus femoris
+Correct Option:
+Ans. Rectus femoris
+Explanation: Rectus femoris has fibers on both sides of a central tendon, making it bipennate, allowing stronger force production.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is a multipennate muscle:
+Options:
+a) Rectus femoris
+b) Deltoid
+c) Subscapularis
+d) Temporalis
+Correct Option:
+Ans. Subscapularis
+Explanation: Subscapularis is multipennate, with multiple central tendons and fibers inserting obliquely, maximizing force.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is a circumpennate muscle:
+Options:
+a) Sartorius
+b) Orbicularis oris
+c) Tibialis anterior
+d) Rectus abdominus
+Correct Option:
+Ans. Tibialis anterior
+Explanation: Tibialis anterior is circumpennate, meaning fibers radiate around a central tendon, allowing both strength and some flexibility.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following is a cruciate muscle:
+Options:
+a) Masseter & Sternocleido-mastoid
+b) Omohyoid
+c) Glossopharyngeus
+d) latissimus dorsi
+Correct Option:
+Ans. Masseter and sternocleido-mastoid
+Explanation: Cruciate muscles have fibers crossing in an X-shaped pattern, like masseter and sternocleidomastoid, allowing multidirectional force.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The sarcoplasmic reticulum:
+Options:
+a) Is a part of neuromuscular junction
+b) Inhibits calcium production
+c) Is continuous with T-tubules
+d) Releases calcium which allows actin to bind with myosin
+Correct Option:
+Ans. Releases calcium which allows actin to bind with myosin
+Explanation: The sarcoplasmic reticulum stores and releases calcium ions, enabling actin-myosin interaction and muscle contraction; it is continuous with T-tubules.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The neuromuscular junction is a specialized form of synaptic contact between motor neuron axon terminal and muscle. Which of the following properties distinguish it from the CNS synapse:
+Options:
+a) The presence of junctional folds of the postsynaptic membrane
+b) The presence of synaptic vesicles within the presynaptic axon
+c) The presence of postsynaptic receptor membrane
+d) The presence of synaptic cleft
+Correct Option:
+Ans. The presence of junctional folds of the postsynaptic membrane
+Explanation: The neuromuscular junction has junctional folds in the postsynaptic membrane, increasing surface area for acetylcholine receptors, distinguishing it from CNS synapses.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Paraplegia is the paralysis of:
+Options:
+a) One side of body
+b) Lower half of the body
+c) Lower limbs below knee joint
+d) lower limbs only
+Correct Option:
+Ans. Lower half of the body
+Explanation: Paraplegia refers to paralysis of the lower half of the body, usually due to spinal cord injury. Hemiplegia affects one side; quadriplegia affects all four limbs.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following features is characteristic of skeletal muscle but not smooth muscle:
+Options:
+a) Presence of actin and myosin filaments
+b) Ability to contract
+c) Presence of sarcomeres
+d) Requirement of calcium ions for contraction
+Correct Option:
+Ans. Presence of sarcomeres
+Explanation: Skeletal muscle has sarcomeres, the contractile units giving striations, which are absent in smooth muscle. Both have actin, myosin, and require calcium.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which muscle property refers to the ability of muscle to return to its original length after contraction or extension:
+Options:
+a) Excitability
+b) Contractility
+c) Elasticity
+d) Extensibility
+Correct Option:
+Ans. Elasticity
+Explanation: Elasticity is the ability of muscle to return to its original length after contraction or extension, unlike contractility or extensibility.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The connective tissue sheath that surrounds a bundle of muscle fibers (fascicle) is called:
+Options:
+a) Epimysium
+b) Endomysium
+c) Perimysium
+d) Sarcolemma
+Correct Option:
+Ans. Perimysium
+Explanation: The perimysium is the connective tissue surrounding a bundle of muscle fibers (fascicle), while epimysium covers the whole muscle and endomysium covers individual fibers.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which type of muscle fiber arrangement produces the greatest power due to a larger number of fibers per unit area:
+Options:
+a) Parallel
+b) Fusiform
+c) Pennate
+d) Circular
+Correct Option:
+Ans. Pennate
+Explanation: Pennate muscles have fibers arranged obliquely to the tendon, allowing a larger number of fibers per unit area. This arrangement maximizes force production, unlike parallel or circular muscles, which favor range of movement over power.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The functional unit of skeletal muscle responsible for contraction is:
+Options:
+a) Myofibril
+b) Sarcomere
+c) Sarcolemma
+d) Sarcoplasm
+Correct Option:
+Ans. Sarcomere
+Explanation: The sarcomere is the structural and functional unit of skeletal muscle responsible for contraction. It is composed of actin (thin) and myosin (thick) filaments, whose sliding generates muscle shortening.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The connective tissue sheath that surrounds an individual muscle fiber is called:
+Options:
+a) Epimysium
+b) Perimysium
+c) Endomysium
+d) Sarcolemma
+Correct Option:
+Ans. Endomysium
+Explanation: The endomysium surrounds individual muscle fibers, providing structural support, separating fibers, and allowing transmission of force to the perimysium and epimysium.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which property of muscle refers to the ability of a muscle to respond to a stimulus by generating an electrical signal:
+Options:
+a) Contractility
+b) Excitability
+c) Elasticity
+d) Extensibility
+Correct Option:
+Ans. Excitability
+Explanation: Excitability refers to a muscle’s ability to respond to a stimulus by generating an electrical signal (action potential). This property distinguishes muscle from passive tissues.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: A muscle that assists the prime mover by adding extra force to the same movement is called a:
+Options:
+a) Antagonist
+b) Fixator
+c) Synergist
+d) Neutralizer
+Correct Option:
+Ans. Synergist
+Explanation: A synergist muscle assists the prime mover by adding extra force to the same movement or stabilizing the joint. It does not oppose the movement, unlike an antagonist.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: In pennate muscles, the muscle fibers are arranged:
+Options:
+a) Parallel to the line of pull
+b) Perpendicular to the line of pull
+c) Obliquely to the tendon
+d) Circularly around an opening
+Correct Option:
+Ans. Obliquely to the tendon
+Explanation: In pennate muscles, fibers are arranged obliquely to the tendon, which increases the number of fibers in parallel, enhancing force production. Parallel or circular arrangements provide less force
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which of the following muscles is an example of a bipennate muscle:
+Options:
+a) Deltoid
+b) Rectus femoris
+c) Extensor digitorum longus
+d) Sartorius
+Correct Option:
+Ans. Rectus femoris
+Explanation: Rectus femoris is a bipennate muscle, with fibers on both sides of a central tendon, allowing higher force generation than unipennate or parallel muscles.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The muscle that stabilizes the origin of the prime mover so that efficient action can occur is called a:
+Options:
+a) Antagonist
+b) Fixator
+c) Synergist
+d) Neutralizer
+Correct Option:
+Ans. Fixators
+Explanation: A fixator muscle stabilizes the origin of the prime mover, preventing unwanted movement and allowing the prime mover to act efficiently, unlike synergists or antagonists.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which type of muscle contraction occurs when the muscle lengthens while still producing tension:
+Options:
+a) Isometric contraction
+b) Concentric contraction
+c) Eccentric contraction
+d) Tetanic contraction
+Correct Option:
+Ans. Eccentric contraction
+Explanation: In eccentric contraction, the muscle lengthens while producing tension, controlling movement and resisting gravity. This contrasts with concentric contraction (shortening) and isometric contraction (constant length).
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: Which muscle fiber arrangement allows the greatest range of movement but produces less force:
+Options:
+a) Pennate
+b) Multipennate
+c) Parallel
+d) Bipennate
+Correct Option:
+Ans. Parallel
+Explanation: Parallel muscles have fibers running along the line of pull, allowing a greater range of movement but producing less force compared to pennate muscles.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: A muscle with two heads of origin is described as:
+Options:
+a) Bicipital
+b) Digastric
+c) Fusiform
+d) Quadrate
+Correct Option:
+Ans. Bicipital
+Explanation: A bicipital muscle, like the biceps brachii, has two heads of origin that converge into a single tendon, allowing coordinated contraction and stronger pull.
+Tags: General Anatomy, Block 1, Anatomy, Muscles
+
+Question: The functional unit responsible for contraction in skeletal muscle fibers is the:
+Options:
+a) Sarcoplasm
+b) Sarcomere
+c) Myoglobin
+d) Sarcolemma
+Correct Option:
+Ans. Sarcomere
+Explanation: The sarcomere is repeated along myofibrils in skeletal muscle and is responsible for contraction via the sliding of actin and myosin filaments, producing shortening of the fiber.
+Tags: General Anatomy, Block 1, Anatomy, Muscles

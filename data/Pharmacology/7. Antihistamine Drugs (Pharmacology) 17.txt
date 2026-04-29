@@ -1,0 +1,186 @@
+Question: A 32-year-old pilot complains of seasonal allergies. Which medication is most appropriate for management of his allergy symptoms:
+Options:
+a) Diphenhydramine
+c) Promethazine
+b) Fexofenadine
+d) Cyclizine
+Correct Option:
+Ans. Fexofenadine
+Explanation: The medication needed here is an antihistamine to treat allergic reactions caused by histamine and inflammation. Cyclizine and promethazine are 1st generation blocker which cause motion sickness and sedation respectively. Diphenhydramine has a stronger sedative effect. All such stated effects would cause a hindrance in a pilot's job, thus Fexofenadine, a 2nd generation H2 blocker antihistamine, does not cause sedation is most suitable.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which antihistamine drug should not be prescribed to individuals working in jobs in which wakefulness is critical:
+Options:
+a) Cimetidine
+c) Ranitidine
+b) Diphenhydramine
+d) Nizatidine
+Correct Option:
+Ans. Diphenhydramine
+Explantion: Diphenhydramine here is the only 1st generation H1 blocker here hence has a strong sedative effect the rest being H2 blocker donot cause sedation and thus can be administered. Cimetidine is an H₂ receptor blocker used to reduce gastric acid secretion and does not cause significant sedation. Option C is wrong because Ranitidine is also an H₂ blocker with minimal central nervous system effects and does not impair alertness. Option D is wrong because Nizatidine is another H₂ blocker that acts on gastric acid secretion and does not produce sedative effects.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs is the most effective physiologic antagonist of histamine in smooth muscle:
+Options:
+a) Cetirizine
+b) Epinephrine
+c) Ranitidine
+d) Sumatriptan
+Correct Option:
+Ans. Epinephrine
+Explanation: Sumatriptan is a serotonin (5-HT₁) receptor agonist used in migraine and does not counteract histamine effects in smooth muscle thus irrelevant in such a question. Cetrizine and Ranitidine are both pharmacologic antagonists. The most suitable is thus Epinephrine released by the nerve terminals of the sympathetic nervous system to cause bronchodilation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a recognized adverse effect of cimetidine:
+Options:
+a) Blurred vision
+b) Diarrhea
+c) Sedation
+d) P450 hepatic enzyme inhibition
+Correct Option:
+Ans. P450 hepatic enzyme inhibition
+Explanation: Cimetidine is well known to inhibit cytochrome P450 enzymes in the liver, which can increase the levels of many other drugs (e.g., warfarin, phenytoin). This is a classic and high-yield adverse effect. Blurred vision is not a characteristic adverse effect of cimetidine; it is more commonly associated with anticholinergic drugs. Diarrhea can occur with many drugs but is not a defining or high-yield adverse effect of cimetidine. Sedation is typical of first-generation H₁ antihistamines, not H₂ blockers like cimetidine.
+Tags: Auxiliary Subjects, Minors
+
+Question: A patient suffers from troublesome allergic rhinitis due to pollen, and you want to prescribe a drug for her that is least likely to cause sedation. What would your best choice be:
+Options:
+a) Betamethasone
+c) Hydroxyzine
+b) Cimetidine
+d) Loratadine
+Correct Option:
+Ans. Loratadine
+Explanation: Loratadine being second generation H2 blocker treats the stated allergy with minimal side effects and no sedation. Betamethasone is a corticosteroid; while effective for inflammation, it is not the first-line simple choice for mild allergic rhinitis and has systemic side effects. Cimetidine is an H₂ blocker used for gastric acid suppression and has no role in treating allergic rhinitis. Hydroxyzine is a first-generation H₁ antihistamine that readily crosses the blood–brain barrier and causes significant sedation.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 20-year-old woman is taking diphenhydramine (H1 blocker) for severe hay fever. Which of the following adverse effects is she most likely to report:
+Options:
+a) Muscarinic increase in bladder tone
+b) Nausea
+c) Nervousness, anxiety
+d) Sedation
+Correct Option:
+Ans.Sedation
+Explanation: The most significant effect of Diphenhydramine is sedation. Option A is wrong because diphenhydramine has antimuscarinic effects, which decrease bladder tone and can cause urinary retention rather than increasing bladder tone. Option B is wrong because nausea is not a prominent or characteristic adverse effect of diphenhydramine. Option C is wrong because nervousness and anxiety are more typical of CNS stimulants, whereas diphenhydramine usually causes sedation rather than excitation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Antihistamines are used in all of the following except:
+Options:
+a) Hay fever
+c) Asthma
+b) Angioedema
+d) Inducing sleep
+Correct Option:
+Ans. Inducing sleep
+Explanation: Hay fever, Asthma and Angioedema are all allergic reaction caused by histamine released under the influence of Inflammatory mediators. It may cause sedation as a side effect but is not a use of an antihistamine. Thus Inducin. Sleep option D is correct.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the mechanism of action of diphenhydramine:
+Options:
+a) It prevents release of histamine from storage sites
+b) It prevents binding of histamine to H1 receptor
+c) It prevents binding of histamine to H2 receptor
+d) It binds with histamine to form complex that can't bind with histamine receptors
+Correct Option:
+Ans. It prevents binding of histamine to H1 receptor.
+Explanation: Diphenhydramine is a first-generation H1 receptor blocker. This prevents the binding of histamine to its receptor(H1). Thus, competitively inhibiting histamine.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which statement concerning H1 antihistamines is correct:
+Options:
+a) Second generation H1 antihistamines are relatively free of adverse effects
+b) Because of the established long-term safety of first generation H1 antihistamines, they are the first choice for allergic rhinitis
+c) The motor coordination involved in driving an automobile is not affected by use of first generation H1 antihistamines
+d) H1 antihistamines can be used in treatment of acute anaphylaxis
+Correct Option:
+Ans. Second generation H1 antihistamines are relatively free of adverse effects
+Explanation: Second-generation H1 blockers (like loratadine, fexofenadine) are designed to be more selective for peripheral H1 receptors and cross the blood-brain barrier minimally. This reduces sedation and other CNS effects. First-generation H1 antihistamines are not first choice for allergic rhinitis due to sedation and anticholinergic effects. First-generation H1 antihistamines do impair motor coordination; driving can be dangerous. H1 antihistamines cannot treat acute anaphylaxis alone; epinephrine is the drug of choice. Thus, option A is correct.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which histamine receptor antagonist is known to enter the CNS readily and cause sedation:
+Options:
+a) Hydroxyzine
+c) Loratadine
+b) Cetirizine
+d) Nizatidine
+Correct Option:
+Ans. Hydroxyzine
+Explanation: hydroxyzine is a first-generation drug that readily enters the central nervous system and can cause marked sedation. This sedative effect is what differentiates it from second-generation antihistamines like loratadine or cetirizine, which are mostly non-sedating. Drugs such as nizatidine cretrizine Loratadine are H2 blockers and do not act on H1 receptors, so they are unrelated in this context.
+Tags: Auxiliary Subjects, Minors
+
+Question: Antiemetic action of H1 antagonist is due to the blockade of:
+Options:
+a) M1 receptors
+c) Alpha 1 receptors
+b) Beta 1 receptors
+d) Serotonin receptors
+Correct Option:
+Ans. M1 receptors
+Explanation: The antiemetic effect of H1 blockers, such as diphenhydramine or meclizine, is due to their ability to block muscarinic M1 receptors in the vestibular system and the chemoreceptor trigger zone of the brain. This is why these drugs are effective in controlling nausea, vomiting, and motion sickness. Other receptor systems, like beta-1, alpha-1, or serotonin receptors, are not primarily involved in this antiemetic action.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following will result from blockade of H2 receptors:
+Options:
+a) Increased cAMP in cardiac muscle
+c) Decreased cAMP in gastric mucosa
+b) Decreased channel opening in enteric nerves
+d) Increased IP3 in platelets
+Correct Option:
+Ans. Decreased cAMP in gastric mucosa
+Explanation: When considering H2 receptor antagonists, their main effect is to reduce gastric acid secretion. H2 receptors on parietal cells stimulate acid production through cAMP; therefore, blocking these receptors leads to decreased cAMP levels in gastric mucosa. Effects on cardiac muscle cAMP, enteric nerve channels, or platelet IP3 are not related to H2 blockade.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one of the following is likely to be used in motion sickness, and nausea and vomiting of pregnancy:
+Options:
+a) Loratadine
+c) Fexofenadine
+b) Meclizine
+d) Cimetidine
+Correct Option:
+Ans. Meclizine
+Explanation: For motion sickness and nausea in pregnancy, first-generation H1 blockers like meclizine are preferred because of their central action on vestibular pathways and relative safety. In contrast, second-generation antihistamines such as loratadine, cimetidine, or fexofenadine do not cross the blood-brain barrier effectively, making them ineffective for motion sickness, and H2 blockers like cimetidine do not have antiemetic properties.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which drug is used in the treatment of Urticaria:
+Options:
+a) Antihistamine
+c) Steroid
+b) Epinephrine
+d) Beta blockers
+Correct Option:
+Ans. Antihistamine
+Explanation: In conditions like urticaria and hay fever, H1 antihistamines are first-line treatment because they relieve itching, hives, and nasal symptoms by blocking histamine at peripheral H1 receptors. Steroids are only used in more severe or refractory cases, while epinephrine is reserved for anaphylaxis. Beta-blockers have no role in these allergic conditions.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which drug is used in treatment of Hay fever:
+Options:
+a) Antihistamine
+c) Steroid
+b) Epinephrine
+d) Beta blockers
+Correct Option:
+Ans. Antihistamine
+Explanation: In conditions like urticaria and hay fever, H1 antihistamines are first-line treatment because they relieve itching, hives, and nasal symptoms by blocking histamine at peripheral H1 receptors. Steroids are only used in more severe or refractory cases, while epinephrine is reserved for anaphylaxis. Beta-blockers have no role in these allergic conditions.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 30-year-old woman who is a beekeeper always gets sting bites by bees and develops rash. She also has some food allergies. Which drug should she always keep with her:
+Options:
+a) Antihistamine
+b) Epinephrine
+c) Steroid
+d) Beta blockers
+Correct Option:
+Ans. Epinephrine
+Explanation: Patients with a history of severe allergic reactions, such as a beekeeper who develops rashes or anaphylaxis from bee stings, should always carry epinephrine. Antihistamines or steroids cannot act quickly enough to prevent life-threatening reactions, and beta-blockers are contraindicated in anaphylaxis because they can worsen hypotension and block epinephrine’s effects.
+Tags: Auxiliary Subjects, Minors
+
+Question: Antihistamine doesn’t use in treatment of:
+Options:
+a) Angioedema
+b) Hay fever
+c) Urticaria
+d) Asthma
+Correct Option:
+Ans.  Asthma
+Explanation: Antihistamines are effective for angioedema, urticaria, and hay fever, they are not used for asthma. Asthma management requires bronchodilators and inhaled or systemic steroids to control bronchoconstriction and inflammation, as histamine blockade alone does not relieve airway obstruction.
+Tags: Auxiliary Subjects, Minors
