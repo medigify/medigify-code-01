@@ -1,0 +1,43 @@
+Question: Type of gland in which the apical portion of cell becomes the secretory product:
+Options:
+a) Merocrine glands
+b) Holocrine glands
+c) Apocrine glands
+d) Endocrine glands
+Correct Option:
+Ans. Apocrine glands
+Explanation: In apocrine secretion, the secretory product accumulates in the apical (top) part of the cell. This entire apical portion then pinches off and is released, meaning the cell loses a bit of its cytoplasm and plasma membrane along with the product, as seen in mammary glands.
+Tags: Histology, Block 1, Glands, Histology of Glands
+
+Question: What is an example of compound tubular glands:
+Options:
+a) Brunner's glands of duodenum
+b) Exocrine portion of pancreas
+c) Submandibular salivary glands
+d) Sublingual salivary glands
+Correct Option:
+Ans. Brunner's glands of duodenum
+Explanation: Brunner's glands are located in the submucosa of the duodenum and are classic examples of compound tubular glands. They feature a branched duct system leading to tubular secretory units that produce alkaline mucus to protect the intestinal lining from acidic gastric juice.
+Tags: Histology, Block 1, Glands, Histology of Glands
+
+Question: A 25-year-old girl complains about excessive sweating even in normal conditions. What is the type of sweat gland:
+Options:
+a) Coiled simple tubular
+b) Compound tubular
+c) Holocrine
+d) Straight simple tubular
+Correct Option:
+Ans. Coiled simple tubular
+Explanation: The common (eccrine) sweat glands involved in thermoregulation are histologically classified as simple coiled tubular glands. They consist of a single, unbranched duct that remains straight as it passes through the dermis but becomes highly coiled in its secretory portion deep within the skin.
+Tags: Histology, Block 1, Glands, Histology of Glands
+
+Question: The release of lipid droplets from cells is which type of secretion:
+Options:
+a) Merocrine
+b) Apocrine
+c) Endocrine
+d) Holocrine
+Correct Option:
+Ans. Apocrine
+Explanation: The release of large lipid droplets is the hallmark of the apocrine mode of secretion. Because fat droplets are too large to pass through membrane channels, the cell wraps them in a thin layer of its own cytoplasm and cell membrane before "budding" them off into the gland's lumen.
+Tags: Histology, Block 1, Glands, Histology of Glands

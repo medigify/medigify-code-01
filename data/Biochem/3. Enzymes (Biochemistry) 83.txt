@@ -1,0 +1,985 @@
+Question: Which of the following enzyme is the drug of choice in acute myocardial infarction used for thrombolysis:
+Options:
+a) Seratopeptidase
+b) Streptokinase
+c) Asparaginase
+d) Hyaluronidase
+Correct Option:
+Ans. (B) Streptokinase
+Explanation: Streptokinase is a thrombolytic enzyme that activates plasminogen to plasmin, dissolving fibrin clots in acute myocardial infarction. Other enzymes such as serratiopeptidase, asparaginase, or hyaluronidase do not dissolve clots and are not used therapeutically in MI.
+Tags: Biochemistry
+
+Question: Which of the following vitamin is a component of Coenzyme A:
+Options:
+a) Pantothenic Acid
+b) Folic acid
+c) Riboflavin
+d) Nicotinic Acid
+Correct Option:
+Ans. (A) Pantothenic Acid
+Explanation: Pantothenic acid (Vitamin B5) forms the central part of Coenzyme A, which is critical for acyl group transfer in metabolism, including fatty acid oxidation and the TCA cycle. Other vitamins listed are not involved in CoA synthesis.
+Tags: Biochemistry
+
+Question: A 55-year-old patient with transsternal pain radiating to the left shoulder, with nausea and sweating. The onset of pain was three hours ago. Which serum enzyme or isozyme would be most appropriate in assessment of MI:
+Options:
+a) AST
+b) CK-MM
+c) CK-MB
+d) LDH
+Correct Option:
+Ans. (C) CK-MB
+Explanation: CK-MB is a cardiac-specific isoenzyme of creatine kinase that rises within 3–6 hours after myocardial infarction, making it an early and sensitive marker for cardiac injury. AST, CK-MM, and LDH are less specific for cardiac tissue.
+Tags: Biochemistry
+
+Question: In competitive inhibition an inhibitor is a structural analogue of the substrate. Which of the following statements is true:
+Options:
+a) Km & Vmax are unaltered
+b) Km is changed
+c) Vmax is changed
+d) Both Km & Vmax are changed
+Correct Option:
+Ans. (B) Km is changed
+Explanation: Competitive inhibitors bind the enzyme's active site, competing with the substrate. This increases the apparent Km because more substrate is required to reach half-maximal velocity, while Vmax remains unchanged.
+Tags: Biochemistry
+
+Question: An old man of 65 years was admitted to the ward, apparently anemic, with bone pains and hypercalcemia. Which biochemical investigation is more helpful in diagnosis of
+multiple myeloma:
+Options:
+a) Albumin in urine
+b) Plasma A/G ratio
+c) Bence Jones Proteins
+d) Urinary Creatinine
+Correct Option:
+Ans. (C) Bence Jones Proteins
+Explanation: Bence Jones proteins are monoclonal light chains excreted in urine in multiple myeloma. Their detection is diagnostic, while albumin or A/G ratio changes may be supportive but not specific.
+Tags: Biochemistry
+
+Question: The inhibitor and substrate bind reversibly to the active site in:
+Options:
+a) Uncompetitive Inhibition
+b) Non-Competitive Inhibition
+c) Competitive Inhibition
+d) Irreversible Inhibition
+e) All of the above
+Correct Option:
+Ans. (C) Competitive Inhibition
+Explanation: In competitive inhibition, the inhibitor reversibly binds the active site, directly competing with the substrate. Non-competitive and uncompetitive inhibitors bind differently and irreversible inhibition forms covalent bonds.
+Tags: Biochemistry
+
+Question: Serum acid phosphatase is raised in:
+Options:
+a) Acute Myocardial Infarction
+b) Acute Pancreatitis
+c) Osteoblastic sarcoma
+d) Carcinoma of Prostate
+e) Obstructive Jaundice
+Correct Option:
+Ans. (D) Carcinoma of Prostate
+Explanation: Acid phosphatase levels rise in prostate cancer due to increased prostatic epithelial activity. It is not significantly elevated in myocardial infarction, pancreatitis, or jaundice.
+Tags: Biochemistry
+
+Question: Enzymes increase the rates of reaction by:
+Options:
+a) Increasing the free energy of activation
+b) Decreasing the energy of activation
+c) Changing the equilibrium constant of the reaction
+d) Increasing the free energy change of the reaction
+e) Decreasing the free energy change of the reaction
+Correct Option:
+Ans. (B) Decreasing the energy of activation
+Explanation: Enzymes accelerate reactions by lowering activation energy, allowing substrates to convert to products faster, without altering the overall free energy change or equilibrium of the reaction.
+Tags: Biochemistry
+
+Question: All of the following enzymes are diagnostic markers of liver disease except:
+Options:
+a) Alkaline phosphatase
+b) Alanine transaminase
+c) Aspartate transaminase
+d) Gamma glutamyl transferase
+e) Amylase
+Correct Option:
+Ans. (E) Amylase
+Explanation: ALT, AST, ALP, and GGT are liver enzymes indicating hepatocellular injury or cholestasis. Amylase is a pancreatic enzyme and does not reflect liver pathology.
+Tags: Biochemistry
+
+Question: Holoenzyme is composed of:
+Options:
+a) Apoenzyme and prosthetic group
+b) Apoenzyme and coenzyme
+c) Coenzyme and prosthetic group
+d) Apoenzyme and cofactor
+e) Apoenzyme, coenzyme, and cofactor
+Correct Option:
+Ans. (A) Apoenzyme and prosthetic group
+Explanation: A holoenzyme is the active enzyme complex composed of the apoenzyme (protein portion) and a tightly bound prosthetic group, enabling catalytic activity. Coenzymes may bind loosely and are not always part of the holoenzyme.
+Tags: Biochemistry
+
+Question: An enzyme which breaks molecules without addition of water is classified as:
+Options:
+a) Oxidoreductase
+b) Transferase
+c) Hydrolase
+d) Lyase
+e) Isomerase
+Correct Option:
+Ans. (D) Lyase
+Explanation: Lyases catalyze cleavage of bonds without hydrolysis or oxidation, often forming double bonds or rings, unlike hydrolases that require water.
+Tags: Biochemistry
+
+Question: Cytochrome oxidase is poisoned by all of the following except:
+Options:
+a) Carbon monoxide
+b) Hydrogen Sulphide
+c) Oligomycin
+d) Cyanide
+e) Azide
+Correct Option:
+Ans. (C) Oligomycin
+Explanation: Cytochrome oxidase is inhibited by CN⁻, CO, H₂S, and azide, blocking electron transport in mitochondria. Oligomycin inhibits ATP synthase, not cytochrome oxidase.
+Tags: Biochemistry
+
+Question: Enzymes specifically raised in myocardial infarction is:
+Options:
+a) LDH
+b) SGPT
+c) Transaminases
+d) Amylase
+e) Alkaline Phosphatase
+Correct Option:
+Ans. (A) LDH
+Explanation: LDH, particularly LDH1 isoenzyme, rises after myocardial infarction. Transaminases may rise slightly, and amylase or ALP are unrelated.
+Tags: Biochemistry
+
+Question: Synthesis of calcitriol is controlled by:
+Options:
+a) Calcitonin
+b) Estrogen
+c) Growth hormone
+d) Parathyroid hormone
+e) Prolactin
+Correct Option:
+Ans. (D) Parathyroid hormone
+Explanation: Parathyroid hormone stimulates renal 1-alpha hydroxylase, converting calcidiol to calcitriol, the active form of vitamin D, regulating calcium homeostasis.
+Tags: Biochemistry
+
+Question: An enzyme that catalyses the conversion of an aldose sugar to a ketose sugar would be classified as:
+Options:
+a) Oxidoreductases
+b) Transferases
+c) Hydrolases
+d) Isomerases
+e) Lyases
+Correct Option:
+Ans. (D) Isomerases
+Explanation: Isomerases catalyze rearrangement of molecules without adding or removing atoms, such as converting aldose to ketose sugars.
+Tags: Biochemistry
+
+Question: The most useful test for diagnosis of acute pancreatitis during the first few days is:
+Options:
+a) SGOT
+b) Serum amylase
+c) Serum calcium
+d) LDH
+e) SGPT
+Correct Option:
+Ans. (B) Serum amylase
+Explanation: Serum amylase rises rapidly in acute pancreatitis and is a sensitive early marker. Other enzymes like SGOT, LDH, or calcium changes are secondary or late indicators.
+Tags: Biochemistry
+
+Question: An enzyme which will break a molecule without addition of water would be classified as:
+Options:
+a) Oxidoreductase
+b) Transferase
+c) Hydrolase
+d) Lyase
+e) Isomerase
+Correct Option:
+Ans. (D) Lyase
+Explanation: Lyases cleave bonds without water or redox reactions, unlike hydrolases, making them unique in catalyzing non-hydrolytic bond breaking.
+Tags: Biochemistry
+
+Question: Important diagnostic marker for obstructive liver disease is:
+Options:
+a) Alkaline phosphatase
+b) Alanine transaminase
+c) Aspartate transaminase
+d) Gamma glutamyl transferase
+e) Amylase
+Correct Option:
+Ans. (A) Alkaline phosphatase
+Explanation: ALP rises in cholestasis or obstructive liver diseases due to increased synthesis in bile duct epithelium, serving as a reliable marker.
+Tags: Biochemistry
+
+Question: Coenzymes are:
+Options:
+a) Protein part of enzymes
+b) Carbohydrate part of enzymes
+c) Lipid part of enzymes
+d) Non-protein part of enzymes
+e) Derived from acetyl CoA
+Correct Option:
+Ans. (D) Non-protein part of enzymes
+Explanation: Coenzymes are organic molecules that assist enzymes in catalysis and are non-protein in nature, often derived from vitamins.
+Tags: Biochemistry
+
+Question: The inactive form of enzyme is called:
+Options:
+a) Zymogen
+b) Holoenzyme
+c) Co-enzyme
+d) Apoenzyme
+e) None of them
+Correct Option:
+Ans. (A) Zymogen
+Explanation: Zymogens are inactive precursors of enzymes activated by proteolytic cleavage, preventing premature or inappropriate enzyme activity.
+Tags: Biochemistry
+
+Question: How many isozymes of normal LDH can be identified by electrophoresis at pH 8.6:
+Options:
+a) One
+b) Two
+c) Three
+d) Four
+e) Five
+Correct Option:
+Ans. (E) Five
+Explanation: Lactate dehydrogenase (LDH) exists as five isoenzymes (LDH1–LDH5) composed of combinations of H and M subunits. Electrophoresis at pH 8.6 separates these isoenzymes, which have diagnostic value in distinguishing cardiac, liver, and muscle injury.
+Tags: Biochemistry
+
+Question: Competitive inhibitor can be reversed by adding:
+Options:
+a) Substrate and inhibitor
+b) Enzyme
+c) Inhibitor
+d) Substrate
+e) None of them
+Correct Option:
+Ans. (D) Substrate
+Explanation: In competitive inhibition, the inhibitor competes with the substrate for the enzyme’s active site. Increasing substrate concentration can outcompete the inhibitor, restore enzyme activity, whereas add more inhibitor or enzyme does not reverse it.
+Tags: Biochemistry
+
+Question: Enzyme urease belongs to the class:
+Options:
+a) Oxidoreductase
+b) Hydrolase
+c) Transferase
+d) Isomerase
+e) Ligase
+Correct Option:
+Ans. (B) Hydrolase
+Explanation: Urease catalyzes the hydrolysis of urea into ammonia and carbon dioxide, making it a hydrolase. Hydrolases break bonds using water, unlike oxidoreductases or transferases.
+Tags: Biochemistry
+
+Question: Isoenzymes are different from each other in the following respect:
+Options:
+a) They have different structure
+b) Their mechanism of action is different
+c) They act on different sites of substrates
+d) They have different types
+e) None of the above is true
+Correct Option:
+Ans. (A) They have different structure
+Explanation: Isoenzymes catalyze the same reaction but have slightly different amino acid sequences or subunit compositions, which allows tissue-specific expression and diagnostic differentiation. Their catalytic mechanism and substrate specificity remain the same.
+Tags: Biochemistry
+
+Question: Followings are the major classes of enzymes except:
+Options:
+a) Hydrolases
+b) Ligases
+c) Lyases
+d) Hydratases
+e) Isomerases
+Correct Option:
+Ans. (D) Hydratases
+Explanation: Hydratases are specific lyases that add water to double bonds but are considered a subclass, not a major enzyme class. Major classes include oxidoreductases, transferases, hydrolases, lyases, isomerases, and ligases.
+Tags: Biochemistry
+
+Question: Class Oxidoreductases include all the following except:
+Options:
+a) Dehydrogenases
+b) Oxidases
+c) Oxygenase
+d) Mutases
+e) Peroxidases
+Correct Option:
+Ans. (D) Mutases
+Explanation: Oxidoreductases catalyze oxidation-reduction reactions. Mutases catalyze intramolecular group transfer (isomerization) and belong to the isomerase class, not oxidoreductases.
+Tags: Biochemistry
+
+Question: Km is:
+Options:
+a) The substrate concentration that gives half the maximum velocity
+b) Not altered in Competitive inhibition
+c) Independent of the nature of the substrate
+d) Identical for all Isoenzymes of an enzyme
+e) The dissociation constant of the enzyme-substrate complex
+Correct Option:
+Ans. (A) The substrate concentration that gives half the maximum velocity
+Explanation: Km reflects the affinity of an enzyme for its substrate; a low Km indicates high affinity. It is defined as the substrate concentration at which the reaction rate is half of Vmax.
+Tags: Biochemistry
+
+Question: In an enzyme reaction, if affinity of enzyme to the substrate is more, the Km value is:
+Options:
+a) High
+b) Low
+c) Not affected
+d) Fixed
+e) Variable
+Correct Option:
+Ans. (B) Low
+Explanation: High substrate affinity leads to a lower Km because the enzyme reaches half-maximal velocity at a lower substrate concentration, reflecting tighter binding between enzyme and substrate.
+Tags: Biochemistry
+
+Question: Lactate dehydrogenase (LDH) is a tetramer composed of two different polypeptide chains. Assuming these chains associate at random, how many isozymes does this enzyme possess:
+Options:
+a) Two
+b) Three
+c) Four
+d) Five
+e) Six
+Correct Option:
+Ans. (D) Five
+Explanation: LDH has H (heart) and M (muscle) subunits forming five isoenzymes (LDH1–LDH5) by random tetramer combinations. LDH1 (HHHH) is heart-predominant and LDH5 (MMMM) is muscle-predominant, useful in diagnostic biochemistry. 30. Which of the following signifies attachment of enzyme with substrates:
+a) Km
+b) Vmax
+c) Both Km and Vmax
+d) [S]
+e) Vmax/Km
+Correct Option:
+Ans. (A) Km
+Explanation: Km represents the substrate concentration needed for half-maximal enzyme velocity and indirectly reflects enzyme-substrate binding affinity, with lower Km indicating stronger binding.
+Tags: Biochemistry
+
+Question: A 60-year-old person with retrosternal chest pain radiating to the shoulder for five hours. Which test is best for assessment of myocardial infarction:
+Options:
+a) CK-MB
+b) ALT
+c) LDH
+d) AST
+e) CK
+Correct Option:
+Ans. (A) CK-MB
+Explanation: CK-MB is the preferred early marker for MI due to cardiac specificity. ALT and AST are less specific, CK-MM is skeletal muscle-specific, and LDH rises later in the course of infarction.
+Tags: Biochemistry
+
+Question: Which of the following is the laboratory test of choice for multiple myeloma:
+Options:
+a) Urinary proton
+b) Albumin in urine
+c) 24-hour urinary proteins
+d) Bence Jones proteins
+e) Urine routine examination
+Correct Option:
+Ans. (D) Bence Jones proteins
+Explanation: Detection of Bence Jones proteins in urine is diagnostic for multiple myeloma, representing monoclonal immunoglobulin light chains. Other tests may support diagnosis but are not specific.
+Tags: Biochemistry
+
+Question: Which serum enzyme is specifically raised in hepatic cellular injury:
+Options:
+a) AST
+b) ALT
+c) LDH
+d) Acid phosphatase
+e) Alkaline phosphatase
+Correct Option:
+Ans. (B) ALT
+Explanation: ALT is highly liver-specific, rising in hepatocellular injury, whereas AST is less specific and can originate from muscle or heart tissue. ALP rises in cholestasis rather than hepatocellular damage.
+Tags: Biochemistry
+
+Question: Which of the following is not of diagnostic importance in myocardial infarction:
+Options:
+a) CK
+b) AST
+c) LDH
+d) Amylase
+e) Troponin
+Correct Option:
+Ans. (D) Amylase
+Explanation: Amylase is a pancreatic enzyme and not relevant for diagnosing MI. CK, AST, LDH, and troponin are cardiac markers used to confirm myocardial injury.
+Tags: Biochemistry
+
+Question: Which of the following is a marker of choice in acute pancreatitis:
+Options:
+a) Acid phosphatase
+b) LDH
+c) Alkaline phosphatase
+d) Creatine kinase
+e) Amylase
+Correct Option:
+Ans. (E) Amylase
+Explanation: Serum amylase rises rapidly in acute pancreatitis and is sensitive during the early phase, whereas other enzymes are not pancreas specific.
+Tags: Biochemistry
+
+Question: Which of the following is a tumor marker for hepatocellular carcinoma:
+Options:
+a) Alpha Feto Proteins (AFP)
+b) Alkaline Phosphatase (ALP)
+c) Acid Phosphatase (ACP)
+d) Lactate Dehydrogenase (LDH)
+e) Aspartate Aminotransferase
+Correct Option:
+Ans. (A) Alpha Feto Proteins (AFP)
+Explanation: AFP is produced by malignant hepatocytes and serves as a tumor marker for hepatocellular carcinoma, aiding diagnosis and monitoring therapy response.
+Tags: Biochemistry
+
+Question: All of the following enzymes are used therapeutically except:
+Options:
+a) Streptokinase
+b) Urokinase
+c) Hyaluronidase
+d) Serratiopeptidase
+e) Creatine kinase
+Correct Option:
+Ans. (E) Creatine kinase
+Explanation: Streptokinase, urokinase, hyaluronidase, and serratiopeptidase have therapeutic uses, such as thrombolysis or tissue penetration. Creatine kinase is a diagnostic enzyme, not used as therapy.
+Tags: Biochemistry
+
+Question: In enzyme kinetics Km implies:
+Options:
+a) Concentration of enzyme
+b) Half of substrate concentration required to achieve Vmax
+c) The dissociation constant for the enzyme-substrate complex
+d) The substrate concentration that gives one half Vmax
+e) None of these
+Correct Option:
+Ans. (D) The substrate concentration that gives one half Vmax
+Explanation: Km reflects the substrate concentration at which the enzyme operates at 50% of Vmax. It is an indicator of enzyme-substrate affinity but does not depend on enzyme concentration.
+Tags: Biochemistry
+
+Question: The enzyme catalyzing the transfer of hydrogen is called:
+Options:
+a) Transferase
+b) Oxidoreductase
+c) Isomerase
+d) Catalase
+e) Hydrolase
+Correct Option:
+Ans. (B) Oxidoreductase
+Explanation: Oxidoreductases catalyze redox reactions, transferring electrons or hydrogen atoms between molecules, fundamental in energy metabolism and electron transport chains.
+Tags: Biochemistry
+
+Question: In myocardial infarction, the earliest serum enzyme to rise is:
+Options:
+a) Creatine kinase
+b) Alanine transaminase
+c) Lactic dehydrogenase
+d) Serum amylase
+e) Lipoprotein lipase
+Correct Option:
+Ans. (A) Creatine kinase
+Explanation: CK, particularly CK-MB, rises within 3–6 hours after myocardial infarction, making it the earliest enzyme marker, whereas LDH rises later, and ALT/amylase are non-specific.
+Tags: Biochemistry
+
+Question: Alkaline phosphatase is increased in:
+Options:
+a) Carcinoma of prostate
+b) Pancreatitis
+c) Rickets
+d) Cholecystitis
+e) Ca head of pancreas
+Correct Option:
+Ans. (C) Rickets
+Explanation: Alkaline phosphatase (ALP) rises in conditions with increased osteoblastic activity, such as rickets or bone growth, reflecting enhanced bone formation. It can also be elevated in other bone diseases but is minimal in pancreatic disorders.
+Tags: Biochemistry
+
+Question: The main function of enzyme is to:
+Options:
+a) Decrease the free energy of the reaction
+b) Raise the energy of activation
+c) Increase the products energy level
+d) Decrease the energy of activation
+e) Change the equilibrium constant of the reaction
+Correct Option:
+Ans. (D) Decrease the energy of activation
+Explanation: Enzymes accelerate chemical reactions by lowering the activation energy, allowing reactions to proceed faster without altering the overall free energy change or equilibrium constant.
+Tags: Biochemistry
+
+Question: A coenzyme required in the transfer of single carbon moieties is:
+Options:
+a) Lipoic acid
+b) Coenzyme A
+c) Pyridoxal phosphate
+d) Tetrahydro folic acid
+e) Folic acid
+Correct Option:
+Ans. (D) Tetrahydro folic acid
+Explanation: Tetrahydrofolate (THF) acts as a carrier of one-carbon units in reactions like nucleotide and amino acid metabolism, making it crucial for methylation and synthesis pathways.
+Tags: Biochemistry
+
+Question: Enzymes catalyze reaction by:
+Options:
+a) Increasing the activation energy
+b) Decreasing the activation energy
+c) A decrease in Km
+d) A decrease in active enzyme concentration
+e) None of the above
+Correct Option:
+Ans. (B) Decreasing the activation energy
+Explanation: By stabilizing the transition state and facilitating substrate binding, enzymes lower the energy barrier, accelerating reactions without being consumed in the process.
+Tags: Biochemistry
+
+Question: Which of the following enzymes require iron as cofactor:
+Options:
+a) Carbonic anhydrase
+b) Cytochrome oxidase
+c) DNA polymerase
+d) Hexokinase
+e) Xanthine oxidase
+Correct Option:
+Ans. (B) Cytochrome oxidase
+Explanation: Cytochrome oxidase is part of the mitochondrial electron transport chain and contains iron in heme groups, essential for transferring electrons to oxygen in aerobic respiration.
+Tags: Biochemistry
+
+Question: Competitive inhibition can be reversed by adding:
+Options:
+a) Substrate and inhibitor
+b) Enzyme
+c) Inhibitor
+d) Substrate
+e) None of them
+Correct Option:
+Ans. (D) Substrate
+Explanation: Increasing substrate concentration can outcompete a competitive inhibitor at the enzyme’s active site, restoring enzyme activity, unlike non-competitive inhibition where Vmax is affected.
+Tags: Biochemistry
+
+Question: Serum alkaline phosphatase in obstructive jaundice:
+Options:
+a) Remains normal
+b) Mildly increases
+c) Markedly increases
+d) Markedly decreases
+e) Mildly decreases
+Correct Option:
+Ans. (C) Markedly increases
+Explanation: Obstruction of bile flow stimulates hepatic ALP production and release into the serum, making it a sensitive marker for cholestatic liver disease.
+Tags: Biochemistry
+
+Question: In muscle disorders, all of the following will increase except:
+Options:
+a) Acid phosphatase
+b) Aldolase
+c) AST
+d) CPK
+e) LDH
+Correct Option:
+Ans. (A) Acid phosphatase
+Explanation: Muscle damage elevates enzymes like CPK, LDH, AST, and aldolase, whereas acid phosphatase is prostate-specific and not affected by skeletal muscle injury.
+Tags: Biochemistry
+
+Question: Pepsin is an example for the class of enzyme namely:
+Options:
+a) Oxidoreductase
+b) Transferase
+c) Hydrolase
+d) Isomerase
+e) Ligases
+Correct Option:
+Ans. (C) Hydrolase
+Explanation: Pepsin catalyzes the hydrolysis of peptide bonds in proteins, classifying it as a hydrolase, which acts by adding water to cleave chemical bonds.
+Tags: Biochemistry
+
+Question: In non-competitive enzyme inhibition which of the following is true:
+Options:
+a) Decreases Km
+b) Decreases Vmax
+c) Decreases both Km & Vmax
+d) Increases Vmax
+e) Increases both Km & Vmax
+Correct Option:
+Ans. (B) Decreases Vmax
+Explanation: Non-competitive inhibitors bind at a site other than the active site, reducing the overall catalytic capacity (Vmax) without affecting substrate affinity (Km).
+Tags: Biochemistry
+
+Question: Km of an enzyme is equal to:
+Options:
+a) Substrate concentration at which velocity of reaction is Vmax
+b) Substrate concentration at which velocity of reaction is half Vmax
+c) Enzyme concentration at which velocity of reaction is Vmax
+d) Enzyme concentration at which velocity of reaction is half Vmax
+e) Enzyme concentration at which velocity of reaction is double the Vmax
+Correct Option:
+Ans. (B) Substrate concentration at which velocity of reaction is half Vmax
+Explanation: Km reflects enzyme affinity for its substrate. A lower Km indicates higher affinity, and it is determined by the substrate concentration at which the reaction rate is 50% of Vmax.
+Tags: Biochemistry
+
+Question: All aminotransferases require the coenzyme:
+Options:
+a) Thiamine pyrophosphate
+b) Pyridoxal phosphate
+c) Biotin
+d) NAD
+e) FAD
+Correct Option:
+Ans. (B) Pyridoxal phosphate
+Explanation: Pyridoxal phosphate, derived from vitamin B6, acts as a coenzyme in transamination reactions, allowing amino group transfer between amino acids and keto acids.
+Tags: Biochemistry
+
+Question: A coenzyme required in the transfer of single carbon moieties is:
+Options:
+a) Lipoic acid
+b) Coenzyme A
+c) Pyridoxal phosphate
+d) Thiamine diphosphate
+e) Tetrahydrofolate
+Correct Option:
+Ans. (E) Tetrahydrofolate
+Explanation: THF is essential for transferring one-carbon groups in biosynthetic reactions, especially in the synthesis of nucleotides and amino acids, linking metabolism and methylation processes.
+Tags: Biochemistry
+
+Question: All of the following enzymes are important diagnostic markers of liver disease except:
+Options:
+a) Alkaline phosphatase
+b) Alanine transaminase
+c) Aspartate transaminase
+d) Gamma glutamyl transferase
+e) Amylase
+Correct Option:
+Ans. (E) Amylase
+Explanation: Amylase is primarily pancreatic and salivary in origin, unrelated to liver pathology, whereas ALP, ALT, AST, and GGT are standard markers of hepatocellular or cholestatic liver injury.
+Tags: Biochemistry
+
+Question: In competitive inhibition, the inhibitor:
+Options:
+a) Competes with the enzyme
+b) Irreversibly binds with enzyme
+c) Binds with substrate
+d) Competes with the substrate
+e) Binds with E-S complex
+Correct Option:
+Ans. (D) Competes with the substrate
+Explanation: Competitive inhibitors mimic substrate structure, binding reversibly to the active site and preventing the substrate from accessing it, without altering enzyme structure.
+Tags: Biochemistry
+
+Question: The rate of enzyme-catalyzed reaction is directly proportional to:
+Options:
+a) Enzyme concentration
+b) Hydrogen ion concentration
+c) Product concentration
+d) Substrate concentration
+e) Temperature
+Correct Option:
+Ans. (D) Substrate concentration
+Explanation: Within physiological limits, increasing substrate concentration accelerates the reaction rate until the enzyme becomes saturated, after which the rate plateaus at Vmax.
+Tags: Biochemistry
+
+Question: Which of the following enzymes is a tumor marker:
+Options:
+a) Acid phosphatase
+b) Aldolase
+c) Creatine kinase
+d) Glutamate pyruvate transaminase
+e) Lipase
+Correct Option:
+Ans. (A) Acid phosphatase
+Explanation: Prostatic acid phosphatase rises in prostate carcinoma and was historically used as a tumor marker before PSA testing became standard.
+Tags: Biochemistry
+
+Question: Which enzyme/isozyme is more appropriate for assessing myocardial infarction (MI):
+Options:
+a) AST
+b) CK-MB
+c) ALT
+d) CK-BB
+e) CK-MM
+Correct Option:
+Ans. (B) CK-MB
+Explanation: CK-MB is cardiac-specific and rises early in MI, making it the preferred marker for myocardial injury over AST, which is less specific, or CK-MM, which reflects skeletal muscle.
+Tags: Biochemistry
+
+Question: In competitive enzyme inhibition, the inhibitor:
+Options:
+a) Resembles the true substrate in structure
+b) Resembles the true substrate in properties
+c) Destroys enzyme
+d) Destroys substrate
+e) All of the above
+Correct Option:
+Ans. (A) Resembles the true substrate in structure
+Explanation: Competitive inhibitors mimic the substrate’s molecular structure, enabling reversible binding to the active site and preventing substrate access without damaging enzyme or substrate.
+Tags: Biochemistry
+
+Question: Physostigmine, an anticholinesterase, is used to treat:
+Options:
+a) Parkinsonism
+b) Myasthenia gravis
+c) Hypertension
+d) Glaucoma
+e) Arthritis
+Correct Option:
+Ans. (B) Myasthenia gravis
+Explanation: Physostigmine inhibits acetylcholinesterase, increasing acetylcholine at neuromuscular junctions, which improves muscle strength in myasthenia gravis and other cholinergic deficiency states.
+Tags: Biochemistry
+
+Question: Competitive inhibitors inhibit the activity of the enzymes by:
+Options:
+a) Change the three-dimensional structure of enzyme
+b) Occupying the active site of enzyme
+c) Combining with non-active site of enzyme
+d) Inhibiting the substrate to combine with enzyme
+e) None of the above
+Correct Option:
+Ans. (B) Occupying the active site of enzyme
+Explanation: Competitive inhibitors bind reversibly to the enzyme’s active site, directly preventing substrate binding without altering enzyme structure, and their effect can be overcome by increasing substrate concentration.
+Tags: Biochemistry
+
+Question: In Multiple Myeloma, the protein excreted in urine may be:
+Options:
+a) Albumin
+b) Haptoglobin
+c) Gamma globulin
+d) Bence-jones protein
+e) Alpha-globulin
+Correct Option:
+Ans. (D) Bence-jones protein
+Explanation: Bence-Jones proteins are free light chains of immunoglobulins excreted in urine, and their detection is key in diagnosing multiple myeloma, reflecting abnormal plasma cell proliferation.
+Tags: Biochemistry
+
+Question: Enzyme that breaks a biomolecule by the addition of a water molecule is:
+Options:
+a) A hydrolase
+b) A dehydrogenase
+c) An oxidoreductase
+d) A ligase
+e) A transferase
+Correct Option:
+Ans. (A) A hydrolase
+Explanation: Hydrolases catalyze bond cleavage by hydrolysis, using water to break covalent bonds in carbohydrates, proteins, or lipids, such as amylase, protease, and lipase.
+Tags: Biochemistry
+
+Question: A rise in serum acid phosphatase indicates:
+Options:
+a) Recent myocardial infarction
+b) Acute hepatitis
+c) Carcinoma of prostate
+d) Carcinoma of pancreas
+e) Mumps
+Correct Option:
+Ans. (C) Carcinoma of prostate
+Explanation: Serum acid phosphatase is elevated in prostate carcinoma, particularly in metastatic cases, and was historically a diagnostic marker before PSA measurement became standard.
+Tags: Biochemistry
+
+Question: Enzyme inhibited by lead is:
+Options:
+a) ALA dehydratase
+b) Uroporphyrinogen (UPG) synthase
+c) Coproporphyrinogen (CPG) oxidase
+d) Protoporphyrinogen (PPG) oxidase
+e) ALA synthase
+Correct Option:
+Ans. (E) ALA synthase
+Explanation: Lead inhibits ALA synthase and other heme synthesis enzymes, leading to accumulation of δ-aminolevulinic acid (ALA) and causing sideroblastic anemia and neurotoxicity.
+Tags: Biochemistry
+
+Question: Which of the following is a proenzyme:
+Options:
+a) Carboxy peptidase
+b) Amino peptidase
+c) Trypsin
+d) Chymotrypsin
+e) Pepsinogen
+Correct Option:
+Ans. (E) Pepsinogen
+Explanation: Pepsinogen is an inactive zymogen secreted by gastric chief cells, which is converted to active pepsin in acidic gastric juice to prevent autodigestion of the stomach.
+Tags: Biochemistry
+
+Question: Enzyme Acid Phosphatase is raised in:
+Options:
+a) Acute Myocardial Infarction
+b) Carcinoma of Prostate
+c) Obstructive Jaundice
+d) Acute Pancreatitis
+e) Osteoblastic sarcoma
+Correct Option:
+Ans. (B) Carcinoma of Prostate
+Explanation: Acid phosphatase, especially prostatic type, is elevated in prostate cancer, reflecting tumor burden and metastatic activity.
+Tags: Biochemistry
+
+Question: Which apoprotein acts as a cofactor activator of the enzyme lipoprotein lipase (LPL):
+Options:
+a) Apo C-III
+b) Apo C-II
+c) Apo B-100
+d) Apo B-48
+e) Apo E
+Correct Option:
+Ans. (B) Apo C-II
+Explanation: Apo C-II is a cofactor for LPL, activating it to hydrolyze triglycerides in chylomicrons and VLDL, facilitating fatty acid uptake by tissues.
+Tags: Biochemistry
+
+Question: The active site of an enzyme is:
+Options:
+a) Three dimensional in quality
+b) Composed of a linear amino acid array
+c) Large relative to the total bulk of the enzyme
+d) Binds covalently to the substrate
+e) Is also called allosteric site
+Correct Option:
+Ans. (A) Three dimensional in quality
+Explanation: The enzyme active site has a precise three-dimensional shape complementary to the substrate, enabling specific binding and catalysis without being covalently attached.
+Tags: Biochemistry
+
+Question: The subunit composition of LDH1 isoenzyme of Lactate dehydrogenase is:
+Options:
+a) HHHH
+b) HHHM
+c) HHMM
+d) HMMM
+e) MMMM
+Correct Option:
+Ans. (A) HHHH
+Explanation: LDH1, found in the heart and RBCs, is composed of four H (heart) subunits, distinguishing it from LDH5 (MMMM) in skeletal muscle and liver.
+Tags: Biochemistry
+
+Question: A group-specific enzyme is:
+Options:
+a) Hexokinase
+b) Lactase
+c) L-amino oxidase
+d) Trypsin
+e) Urease
+Correct Option:
+Ans. (D) Trypsin
+Explanation: Trypsin acts on specific peptide bonds adjacent to basic amino acids (lysine and arginine), making it group-specific, unlike absolute or linkage-specific enzymes.
+Tags: Biochemistry
+
+Question: Which one of the following enzymes is plasma-specific:
+Options:
+a) Amylase
+b) Fibrinolysin
+c) Lipoprotein lipase
+d) Trypsin
+e) Streptokinase
+Correct Option:
+Ans. (C) Lipoprotein lipase
+Explanation: Lipoprotein lipase is mainly found in the vascular endothelium and acts on circulating lipoproteins, classifying it as plasma-specific in function.
+Tags: Biochemistry
+
+Question: Which of the following reactions is hydrolyzed by transferase:
+Options:
+a) Alcohol + NAD → Aldehyde + NADH + H⁺
+b) Acetyl CoA + Choline → Acetylcholine + CoA
+c) L-Alanine → D-Alanine
+d) Histidine → Histamine + CO₂
+e) Triglyceride + H₂O → Diglyceride + Fatty acid
+Correct Option:
+Ans. (B) Acetyl CoA + Choline → Acetylcholine + CoA
+Explanation: Transferases catalyze the transfer of functional groups, such as acetyl in this reaction, from one molecule to another without hydrolysis.
+Tags: Biochemistry
+
+Question: Which of the following statements is NOT correct for competitive inhibition:
+Options:
+a) Allopurinol is a competitive inhibitor
+b) Can be overcome by increasing substrate concentration
+c) Inhibitor and substrate bind at different sites
+d) Vmax remains unchanged
+e) Km increases
+Correct Option:
+Ans. (C) Inhibitor and substrate bind at different sites
+Explanation: In competitive inhibition, the inhibitor competes with the substrate for the same active site; binding at a different site is characteristic of non-competitive inhibition.
+Tags: Biochemistry
+
+Question: Human serum alkaline phosphatase levels can provide information relevant to:
+Options:
+a) Bone disease associated with osteoblastic activity
+b) Carcinoma of prostate
+c) Myocardial infarction
+d) Mumps
+e) Osteolytic disease
+Correct Option:
+Ans. (A) Bone disease associated with osteoblastic activity Explanation: ALP rises in conditions with increased bone formation, such as Paget’s disease or rickets, reflecting osteoblastic activity rather than osteolytic or soft tissue pathology.
+Tags: Biochemistry
+
+Question: Which type of oxidoreductase enzyme usually forms hydrogen peroxide (H₂O₂) as one of its products:
+Options:
+a) Dehydrogenase
+b) Oxidases
+c) Oxygenases
+d) Peroxidases
+e) None of the above
+Correct Option:
+Ans. (B) Oxidases
+Explanation: Oxidases transfer electrons directly to oxygen, generating H₂O₂ as a byproduct, unlike dehydrogenases which transfer electrons to other electron carriers.
+Tags: Biochemistry
+
+Question: Enzyme Hexokinase belongs to which class:
+Options:
+a) Oxidoreductase
+b) Transferase
+c) Hydrolase
+d) Lyase
+e) Isomerase
+Correct Option:
+Ans. (B) Transferase
+Explanation: Hexokinase transfers a phosphate group from ATP to glucose, classifying it as a transferase involved in the first step of glycolysis.
+Tags: Biochemistry
+
+Question: Which one of the following statements is not true about Vmax:
+Options:
+a) It is the maximum velocity that can ever be reached
+b) It depends on the affinity of the enzyme
+c) More the number of enzymes, the higher will be Vmax
+d) It depends on the number of enzymes
+e) It is read on Y-axis
+Correct Option:
+Ans. (B) It depends on the affinity of the enzymes
+Explanation: Vmax depends on enzyme concentration and catalytic efficiency, not substrate affinity, which affects Km. Vmax is the theoretical maximum rate of reaction.
+Tags: Biochemistry
+
+Question: Creatine Phosphokinase (CPK) is not found in:
+Options:
+a) Skeletal muscles
+b) Myocardium
+c) Brain
+d) Liver
+e) Kidneys
+Correct Option:
+Ans. (D) Liver
+Explanation: CPK is present in muscle (skeletal and cardiac) and brain, where it catalyzes reversible phosphorylation of creatine. Liver tissue contains minimal CPK.
+Tags: Biochemistry
+
+Question: Coenzymes are:
+Options:
+a) Protein part of enzymes
+b) Carbohydrate part of enzymes
+c) Lipid part of enzymes
+d) Non-protein part of enzymes
+e) Derived from acetyl CoA
+Correct Option:
+Ans. (D) Non-protein part of enzymes
+Explanation: Coenzymes are organic molecules, often vitamin-derived, that bind transiently to enzymes and assist in catalysis without being proteins themselves.
+Tags: Biochemistry
+
+Question: When the temperature of an enzyme-catalyzed reaction is increased by 10°C, its rate
+increases by:
+Options:
+a) Two times
+b) Three times
+c) Four times
+d) Five times
+e) Ten times
+Correct Option:
+Ans. (A) Two times
+Explanation: Within physiological ranges, a 10°C rise roughly doubles reaction rates due to increased molecular collisions, following the Q₁₀ rule.
+Tags: Biochemistry
+
+Question: Which of the following is not true of enzymes:
+Options:
+a) Enzymes are proteins
+b) Enzymes have great catalytic power
+c) Enzymes bind substrates with high specificity
+d) Enzymes use hydrophobic interactions exclusively in binding substrates
+Correct Option:
+Ans. (D) Enzymes use hydrophobic interactions exclusively in binding substrates
+Explanation: Enzyme-substrate binding involves hydrogen bonds, ionic interactions, van der Waals forces, and hydrophobic interactions; no single interaction type dominates exclusively.
+Tags: Biochemistry
+
+Question: A 45-year-old lady was brought to the accident and tertiary care hospital with severe epigastric pain with vomiting. The pain was relieved on leaning forward. Which serum enzyme estimation would be more appropriate to assess pancreatitis:
+Options:
+a) Acid phosphatase
+b) Alkaline phosphatase
+c) Amylase
+d) ALT
+Correct Option:
+Ans. (C) Amylase
+Explanation: Serum amylase rises early in acute pancreatitis due to pancreatic acinar cell injury and leakage of digestive enzymes, making it the preferred diagnostic marker in acute presentations.
+Tags: Biochemistry

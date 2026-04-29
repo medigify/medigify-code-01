@@ -1,0 +1,241 @@
+Question: Which route of administration is commonly used for insulin:
+Options:
+a) Intravenous
+b) Intramuscular
+c) Subcutaneous
+d) Oral
+Correct Option:
+Ans. Subcutaneous
+Explanation: Insulin is a protein that would be degraded by digestive enzymes if taken orally, and it requires a route that allows for consistent absorption. The subcutaneous route is preferred because it provides a slow and steady release into the bloodstream, which is ideal for managing blood glucose levels throughout the day. Intravenous administration is typically reserved for emergency settings like diabetic ketoacidosis, while intramuscular injections are generally avoided due to faster and less predictable absorption rates.
+Tags: Auxiliary Subjects, Minors
+
+Question: A molecule that interacts as an activator or inhibitor and brings about a change in biological function through its chemical actions is known as:
+Options:
+a) Hormone
+b) Neurotransmitter
+c) Protein
+d) Drug
+Correct Option:
+Ans. Drug
+Explanation: This definition encompasses both activators (agonists) and inhibitors (antagonists) that bring about their effects through chemical actions. While hormones and neurotransmitters are signaling molecules, "drug" is the most comprehensive term for any exogenous or endogenous molecule used as a therapeutic or experimental agent.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which type of transmembrane signaling receptors are used by Vitamin D:
+Options:
+a) Intracellular
+b) JAK-STAT
+c) Membrane spanning
+d) G-protein coupled
+Correct Option:
+Ans. Intracellular
+Explanation: Vitamin D is a lipid-soluble molecule that can easily cross the plasma membrane to interact with intracellular receptors located in the cytoplasm or nucleus. Once bound, the receptor-hormone complex acts as a transcription factor, binding to specific DNA sequences to regulate gene expression. This mechanism is distinct from G-protein coupled or membrane-spanning receptors, which are used by water-soluble signaling molecules that cannot enter the cell.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following factors directly affect drug absorption except:
+Options:
+a) pH
+b) Blood flow
+c) Contact time at absorption site
+d) Molecular weight of drug
+Correct Option:
+Ans. Molecular weight of drug
+Explanation: Drug absorption is significantly influenced by physiological variables like pH (which affects ionization), blood flow to the site, and the contact time at the absorption surface. While molecular weight does influence the rate of passive diffusion, it is often considered an intrinsic physical property of the drug rather than a "direct" environmental factor at the absorption site.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not a mechanism of absorption of drugs from the GI tract:
+Options:
+a) Passive diffusion
+b) Facilitated diffusion
+c) Active transport
+d) Pinocytosis
+Correct Option:
+Ans. Pinocytosis
+Explanation: Most drugs are absorbed from the gastrointestinal tract via passive diffusion, facilitated diffusion, or active transport systems. Pinocytosis, the process of a cell "drinking" or engulfing fluid, is an extremely rare and inefficient mechanism for drug absorption, generally reserved for very large molecules or specialized proteins. Because the vast majority of therapeutic agents rely on smaller, more efficient transport pathways, pinocytosis is not considered a standard mechanism for GI drug uptake.
+Tags: Auxiliary Subjects, Minors
+
+Question: For a drug given orally, the principal site of drug absorption is:
+Options:
+a) Stomach
+b) Small intestine
+c) Oesophagus
+d) Large intestine
+Correct Option:
+Ans. Small intestine
+Explanation: The small intestine is the primary site for the absorption of orally administered drugs because it offers a massive surface area due to the presence of villi and microvilli. Additionally, the high blood flow and relatively neutral pH environment compared to the stomach favor the absorption of a wide range of chemical compounds. While the stomach can absorb some drugs (like aspirin or alcohol), the sheer surface area of the small intestine makes it the most significant contributor to bioavailability.
+Tags: Auxiliary Subjects, Minors
+
+Question: A drug that binds to the inactive state of a receptor & decreases constitutive activity is known as:
+Options:
+a) Partial agonist
+b) Inverse agonist
+c) Antagonist
+d) Allosteric agonist
+Correct Option:
+Ans. Inverse agonist
+Explanation: An inverse agonist is a drug that binds to the same receptor as an agonist but produces a pharmacological response opposite to that of the agonist. It specifically targets receptors that exhibit constitutive activity, meaning they are active even in the absence of a ligand, and forces them into an inactive state. This differs from a standard antagonist, which merely blocks the effects of an agonist without affecting the receptor's baseline activity.
+Tags: Auxiliary Subjects, Minors
+
+Question: Type of agonist which acts as antagonist in presence of full agonist is known as:
+Options:
+a) Partial agonist
+b) Inverse agonist
+c) Allosteric agonist
+d) None
+Correct Option:
+Ans. Partial agonist
+Explanation: A partial agonist is a molecule that binds to a receptor but produces only a sub-maximal response, even at full receptor occupancy. In the presence of a full agonist, a partial agonist can actually act as an antagonist by competing for the same binding sites and reducing the overall effect.
+Tags: Auxiliary Subjects, Minors
+
+Question: IV administration of drugs:
+Options:
+a) 100% bioavailable
+b) Rapidly absorbed
+c) Undergoes the first-pass metabolism
+d) Rapidly excreted by renal
+Correct Option:
+Ans. 100% bioavailable
+Explanation: Drugs administered via the intravenous (IV) route bypass the barriers of absorption and the liver's first-pass metabolism entirely, resulting in 100% bioavailability. This ensures that the entire dose enters the systemic circulation immediately.
+Tags: Auxiliary Subjects, Minors
+
+Question: Type of agonist which decreases or abolishes constitutive activity of receptor:
+Options:
+a) Partial agonist
+b) Inverse agonist
+c) Full agonist
+d) Allosteric agonist
+Correct Option:
+Ans. Inverse agonist
+Explanation: An inverse agonist is a drug that binds to the same receptor as an agonist but produces a pharmacological response opposite to that of the agonist. It specifically targets receptors that exhibit constitutive activity, meaning they are active even in the absence of a ligand, and forces them into an inactive state. This differs from a standard antagonist, which merely blocks the effects of an agonist without affecting the receptor's baseline activity.
+Tags: Auxiliary Subjects, Minors
+
+Question: A study was carried out in isolated skeletal muscle preparations to determine the action of a new drug "succinylcholine," which in separate studies is bound to the same receptors as acetylcholine. In the absence of succinylcholine, acetylcholine caused contraction of the muscle & in presence of succinylcholine, acetylcholine did not cause contraction. But when the concentration of acetylcholine was increased, muscle contraction occurred. Which of the following best describes succinylcholine:
+Options:
+a) Chemical antagonist
+b) Irreversible antagonist
+c) Competitive antagonist
+d) Physiologic antagonist
+Correct Option:
+Ans. Competitive antagonist
+Explanation: In the scenario described the ability of increased acetylcholine concentrations to overcome the inhibitory effect of succinylcholine confirms that the two drugs are competing for the same binding site. This reversible blockade is the hallmark of a competitive antagonist, where the maximal response can still be achieved if enough agonist is present to displace the inhibitor. Although succinylcholine is clinically a depolarizing agent, within the logic of this specific experimental question, it demonstrates competitive behavior.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which statement is incorrect about drug metabolism:
+Options:
+a) All drugs are modified before their removal from the body
+b) Action of drugs is terminated before their elimination
+c) It is a mechanism of activation & termination of drug action
+d) Conversion of drug to inactive form
+Correct Option:
+Ans. All drugs are modified before their removal from the body
+Explanation: The statement that all drugs are modified before their removal from the body is incorrect because some drugs (such as lithium or certain polar antibiotics) are excreted by the kidneys completely unchanged. While metabolism is a primary mechanism for terminating drug action or activating pro-drugs, it is not a universal requirement for elimination.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which route of administration is commonly used for vaccines:
+Options:
+a) Intramuscular
+b) Subcutaneous
+c) Intradermal
+d) Oral
+Correct Option:
+Ans. Intramuscular
+Explanation: Most vaccines are administered via the intramuscular route because muscle tissue has a rich blood supply that facilitates the transport of the vaccine to immune cells. The muscle also provides a small "depot" for the antigen, allowing for a more sustained immune response compared to direct intravenous injection.
+Tags: Auxiliary Subjects, Minors
+
+Question: The action of the drug on the body is known as:
+Options:
+a) Pharmacokinetics
+b) Pharmacodynamics
+c) Pharmacology
+d) Pharmacotherapeutics
+Correct Option:
+Ans. Pharmacodynamics
+Explanation: Pharmacodynamics refers to the study of the biochemical and physiological effects of drugs on the body, or simply "what the drug does to the body". This includes the study of receptor binding, signal transduction, and the ultimate functional change produced by the drug. It is the complement to pharmacokinetics, which deals with how the body processes the drug through absorption, distribution, metabolism, and excretion.
+Tags: Auxiliary Subjects, Minors
+
+Question: Sugammadex is a new drug that reverses the action of rocuronium and certain other non-depolarizing neuromuscular blocking agents. It interacts directly with the rocuronium molecule and not at the receptor. Which term best describes sugammadex:
+Options:
+a) Chemical antagonist
+b) Noncompetitive antagonist
+c) Partial agonist
+d) Pharmacologic antagonist
+Correct Option:
+Ans. Chemical antagonist
+Explanation: Sugammadex is classified as a chemical antagonist because it works by directly encapsulating and neutralizing the rocuronium molecule in the plasma, rather than interacting with the neuromuscular receptor itself. By forming a stable complex with the drug, it rapidly lowers the concentration of free rocuronium, allowing for the reversal of neuromuscular blockade. This mechanism is distinct from pharmacologic antagonists, which must compete for receptor sites to exert their effects.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following statements about receptors is not true:
+Options:
+a) It determines the quantitative relations between dose or concentration of drug and pharmacologic effects
+b) Responsible for the selectivity of drug action
+c) Mediates the actions of pharmacological agonists and antagonists
+d) None of the above
+Correct Option:
+Ans. None of the above
+Explanation: Receptors are fundamental to pharmacology as they determine the quantitative relationship between drug concentration and effect, while also ensuring the selectivity of drug action. They serve as the essential mediators for both agonists and antagonists to produce a biological change.
+Tags: Auxiliary Subjects, Minors
+
+Question: Routes of drug excretion from the body include:
+Options:
+a) Liver & Kidney
+b) Intestines
+c) Lungs
+d) All of these
+Correct Option:
+Ans. All of these
+Explanation: The body utilizes several organs for the removal of drugs and their metabolites, with the kidneys (urine) and liver (bile)being the primary routes. However, drugs can also be excreted through the lungs (especially volatile gases and alcohols) and the intestines. Because multiple systems contribute to the final elimination of substances from the systemic circulation, "All of these" is the correct answer.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is meant by constitutive activity of a receptor:
+Options:
+a) Activity in absence of ligand
+b) Activity in presence of partial agonist
+c) Activity in presence of inverse agonist
+d) Activity in presence of antagonist
+Correct Option:
+Ans. Activity in absence of ligand
+Explanation: An inverse agonist is a drug that binds to the same receptor as an agonist but produces a pharmacological response opposite to that of the agonist. It specifically targets receptors that exhibit constitutive activity, meaning they are active even in the absence of a ligand, and forces them into an inactive state.
+Tags: Auxiliary Subjects, Minors
+
+Question: Partial agonist produces less than full effect because:
+Options:
+a) It binds to activated & non-activated states of receptor
+b) It has low affinity for receptor
+c) It exhibits only constitutive activity
+d) It binds only to activated state of receptor
+Correct Option:
+Ans. It binds to activated & non-activated states of receptor
+Explanation: A partial agonist is a molecule that binds to a receptor but produces only a sub-maximal response, even at full receptor occupancy. In the presence of a full agonist, a partial agonist can actually act as an antagonist by competing for the same binding sites and reducing the overall effect. This limited efficacy occurs because partial agonists bind to both the activated and non-activated states of the receptor, failing to stabilize the active configuration as effectively as a full agonist.
+Tags: Auxiliary Subjects, Minors
+
+Question: An 18-year-old female patient is brought to the emergency department due to drug overdose. Which route of administration is most desirable for administering an antidote:
+Options:
+a) Intramuscular
+b) Intravenous
+c) Oral
+d) Transdermal
+Correct Option:
+Ans. Intravenous
+Explanation: In an emergency drug overdose situation, the intravenous route is the most desirable because it provides immediate access to the systemic circulation. This allows the antidote to reach its target receptors as quickly as possible without the delays associated with absorption from the gut or muscle.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which route of administration is used for drugs that require steady, continuous release, such as nitroglycerin:
+Options:
+a) Topical
+b) Subcutaneous
+c) Intramuscular
+d) Oral
+Correct Option:
+Ans. Topical
+Explanation: Drugs that require a steady, continuous release over a long period, such as nitroglycerin for angina prevention, are often administered via topical transdermal patches. These patches contain a reservoir of the drug that diffuses through the skin into the bloodstream at a controlled rate, maintaining a constant therapeutic level.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which route of administration is commonly used for drugs having bitter taste:
+Options:
+a) Intravenous
+b) Intramuscular
+c) Rectal
+d) Oral
+Correct Option:
+Ans. Rectal
+Explanation: The rectal route is a useful alternative for administering drugs that have an extremely bitter taste or cause nausea when taken orally. By bypassing the taste buds and the upper GI tract, this route avoids the unpleasant sensations and potential vomiting associated with some medications.
+Tags: Auxiliary Subjects, Minors

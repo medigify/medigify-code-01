@@ -1,0 +1,143 @@
+Question: Plasma membrane carries out all of the following functions, EXCEPT:
+Options:
+a) Cell receptors
+b) Pinocytosis
+c) Transport mechanism
+d) Energy generation
+e) Cell-cell recognition
+Correct Option:
+Ans. Energy generation
+Explanation: The plasma membrane mainly controls transport in and out of the cell. It also has receptors for signals and helps in cell-cell recognition. Processes like pinocytosis and transport mechanisms occur here. Energy generation happens in mitochondria, not the plasma membrane.
+Tags: Biochemistry
+
+Question: The hydrogen ion concentration of pure water is equal to:
+Options:
+a) 1x10^7 M
+b) 1x10^-7 M
+c) 1x10^14 M
+d) 1x10^-14 M
+e) 1x10^-8 M
+Correct Option:
+Ans. 1x10^-7M
+Explanation: Pure water dissociates slightly into H⁺ and OH⁻ ions. Both are present in equal concentration. The concentration of H⁺ = 1 × 10⁻⁷ M. This corresponds to pH = 7 (neutral).
+Tags: Biochemistry
+
+Question: The major functions of the Golgi apparatus are:
+Options:
+a) Diffusion and osmosis
+b) Detoxification of substances and removal of waste products
+c) Synthesis of new proteins for the cytoplasm
+d) Packaging, sorting and modification of new molecules
+e) Synthesis of nucleic acids
+Correct Option:
+Ans. Packaging, sorting, and modification of new molecules
+Explanation: Proteins are made in the rough ER first. The Golgi apparatus modifies them (like adding sugars). Then it sorts and packages them into vesicles. These vesicles are sent to different parts of the cell or outside. Protein synthesis occurs in the ribosome. DNA/RNA synthesis occurs in the Nucleus.
+Tags: Biochemistry
+
+Question: Phospholipids are important cell membrane components because they:
+Options:
+a) Can form a bilayer in oil water.
+b) Can combine covalently with proteins
+c) Have Glycerol.
+d) Have both Polar and Non-Polar groups
+e) None of the above
+Correct Option:
+Ans. Have both Polar and Non-Polar groups
+Explanation: Phospholipids have a hydrophilic (polar) head and hydrophobic (non-polar) tail. Because of this dual nature, they arrange themselves into a bilayer in water. The heads face water while the tails hide inside. This structure forms the basic framework of the cell membrane.
+Tags: Biochemistry
+
+Question: Which of the following is not related to membranes:
+Options:
+a) Cholesterol esters
+b) Impermeability to polar substances
+c) Integrity of cell
+d) Oligosaccharides
+e) Phospholipids
+Correct Option:
+Ans. Cholesterol esters
+Explanation: Biological membranes mainly contain phospholipids, proteins, cholesterol, and oligosaccharides. These help in structure, permeability, and recognition. Cholesterol esters are storage forms of cholesterol, not membrane components. Therefore, they are not directly related to membranes.
+Tags: Biochemistry
+
+Question: NA+ - K+ ATPase is the marker enzyme of:
+Options:
+a) Cytosol
+b) Mitochondria
+c) Nucleus
+d) Plasma membrane
+e) Ribosome
+Correct Option:
+Ans. Plasma membrane
+Explanation: Cytosol-Lactate dehydrogenase, Mitochondrion-Succinate dehydrogenase, Nucleus-DNA polymerase, Plasma membrane-Na⁺/K⁺-ATPase
+Tags: Biochemistry
+
+Question: In dialysis, the protein particles are separated from crystalloids on the basis of:
+Options:
+a) Charge gradient across the membrane
+b) Electrical charge
+c) Facilitated diffusion
+d) Molecular size
+e) Solubility
+Correct Option:
+Ans. Molecular size
+Explanation:  Dialysis uses a semipermeable membrane. Small molecules (crystalloids) can pass through the membrane. Large molecules like proteins cannot pass. So, separation happens based on the difference in molecular size.
+Tags: Biochemistry
+
+Question: Which of the following statements is NOT correct for biological membranes:
+Options:
+a) Free movement of proteins and nucleic acids across the membrane
+b) Prevention of free diffusion of Ionic solutes
+c) Release of proteins when damaged
+d) Site for biochemical reactions
+e) Signal reaction and transmission
+Correct Option:
+Ans. Free movement of proteins and nucleic acids across the membrane
+Explanation: Biological membranes do not allow free movement of large molecules like proteins and nucleic acids. They prevent the free diffusion of ions and control transport. Membranes also take part in signalling and biochemical reactions. Therefore, option A is incorrect.
+Tags: Biochemistry
+
+Question: Active transport differs from passive transport in that:
+Options:
+a) It requires energy but no transport carrier
+b) It depends primarily on diffusion and osmosis
+c) It requires a carrier but no energy
+d) Requires energy usually in the form of ATP. '
+e) it primarily depends on diffusion
+Correct Option:
+Ans. Requires energy usually in the form of ATP.
+Explanation: Passive transport moves substances down the concentration gradient without energy. Active transport moves substances against the gradient. Because it goes against the natural direction, it requires energy (ATP). Example: Na⁺/K⁺ pump
+Tags: Biochemistry
+
+Question: Regarding ‘colloids’, all are true except:
+Options:
+a) A colloid solution has two distinct phases, a disperse and a continuous phase
+b) The path of light through a colloidal solution is always invisible
+c) 20 % albumin is a colloidal solution
+d) Size of particles ranges between 10-100 nm
+e) They form true solutions
+Correct Option:
+Ans. The path of light through a colloidal solution is always invisible
+Explanation: Colloids have two phases: dispersed phase and continuous phase. Their particles are intermediate in size (about 1–100 nm). They scatter light, so the path of light becomes visible (Tyndall effect). Therefore, the statement that the light path is always invisible is false. Harper's Illustrated Biochemistry (water, pH, colloids discussion)
+Tags: Biochemistry
+
+Question: The pressure that stops the osmosis of pure solvent into solution through a semipermeable membrane is known as:
+Options:
+a) Dialysis
+b) Diffusion
+c) Oncotic pressure
+d) Osmotic pressure
+e) Vapor pressure
+Correct Option:
+Ans. Osmotic pressure
+Explanation: In Lippincott Illustrated Reviews: Biochemistry, osmosis is described as the movement of solvent across a semipermeable membrane from a region of lower solute concentration to a region of higher solute concentration. The pressure required to stop this movement is called osmotic pressure, so option D is correct. The other options are incorrect because dialysis refers to the separation of molecules by size through a membrane, diffusion is the passive movement of solute down its concentration gradient, oncotic pressure specifically refers to the osmotic pressure caused by plasma proteins, and vapor pressure is related to the evaporation of liquids, not osmosis.
+Tags: Biochemistry
+
+Question: Sulfonamides are competitive inhibitors of:
+Options:
+a) PABA (Para Amino Butanic Acid)
+b) Ribosome
+c) Mitochondria
+d) Nucleus
+e) Cell membrane
+Correct Option:
+Ans. PABA (Para Amino Butanic Acid)
+Explanation: Sulfonamides act as competitive inhibitors of PABA (para-aminobenzoic acid) in bacteria. They resemble PABA structurally and compete with it in the folic acid synthesis pathway, which is needed for DNA, so option A is correct. The other options are incorrect because sulfonamides do not directly inhibit the ribosome, mitochondria, nucleus, or cell membrane; instead, they block bacterial folate synthesis by competing with PABA.
+Tags: Biochemistry

@@ -1,0 +1,395 @@
+Question: A six year old boy develops gross hematuria after taking antimalarial drug, most probably the cause is:
+Options:
+a) G6PD deficiency
+b) Immune hemolysis
+c) Malaria
+d) Paroxysmal nocturnal hemoglobinuria
+Correct Option:
+Ans. G6PD deficiency
+Explanation: G6PD deficiency leads to decreased protection against oxidative stress. Antimalarial drugs (like primaquine) cause oxidative damage → RBC hemolysis. This results in hemoglobinuria (dark urine). It is an X-linked disorder.
+Tags: Auxiliary Subjects, Minors
+
+Question: Thalassemia is diagnosed by:
+Options:
+a) Blood CP
+b) Serum ferritin
+c) Bone marrow examination
+d) Haemoglobin electrophoresis
+Correct Option:
+Ans. Haemoglobin electrophoresis
+Explanation: Hemoglobin electrophoresis detects abnormal hemoglobin patterns. It shows increased HbA2 or HbF in thalassemia. It is the gold standard test for diagnosis. Helps differentiate from iron deficiency.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following findings are expected in hemolytic anemia except:
+Options:
+a) Decreased haptoglobin
+b) Increased urinary bilirubin
+c) Increased reticulocyte count
+d) Normoblastic erythroid hyperplasia
+Correct Option:
+Ans. Increased urinary bilirubin
+Explanation: In hemolysis, unconjugated bilirubin increases (not urinary bilirubin). Urinary bilirubin is seen in conjugated hyperbilirubinemia. Other findings are typical of hemolysis due to increased RBC destruction.
+Tags: Auxiliary Subjects, Minors
+
+Question: The average volume of a red blood cell, expressed in femtolitres is known as:
+Options:
+a) Mean cell hemoglobin (MCH)
+b) Mean cell hemoglobin concentration (MCHC)
+c) Mean cell volume (MCV)
+d) Red blood cell distribution width (RDW)
+Correct Option:
+Ans. Mean cell volume (MCV)
+Explanation: MCV measures the average size of RBCs. It is used to classify anemia into microcytic, normocytic, and macrocytic. Normal range is 80–100 fL.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most important single investigation in the diagnosis of iron deficiency anemia is:
+Options:
+a) Hb estimation
+b) Serum ferritin level
+c) Total iron binding capacity
+d) % Saturation of transferrin
+Correct Option:
+Ans. Serum ferritin level
+Explanation: Serum ferritin reflects body iron stores. It is the most sensitive and specific test for iron deficiency anemia. Low ferritin confirms depleted iron stores.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following procedures are useful in distinguishing iron deficiency anemia from beta-thalassemia minor except:
+Options:
+a) Hb electrophoresis
+b) Hematocrit
+c) Serum ferritin
+d) Serum iron
+Correct Option:
+Ans. Hematocrit
+Explanation: Hematocrit only reflects total RBC volume. It does not distinguish between iron deficiency and thalassemia. Other tests assess iron levels or hemoglobin types.
+Tags: Auxiliary Subjects, Minors
+
+Question: Reticulocyte count is high in:
+Options:
+a) Aplastic anemia
+b) Megaloblastic anemia
+c) Hemolytic anemia
+d) Anemia of chronic disorder
+Correct Option:
+Ans. Hemolytic anemia
+Explanation: Reticulocyte count increases in hemolysis due to bone marrow compensation. The marrow increases RBC production to replace destroyed cells. Low in production disorders.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hypochromic microcytic anemia is caused by:
+Options:
+a) Iron deficiency anemia
+b) Chronic myeloid leukemia
+c) Megaloblastic anemia
+d) Hodgkin lymphoma
+Correct Option:
+Ans. Iron deficiency anemia
+Explanation: Iron deficiency causes decreased hemoglobin synthesis. This leads to small (microcytic) and pale (hypochromic) RBCs. Most common cause of this anemia type.
+Tags: Auxiliary Subjects, Minors
+
+Question: The osmotic fragility test would be most useful for diagnosis of which of the following disorder:
+Options:
+a) Alpha thalassemia
+b) Beta thalassemia
+c) Hereditary spherocytosis
+d) Sickle cell anemia
+Correct Option:
+Ans. Hereditary spherocytosis
+Explanation: RBCs in spherocytosis are fragile due to membrane defects. They lyse easily in hypotonic solutions. Osmotic fragility test is increased in this condition.
+Tags: Auxiliary Subjects, Minors
+
+Question: A patient who is anemic complains of dysphagia. He has underlying:
+Options:
+a) Iron deficiency
+b) Folate deficiency
+c) Vitamin B-12 deficiency
+d) Autoimmune hemolytic anemia
+Correct Option:
+Ans. Iron deficiency
+Explanation: Dysphagia in iron deficiency is due to esophageal webs (Plummer-Vinson syndrome). It is associated with glossitis and koilonychia. Seen in chronic iron deficiency.
+Tags: Auxiliary Subjects, Minors
+
+Question: Sickle cell disease mutation results in substitution of glutamic acid by which amino acid:
+Options:
+a) Arginine
+b) Leucine
+c) Isoleucine
+d) Valine
+Correct Option:
+Ans. Valine
+Explanation: In sickle cell disease, glutamic acid is replaced by valine in β-globin chain. This causes hemoglobin polymerization under low oxygen. Leads to sickling of RBCs.
+Tags: Auxiliary Subjects, Minors
+
+Question: Elderly patient with weakness, numbness and elevated unconjugated bilirubin:
+Options:
+a) Folate deficiency
+b) Iron deficiency
+c) Alcohol intoxication
+d) Vitamin B-12 deficiency
+Correct Option:
+Ans. Vitamin B-12 deficiency
+Explanation: Vitamin B12 deficiency causes megaloblastic anemia and neurological symptoms. It also causes ineffective erythropoiesis → increased bilirubin. Neurologic signs are key feature.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hemoglobin electrophoresis is used to diagnose:
+Options:
+a) G6PD deficiency
+b) Iron deficiency
+c) Hereditary spherocytosis
+d) Hemoglobinopathies
+Correct Option:
+Ans. Hemoglobinopathies
+Explanation: Electrophoresis separates different hemoglobin types. It is used to diagnose thalassemia and sickle cell disease. Detects abnormal hemoglobin variants.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hemolytic disease of newborn is most commonly seen in:
+Options:
+a) Rh incompatibility
+b) Hemolytic transfusion reactions
+c) Malaria
+d) G6PD deficiency
+Correct Option:
+Ans. Rh incompatibility
+Explanation: Rh incompatibility occurs when Rh-negative mother carries Rh-positive fetus. Maternal antibodies destroy fetal RBCs. Leads to hemolytic disease of newborn.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hereditary spherocytosis is accompanied by an increased incidence of:
+Options:
+a) Hyperthyroidism
+b) Hypothyroidism
+c) Cholelithiasis
+d) Renal stone
+Correct Option:
+Ans. Cholelithiasis
+Explanation: Increased RBC destruction leads to increased bilirubin. This causes pigment gallstones. Common complication of hereditary spherocytosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Neurologic symptoms in Vitamin B12 deficiency are produced because of:
+Options:
+a) Elevated homocysteine level
+b) Elevated methylmalonic acid level
+c) Reduced Vitamin B9 level
+d) Spinal cord compression
+Correct Option:
+Ans. Elevated methylmalonic acid level
+Explanation: Vitamin B12 is required for myelin synthesis. Deficiency leads to elevated methylmalonic acid. Causes neurological symptoms like neuropathy and ataxia.
+Tags: Auxiliary Subjects, Minors
+
+Question: Example of normocytic normochromic anemia is:
+Options:
+a) Blood loss anemia
+b) Pernicious anemia
+c) Iron deficiency anemia
+d) Thalassemia
+Correct Option:
+Ans. Blood loss anemia
+Explanation: Acute blood loss anemia initially shows normal RBC size and hemoglobin. It is normocytic and normochromic. Over time, it may become iron deficient.
+Tags: Auxiliary Subjects, Minors
+
+Question: Defect in hereditary spherocytosis is:
+Options:
+a) Defective spectrin and ankyrin protein of RBC membrane
+b) Decreased synthesis of RBCs
+c) Increased synthesis of RBCs
+d) Autoimmune destruction
+Correct Option:
+Ans. Defective spectrin and ankyrin protein of RBC membrane
+Explanation: RBC membrane cytoskeletal defect leads to loss of membrane stability. RBCs become spherical and fragile. They are destroyed in spleen.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which change on deoxygenation produces sickling of RBCs:
+Options:
+a) Dehydration
+b) Polymerization
+c) Lysis
+d) Over hydration
+Correct Option:
+Ans. Polymerization
+Explanation: Deoxygenated HbS polymerizes into long fibers. This distorts RBC into sickle shape. Leads to vaso-occlusion and hemolysis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Treatment of thalassemia is:
+Options:
+a) Bone marrow transplant
+b) Blood transfusion
+c) Dialysis
+d) Platelet transfusion
+Correct Option:
+Ans. Blood transfusion
+Explanation: Regular blood transfusions help maintain hemoglobin levels in thalassemia. Prevents complications like severe anemia. Iron chelation is also required.
+Tags: Auxiliary Subjects, Minors
+
+Question: Comment on MCV and MCH in thalassemia:
+Options:
+a) Low MCV and Low MCH
+b) High MCV and High MCH
+c) Low MCV and High MCH
+d) High MCV and Low MCH
+Correct Option:
+Ans. Low MCV and Low MCH
+Explanation: Thalassemia causes microcytic hypochromic anemia. RBCs are small and contain less hemoglobin. Hence both MCV and MCH are decreased.
+Tags: Auxiliary Subjects, Minors
+
+Question: Anemia of chronic disease case (labs given):
+Options:
+a) Anemia of chronic disease
+b) Aplastic anemia
+c) Iron deficiency anemia
+d) Sickle cell disease
+Correct Option:
+Ans. Anemia of chronic disease
+Explanation: Ferritin is increased (acute phase reactant) and TIBC decreased. This pattern is classic for anemia of chronic disease. Iron is sequestered in macrophages.
+Tags: Auxiliary Subjects, Minors
+
+Question: Likely diagnosis with low Hb, low MCV, family history:
+Options:
+a) Beta thalassemia
+b) Iron deficiency anemia
+c) Autoimmune hemolytic anemia
+d) Hereditary spherocytosis
+Correct Option:
+Ans. Beta thalassemia
+Explanation: Family history + microcytic anemia suggests genetic disorder. Beta thalassemia causes decreased Hb production. Leads to microcytic hypochromic anemia.
+Tags: Auxiliary Subjects, Minors
+
+Question: Not a cause of megaloblastic anemia:
+Options:
+a) Hookworm infestation
+b) Pregnancy
+c) Severe malnutrition
+d) Strict vegetarian diet
+Correct Option:
+Ans. Hookworm infestation
+Explanation: Hookworm causes iron deficiency anemia, not megaloblastic anemia. Megaloblastic anemia is due to B12 or folate deficiency. Causes macrocytic anemia.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 40 year old male taking NSAIDs for arthritis for a long time presents with pallor and loss of appetite. Serum ferritin is 450 µg/L (increased) and total iron binding capacity is 120 µg/L (decreased). What is the diagnosis:
+Options:
+a) Iron deficiency anemia
+b) Blood loss anemia
+c) Anemia of chronic inflammation
+d) Megaloblastic anemia
+Correct Option:
+Ans. Anemia of chronic inflammation
+Explanation: Increased ferritin (acute phase reactant) with decreased TIBC is characteristic of anemia of chronic disease. Iron is trapped in macrophages and not available for erythropoiesis. Commonly associated with chronic inflammatory states like long-term NSAID use or chronic illness.
+Tags: Auxiliary Subjects, Minors
+
+Question: Positive Coombs test indicates which kind of anemia:
+Options:
+a) G6PD deficiency anemia
+b) Immuno-hemolytic anemia
+c) Paroxysmal nocturnal anemia
+d) Sideroblastic anemia
+Correct Option:
+Ans. Immuno-hemolytic anemia
+Explanation: Coombs (direct antiglobulin) test detects antibodies bound to RBCs. A positive test indicates immune-mediated hemolysis. Seen in autoimmune hemolytic anemia.
+Tags: Auxiliary Subjects, Minors
+
+Question: Increased reticulocyte count is a feature of:
+Options:
+a) Hemolysis
+b) Folate deficiency
+c) Vitamin B12 deficiency
+d) Lymphoma
+Correct Option:
+Ans. Hemolysis
+Explanation: Reticulocytes increase when bone marrow responds to anemia by increasing RBC production. Seen in hemolysis and blood loss. Decreased in production disorders.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most common cause of iron deficiency anemia in developed countries is:
+Options:
+a) Low intake
+b) Poor bioavailability
+c) Peptic ulcer or colon cancer (blood loss)
+d) Parasitic infection
+Correct Option:
+Ans. Peptic ulcer or colon cancer (blood loss)
+Explanation: In developed countries, chronic blood loss is the main cause of iron deficiency anemia. Common sources include gastrointestinal bleeding such as ulcers or malignancy. Leads to gradual iron depletion.
+Tags: Auxiliary Subjects, Minors
+
+Question: Antimalarial drug (primaquine) may lead to which kind of anemia:
+Options:
+a) G6PD deficiency anemia
+b) Immuno-hemolytic anemia
+c) Paroxysmal nocturnal anemia
+d) Sideroblastic anemia
+Correct Option:
+Ans. G6PD deficiency anemia
+Explanation: Primaquine causes oxidative stress in RBCs. In G6PD deficiency, RBCs cannot handle oxidative damage. This leads to hemolysis and hemoglobinuria.
+Tags: Auxiliary Subjects, Minors
+
+Question: A female presented with pallor. Serum ferritin is increased and total iron binding capacity is decreased. Diagnosis is:
+Options:
+a) Iron deficiency anemia
+b) Blood loss anemia
+c) Anemia of chronic inflammation
+d) Megaloblastic anemia
+Correct Option:
+Ans. Anemia of chronic inflammation
+Explanation: This lab pattern (↑ ferritin, ↓ TIBC) indicates anemia of chronic disease. Iron is present but unavailable for erythropoiesis. Common in chronic infections or inflammatory conditions.
+Tags: Auxiliary Subjects, Minors
+
+Question: Microscopic findings of hypersegmented neutrophils and macro-ovalocytes indicate which type of anemia:
+Options:
+a) Blood loss anemia
+b) Megaloblastic anemia
+c) Iron deficiency anemia
+d) Sideroblastic anemia
+Correct Option:
+Ans. Megaloblastic anemia
+Explanation: Hypersegmented neutrophils and macro-ovalocytes are hallmark features of megaloblastic anemia. Caused by impaired DNA synthesis due to B12 or folate deficiency. Leads to ineffective erythropoiesis.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 22 year old pale looking female has following lab results: Hb 8.7 g/dl, RBCs microcytic hypochromic, serum iron normal and serum TIBC normal. What is the most likely diagnosis:
+Options:
+a) Thalassemia minor
+b) Iron deficiency anemia
+c) Hemolytic anemia
+d) Aplastic anemia
+Correct Option:
+Ans. Thalassemia minor
+Explanation: Microcytic hypochromic anemia with normal iron studies suggests thalassemia. In iron deficiency, serum iron is low. Family history is often present in thalassemia.
+Tags: Auxiliary Subjects, Minors
+
+Question: This is not a diagnostic feature of beta thalassemia:
+Options:
+a) Raised serum iron level
+b) Hypochromic anemia
+c) Raised HbF
+d) Evidence that at least one parent has thalassemia minor
+Correct Option:
+Ans. Raised serum iron level
+Explanation: Serum iron is typically increased in thalassemia due to ineffective erythropoiesis and increased absorption. However, it is not a diagnostic criterion. Diagnosis is confirmed by hemoglobin electrophoresis.
+Tags: Auxiliary Subjects, Minors
+
+Question: A young boy with fever was given an antimalarial drug. Following this he passed black colored urine which improved after four days. Which condition should be considered as a likely possibility:
+Options:
+a) Idiopathic hemolytic anemia
+b) G6PD deficiency
+c) Autoimmune hemolytic anemia
+d) Hepatitis
+Correct Option:
+Ans. G6PD deficiency
+Explanation: Antimalarial drugs cause oxidative stress leading to RBC hemolysis in G6PD deficiency. Black urine (hemoglobinuria) is due to intravascular hemolysis. Symptoms resolve after removal of trigger.
+Tags: Auxiliary Subjects, Minors
+
+Question: Electrophoresis in beta thalassemia shows:
+Options:
+a) Low HbA
+b) High HbA
+c) Low HbF
+d) No Hb synthesis
+Correct Option:
+Ans. Low HbA
+Explanation: In beta thalassemia, there is decreased or absent β-globin chain production. This results in reduced HbA and increased HbF and HbA2. Hemoglobin electrophoresis helps in diagnosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Following is true for thalassemia minor:
+Options:
+a) Is asymptomatic
+b) Associated with hemolysis
+c) Requires iron replacement therapy
+d) May progress into thalassemia major
+Correct Option:
+Ans. Is asymptomatic
+Explanation: Thalassemia minor is usually asymptomatic or mildly anemic. It does not require treatment. It is important to differentiate from iron deficiency anemia to avoid unnecessary iron therapy.
+Tags: Auxiliary Subjects, Minors

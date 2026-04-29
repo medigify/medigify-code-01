@@ -1,0 +1,581 @@
+Question: Which of the following organs is least likely to be affected by ischemic infarct:
+Options:
+a) Heart
+b) Kidney
+c) Liver
+d) Spleen
+Correct Option:
+Ans. Liver
+Explanation: Liver has dual blood supply from hepatic artery and portal vein. This protects it from ischemic infarction. Other organs have end arteries.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 31-year-old man is on a scuba diving trip and descends to a depth  of 50 m in the Blue Hole off the coast of Belize. After 30 minutes, he has a
+malfunction in his equipment and quickly returns to the boat on the surface. He
+develops dyspnea, substernal chest pain, severe headache, vertigo, followed by
+painful myalgias and arthralgias. Which of the following is most likely
+occluding his arterioles:
+Options:
+a) Fat globules
+b) Fibrin clots
+c) Nitrogen gas bubbles
+d) Platelet thrombi
+Correct Option:
+Ans. Nitrogen gas bubbles
+Explanation: Rapid ascent causes decompression sickness. Nitrogen gas comes out of solution forming bubbles. These obstruct vessels and cause ischemic symptoms.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is associated with fat embolism:
+Options:
+a) Fracture of long bones
+b) Hypertriglyceridemia
+c) Hemolytic anemias
+d) Hypercholesterolemia
+Correct Option:
+Ans. Fracture of long bones
+Explanation: Fat embolism occurs after long bone fractures. Fat enters circulation and lodges in lungs. Classic triad includes respiratory distress, neuro signs, petechiae.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the usual site of lodging of venous emboli:
+Options:
+a) Right atrium
+b) Lungs
+c) Liver
+d) Bones
+Correct Option:
+Ans. Lungs
+Explanation: Venous emboli travel through right heart to lungs. They lodge in pulmonary arteries. This causes pulmonary embolism.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one among the following is a component of Virchow's triad:
+Options:
+a) Thrombocytopenia
+b) Endothelial injury
+c) Increased levels of factor II
+d) Endothelial hypertrophy
+Correct Option:
+Ans. Endothlial injury
+Explanation: Virchow’s triad includes endothelial injury, stasis, and hypercoagulability. These factors predispose to thrombosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: After how much time of myocardial infarction do neutrophils appear:
+Options:
+a) 4 hours
+b) 12 hours
+c) 24–48 hours
+d) 72 hours
+Correct Option:
+Ans. 24–48 hours
+Explanation: Neutrophils appear within 24–48 hours after MI. They are the first inflammatory cells to infiltrate necrotic tissue. Their enzymes contribute to tissue breakdown.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 22-year-old woman with an uncomplicated pregnancy develops sudden  dyspnea with cyanosis and hypotension during vaginal delivery of a term infant.
+She develops seizures and coma. Which of the following is most likely to be
+present in her peripheral pulmonary arteries:
+Options:
+a) Aggregates of platelets
+b) Amniotic fluid
+c) Fat globules
+d) Gas bubbles
+Correct Option:
+Ans. Amniotic fluid
+Explanation: Amniotic fluid embolism occurs during labor. Fetal debris enters maternal circulation. It causes respiratory distress, shock, and DIC.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a constitutional risk factor  (non-modifiable) for cardiovascular disease:
+Options:
+a) Family history
+b) Inflammation
+c) Smoking
+d) Hyperlipidemia
+Correct Option:
+Ans. Family history
+Explanation: Family history is a non-modifiable risk factor. It reflects genetic predisposition. Smoking and hyperlipidemia are modifiable risks.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following features is exclusive to left heart failure:
+Options:
+a) Nutmeg liver
+b) Heart failure cells
+c) Feet edema
+d) Ascites
+Correct Option:
+Ans. Heart failure cells
+Explanation: Heart failure cells are hemosiderin-laden macrophages in lungs. They occur due to pulmonary congestion in left-sided failure. Not seen in right-sided failure.
+Tags: Auxiliary Subjects, Minors
+
+Question: In which of the following types of shock is vital organ perfusion
+maintained:
+Options:
+a) Progressive shock
+b) Non-progressive shock
+c) Septic shock
+d) Irreversible shock
+Correct Option:
+Ans. Non-progressive shock
+Explanation: Non-progressive (compensated) shock maintains vital organ perfusion. Compensatory mechanisms like tachycardia and vasoconstriction are active. It is reversible.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 55-year-old woman develops swelling and tenderness of the left leg
+after major abdominal surgery. Doppler sonography shows thrombosis of deep leg
+veins. Which of the following mechanisms most likely contributed to her
+condition:
+Options:
+a) Hypercalcemia
+b) Immobilization
+c) Nitric oxide release
+d) Turbulent blood flow
+Correct Option:
+Ans. Immobilization
+Explanation: Immobilization leads to venous stasis. Stasis is a major factor in Virchow’s triad. It predisposes to deep vein thrombosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 32-year-old man with fractures of the femur and tibia suddenly
+develops severe dyspnea two days after surgical stabilization. Which of the
+following complications is the most likely cause:
+Options:
+a) Cardiac tamponade
+b) Fat embolism
+c) Pulmonary edema
+d) Pulmonary infarction
+Correct Option:
+Ans. Fat embolism
+Explanation: Fat embolism occurs 1–3 days after long bone fractures. Fat globules enter circulation and lodge in lungs. Causes respiratory and neurological symptoms.
+Tags: Auxiliary Subjects, Minors
+
+Question: Blood supply to the left ventricle of a 60-year-old man suddenly
+stops and myocardial infarction develops. Which type of infarct is most likely:
+Options:
+a) Grey in color
+b) Reddish
+c) White
+d) Brown
+Correct Option:
+Ans. White
+Explanation: White (anemic) infarcts occur in solid organs like heart. Due to occlusion of end arteries. There is minimal collateral circulation.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 75-year-old man develops swelling and tenderness of the left leg
+two weeks after a femoral fracture. Which of the following complications is
+most likely to occur:
+Options:
+a) Disseminated intravascular coagulation
+b) Fat embolism syndrome
+c) Gangrenous necrosis of the foot
+d) Pulmonary thromboembolism
+Correct Option:
+Ans. Pulmonary thromboembolism
+Explanation: Deep vein thrombosis can lead to pulmonary embolism. Emboli travel to lungs and obstruct pulmonary arteries. It is a common complication.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the cause of sudden cardiac death in weight lifters:
+Options:
+a) Myocardial hypertrophy
+b) Myocardial infarction
+c) Unstable angina
+d) Mural thrombus
+Correct Option:
+Ans. Myocardial hypertrophy
+Explanation: Sudden death in athletes is often due to hypertrophic cardiomyopathy. It predisposes to fatal arrhythmias. Common in young individuals.
+Tags: Auxiliary Subjects, Minors
+
+Question: In an experiment on vascular injury, propagation of thrombus to
+adjacent normal vessels is prevented by activation of protein C. Which of the
+following substances is responsible:
+Options:
+a) Calcium
+b) Fibrin
+c) Thrombomodulin
+d) Prothrombin
+Correct Option:
+Ans. Thrombomodulin
+Explanation: Thrombomodulin binds thrombin and activates protein C. Protein C has anticoagulant effects. It prevents further clot propagation.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 77-year-old woman has a fainting episode. Echocardiography shows a
+1-cm nodular lesion on the superior aspect of an intact anterior mitral valve
+leaflet and blood cultures are negative. Which of the following best describes
+this lesion:
+Options:
+a) Mural thrombus
+b) Myxoma
+c) Phlebothrombosis
+d) Vegetation
+Correct Option:
+Ans. Vegetation
+Explanation: Vegetations are masses on heart valves. They may be sterile or infective. They can embolize and cause complications.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one among the following is the most important factor in
+reducing damage in case of occlusion of a coronary vessel:
+Options:
+a) Alternative blood supply
+b) Age of the patient
+c) Rate of occlusion
+d) Organs having end-arterial circulation
+Correct Option:
+Ans. Alternative blood supply
+Explanation: Collateral circulation reduces infarct size. Alternative blood supply protects myocardium. It limits ischemic damage.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 23-year-old man undergoes surgery for
+fractures of the pelvis and femur after a motor vehicle accident. The next day
+he develops dyspnea, neurological symptoms, and a petechial rash. Which type of
+embolism is most likely responsible:
+Options:
+a) Air
+b) Amniotic fluid
+c) Fat
+d) Paradoxical
+Correct Option:
+Ans. Fat
+Explanation: Fat embolism presents with triad: respiratory distress, neurological symptoms, petechiae. Occurs after fractures of long bones.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not a feature of
+right heart failure:
+Options:
+a) Nutmeg liver
+b) Peripheral edema
+c) Heart failure cells
+d) Dyspnea
+Correct Option:
+Ans. Heart failure cells
+Explanation: Heart failure cells are seen in left-sided failure. Right-sided failure causes peripheral edema and liver congestion.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most sensitive and specific marker of
+myocardial infarction:
+Options:
+a) Troponin T & I
+b) Myoglobin
+c) CK-MB
+d) Creatine kinase
+Correct Option:
+Ans. Troponin T & I
+Explanation: Troponins are highly specific for cardiac injury. They rise early and remain elevated longer. Best diagnostic marker for MI.
+Tags: Auxiliary Subjects, Minors
+
+Question: MI is an example of:
+Options:
+a) Caseous necrosis
+b) Liquefactive necrosis
+c) Coagulative necrosis
+d) Fat necrosis
+Correct Option:
+Ans. Coagulative necrosis
+Explanation: MI leads to coagulative necrosis. Tissue architecture is preserved initially. Common in ischemic injury of solid organs.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following organelles is first
+affected in myocardial infarction:
+Options:
+a) Mitochondria
+b) Ribosomes
+c) Lysosomes
+d) Nucleus
+Correct Option:
+Ans. Ribosomes
+Explanation: Ribosomes are first affected in ischemia. Protein synthesis decreases early. This contributes to cell injury.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 60-year-old man presents with crushing
+substernal chest pain radiating to the neck and arm with elevated troponin I
+levels. If he dies the next day, which histologic feature would most likely be
+found in the myocardium:
+Options:
+a) Coagulative necrosis with neutrophil infiltration
+b) Fibrotic tissue replacing infarcted tissue
+c) Slight swelling of tissue and change of color
+d) Young fibroblasts and new vessels growing into the infarcted tissue
+Correct Option:
+Ans. Coagulative necrosis with neutrophil infiltration
+Explanation: Within 1–3 days post-MI, neutrophils infiltrate necrotic tissue. Coagulative necrosis is present. This is acute phase of MI.
+Tags: Auxiliary Subjects, Minors
+
+Question: Organs less susceptible to infarction because
+of dual blood supply:
+Options:
+a) Lungs and liver
+b) Lungs and spleen
+c) Liver and kidney
+d) Spleen and kidney
+Correct Option:
+Ans. Lungs and liver
+Explanation: Organs with dual blood supply like lungs and liver are protected from infarction. Even if one supply is blocked, the other maintains perfusion. This reduces ischemic damage.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 64-year-old woman with long-standing
+chronic obstructive pulmonary disease develops cor pulmonale with right-sided
+heart failure. What is the most likely cause:
+Options:
+a) Pericarditis
+b) Disease of the lungs or pulmonary vessels
+c) Left-sided heart failure
+d) Systemic hypertension
+Correct Option:
+Ans. Disease of the lungs or pulmonary vessels
+Explanation: Cor pulmonale results from lung disease causing pulmonary hypertension. This increases right ventricular workload. Eventually leads to right-sided heart failure.
+Tags: Auxiliary Subjects, Minors
+
+Question: A factor that stimulates proliferation of
+smooth muscle cells and contributes to the pathogenesis of atherosclerosis:
+Options:
+a) Platelet-derived growth factor
+b) Transforming growth factor β
+c) Interleukin-1
+d) Tumor necrosis factor
+Correct Option:
+Ans. Platelet-derived growth factor
+Explanation: PDGF stimulates smooth muscle proliferation in vessel walls. This contributes to plaque formation in atherosclerosis. It is released from platelets and macrophages.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 60-year-old man returns to normal
+activities four days after myocardial infarction. At this time, there is a
+special danger of:
+Options:
+a) Arrhythmia
+b) Mural thrombosis
+c) Myocardial (pump) failure
+d) Myocardial rupture
+Correct Option:
+Ans. Myocardial rupture
+Explanation: Myocardial rupture occurs 3–7 days post-MI. Due to macrophage-mediated weakening of tissue. It can lead to sudden death.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following does not predispose to
+thrombosis:
+Options:
+a) Endothelial damage
+b) Vascular stasis
+c) Thrombocytopenia
+d) Formation of platelet aggregates
+Correct Option:
+Ans. Thrombocytopenia
+Explanation: Thrombocytopenia decreases clot formation. Other options are components of Virchow’s triad and promote thrombosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Paradoxical emboli are:
+Options:
+a) Commonly pulmonary emboli
+b) Caused by myocardial infarction
+c) Caused by sudden atmospheric pressure changes
+d) Due to presence of an interventricular or interatrial defect
+Correct Option:
+Ans. Due to presence of an interventricular or interatrial defect
+Explanation: Paradoxical emboli pass from venous to arterial circulation. This occurs via septal defects like ASD or VSD. They bypass the lungs.
+Tags: Auxiliary Subjects, Minors
+
+Question: The following predispose to deep vein
+thrombosis except:
+Options:
+a) Factor VIII deficiency
+b) Immobilization
+c) Abdominal surgery
+d) Malnutrition
+Correct Option:
+Ans. Factor VIII deficiency
+Explanation: Factor VIII deficiency causes bleeding tendency. Immobilization and surgery promote stasis and thrombosis. Hence A is not a risk.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 55-year-old woman presents with chest pain
+that predictably occurs during exertion and is relieved by rest. Which
+condition best describes her state:
+Options:
+a) Arrhythmia
+b) Myocardial infarction
+c) Stable angina pectoris
+d) Unstable angina pectoris
+Correct Option:
+Ans. Stable angina pectoris
+Explanation: Stable angina occurs due to fixed atherosclerotic narrowing. Pain appears with exertion and is relieved by rest. No myocardial necrosis occurs.
+Tags: Auxiliary Subjects, Minors
+
+Question: An 86-year-old man with recurrent urinary
+tract infections presents with fever, tachycardia, hypotension, and altered
+mental status. Which type of shock is most likely:
+Options:
+a) Anaphylactic shock
+b) Cardiogenic shock
+c) Hypovolemic shock
+d) Septic shock
+Correct Option:
+Ans. Septic shock
+Explanation: Septic shock results from severe infection. Causes vasodilation and hypotension. Associated with fever and altered mental status.
+Tags: Auxiliary Subjects, Minors
+
+Question: A bedridden elderly patient suddenly develops
+pleuritic chest pain and hemoptysis. The most likely site of origin of the
+embolus is:
+Options:
+a) Hepatic veins
+b) Lower extremity veins
+c) Portal vein
+d) Pulmonary veins
+Correct Option:
+Ans. Lower extremity veins
+Explanation: Most pulmonary emboli originate from DVT in lower limbs. Emboli travel to lungs and cause infarction and hemoptysis.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 41-year-old woman presents with severe
+headache, visual disturbances, and blood pressure of 220/150 mmHg. These
+findings are most likely associated with:
+Options:
+a) Medial calcific sclerosis
+b) Arteriosclerosis obliterans
+c) Hyperplastic arteriolosclerosis
+d) Hyaline arteriolosclerosis
+Correct Option:
+Ans. Hyperplastic arteriolosclerosis
+Explanation: Severe hypertension causes hyperplastic arteriolosclerosis. It shows onion-skin appearance due to smooth muscle proliferation.
+Tags: Auxiliary Subjects, Minors
+
+Question: At autopsy, the pathologist identifies “heart
+failure cells.” This finding results from:
+Options:
+a) Activation of the coagulation cascade
+b) Chronic passive congestion of the lungs
+c) Hypoxic myocardial injury
+d) Myocardial hyperemia
+Correct Option:
+Ans. Chronic passive congestion of the lungs
+Explanation: Heart failure cells are hemosiderin-laden macrophages. Seen in chronic pulmonary congestion due to left-sided heart failure.
+Tags: Auxiliary Subjects, Minors
+
+Question: Irreversible myocardial injury occurs after
+approximately:
+Options:
+a) 30 minutes
+b) 1 hour
+c) 4 hours
+d) 5 minutes
+Correct Option:
+Ans. 30 minutes
+Explanation: Irreversible injury begins after 20–30 minutes of ischemia. Leads to cell death and necrosis. Early intervention is crucial.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most frequent site of venous thrombosis:
+Options:
+a) Veins of lower extremity
+b) Portal vein
+c) Hepatic vein
+d) Pulmonary vein
+Correct Option:
+Ans. Veins of lower extremity
+Explanation: DVT most commonly occurs in deep veins of lower limbs. Due to stasis and immobilization. It can lead to pulmonary embolism.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not a cause of
+thrombosis:
+Options:
+a) High level of antithrombin III
+b) Damage to endothelial lining
+c) Polycythemia
+d) Factor VIII deficiency
+Correct Option:
+Ans. High level of antithrombin III
+Explanation: Antithrombin III is anticoagulant and prevents clotting. Endothelial damage and polycythemia promote thrombosis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Postmenopausal women have greater risk of:
+Options:
+a) Cardiovascular disorders
+b) Asthma
+c) Osteomalacia
+d) Leiomyoma
+Correct Option:
+Ans. Cardiovascular disorders
+Explanation: Estrogen has protective cardiovascular effects. After menopause, risk of atherosclerosis increases. Leads to higher CV disease risk.
+Tags: Auxiliary Subjects, Minors
+
+Question: Two days after myocardial infarction,
+histology of the heart shows:
+Options:
+a) Granulation tissue
+b) Necrotic muscle with neutrophils
+c) Collagen
+d) Scar
+Correct Option:
+Ans. Necrotic muscle with neutrophils
+Explanation: At 1–3 days post-MI, neutrophils infiltrate necrotic myocardium. This is acute inflammatory phase of infarction.
+Tags: Auxiliary Subjects, Minors
+
+Question: The most frequent cause of cor pulmonale with
+isolated right-sided heart failure is:
+Options:
+a) Disease of the lungs or pulmonary vessels
+b) Left-sided heart failure
+c) Pulmonary infundibular or valvular stenosis
+d) Systemic hypertension
+Correct Option:
+Ans. Disease of the lungs or pulmonary vessels
+Explanation: Cor pulmonale is due to chronic lung disease. It increases pulmonary pressure. Leads to right-sided failure.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a state of shock, there is:
+Options:
+a) Cardiovascular collapse
+b) Decreased hydrostatic pressure and increased osmotic pressure
+c) Decreased pulse rate
+d) Fever
+Correct Option:
+Ans. Cardiovascular collapse
+Explanation: Shock is characterized by circulatory collapse. There is inadequate tissue perfusion. Leads to organ dysfunction.
+Tags: Auxiliary Subjects, Minors
+
+Question: The most common cause of death immediately
+following acute myocardial infarction is:
+Options:
+a) Arrhythmia
+b) Left ventricular rupture
+c) Congestive heart failure
+d) Shock
+Correct Option:
+Ans. Arrhythmia
+Explanation: Fatal arrhythmias are most common early cause of death post-MI. Especially ventricular fibrillation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Onion-skin appearance of blood vessels is
+seen in:
+Options:
+a) Hyperplastic arteriosclerosis
+b) Hyaline arteriosclerosis
+c) Medial calcific arteriosclerosis
+d) Atherosclerosis
+Correct Option:
+Ans. Hyperplastic arteriosclerosis
+Explanation: Hyperplastic arteriolosclerosis shows concentric smooth muscle proliferation. Gives onion-skin appearance. Seen in severe hypertension.
+Tags: Auxiliary Subjects, Minors
+
+Question: First visible gross evidence for formation of
+atheroma:
+Options:
+a) Thrombus
+b) Fatty streak
+c) Calcification
+d) Ulceration
+Correct Option:
+Ans. Fatty streak
+Explanation: Fatty streaks are earliest lesions of atherosclerosis. Composed of lipid-laden foam cells. Seen even in young individuals.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hyaline arteriosclerosis is characterized by:
+Options:
+a) No luminal narrowing
+b) Onion-skin appearance
+c) Diffuse homogeneous pink hyaline thickening
+d) Strictering of vessel wall
+Correct Option:
+Ans. Diffuse homogeneous pink hyaline thickening
+Explanation: Hyaline arteriosclerosis shows pink hyaline thickening of vessel wall. Seen in hypertension and diabetes. Causes luminal narrowing.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most common symptom of myocardial infarction:
+Options:
+a) Chest pain
+b) Dyspnea
+c) Palpitation
+d) Edema
+Correct Option:
+Ans. Chest paim
+Explanation: Chest pain is the most common symptom of MI. It is crushing, substernal, and may radiate. Due to myocardial ischemia.
+Tags: Auxiliary Subjects, Minors

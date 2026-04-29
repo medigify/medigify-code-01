@@ -1,0 +1,579 @@
+Question: The epimer formation occurs in hexoses by changing the orientation of OH and H around carbon 2, 3 & 4. Which of the following are epimers of each other:
+Options:
+a) D-Glucose and D-Fructose
+b) D-Glucose and L-Glucose
+c) D-Glucose and D-Galactose
+d) D-Galactose and D-Fructose
+e) D-Mannose and D-Fructose
+Correct Option:
+Ans. D-Glucose and D-Galactose
+Explanation: Epimers are sugars that differ in configuration at only one chiral carbon atom. D-Glucose and D-Galactose are C-4 epimers, while D-Glucose and D-Mannose are C-2 epimers.
+Tags: Biochemistry
+
+Question: Sucrose is a non-reducing sugar because of:
+Options:
+a) Being disaccharide
+b) Being an invert sugar
+c) Having no free aldehyde or ketone group
+d) Its molecular weight
+e) Being soluble in water
+Correct Option:
+Ans. Having no free aldehyde or ketone group
+Explanation: In sucrose, the glycosidic bond links the anomeric carbons of glucose and fructose, leaving no free reducing group, so sucrose cannot reduce Benedict’s or Fehling’s reagent.
+Tags: Biochemistry
+
+Question: All of the following are sulphate-containing GAGs EXCEPT:
+Options:
+a) Chondroitin sulphate
+b) Hyaluronic acid
+c) Keratan sulphate
+d) Heparin
+e) Dermatan sulphate
+Correct Option:
+Ans. Hyaluronic acid
+Explanation: Hyaluronic acid is the only glycosaminoglycan that is not sulfated. Other GAGs such as chondroitin sulfate, dermatan sulfate, keratan sulfate, and heparin contain sulfate groups.
+Tags: Biochemistry
+
+Question: Which of the following is not true about glycosaminoglycans (GAGs):
+Options:
+a) GAGs are components of glycoproteins
+b) GAGs contain amino sugars
+c) Hyaluronic acid is a member of GAGs
+d) GAGs serve as source of energy
+e) GAGs are components of proteoglycans
+Correct Option:
+Ans. GAGs serve as source of energy
+Explanation: GAGs are structural polysaccharides found in connective tissues and extracellular matrix. They do not function as energy sources like glycogen or glucose. They are involved in making structures.
+Tags: Biochemistry
+
+Question: Which of the following is a glycosaminoglycan:
+Options:
+a) Glucagon
+b) Hyaluronidase
+c) Hyaluronic acid
+d) Insulin
+e) Dextrin
+Correct Option:
+Ans. Hyaluronic acid
+Explanation: Hyaluronic acid is a glycosaminoglycan composed of repeating units of glucuronic acid and N-acetylglucosamine, found in connective tissue and synovial fluid.
+Tags: Biochemistry
+
+Question: Which of the following gives positive Molisch’s test:
+Options:
+a) Pepsin
+b) Cephalin
+c) Peptone
+d) Glycogen
+e) Histone
+Correct Option:
+Ans. Glycogen
+Explanation: Molisch’s test detects carbohydrates. Glycogen is a polysaccharide; therefore, it gives a positive Molisch reaction, producing a violet ring.
+Tags: Biochemistry
+
+Question: Condensation of two glucose units results in the formation of:
+Options:
+a) Maltose
+b) Lactose
+c) Sucrose
+d) Levulose
+e) Insulin
+Correct Option:
+Ans. Maltose
+Explanation: Maltose is a disaccharide composed of two glucose molecules linked by an α-1,4 glycosidic bond.
+Tags: Biochemistry
+
+Question: A homopolysaccharide made up of fructose polymer is:
+Options:
+a) Starch
+b) Glycogen
+c) Inulin
+d) Amylose
+e) Cellulose
+Correct Option:
+Ans. Inulin
+Explanation: Inulin is a fructose polymer and serves as a storage carbohydrate in some plants.
+Tags: Biochemistry
+
+Question: All of the following glycosaminoglycans have sulphate EXCEPT:
+Options:
+a) Chondroitin sulphate
+b) Heparin
+c) Hyaluronic acid
+d) Chondroitin
+e) None of them
+Correct Option:
+Ans. Hyaluronic acid
+Explanation: Hyaluronic acid is the only non-sulfated glycosaminoglycan, while others usually contain sulfate groups.
+Tags: Biochemistry
+
+Question: Glycogen is the storage form of:
+Options:
+a) Amino acids
+b) Glucose
+c) Fatty acids
+d) Fructose
+e) Ribose
+Correct Option:
+Ans. Glucose
+Explanation: Glycogen is the storage form of glucose in animals, mainly stored in the liver and skeletal muscles.
+Tags: Biochemistry
+
+Question: Mucopolysaccharides are also known as:
+Options:
+a) Mucopolan
+b) Glycoprotein
+c) Homopolysaccharide
+d) Heteropolysaccharide
+e) Glycosaminoglycans
+Correct Option:
+Ans. Glycosaminoglycans
+Explanation: Mucopolysaccharides is the older term for glycosaminoglycans (GAGs), which are long unbranched polysaccharides composed of repeating disaccharide units.
+Tags: Biochemistry
+
+Question: Heparin is biochemically composed of:
+Options:
+a) N-Acetyl glucosamine and D-glucuronic acid
+b) N-Acetyl galactosamine and L-glucuronic acid
+c) N-Acetyl glucosamine sulphate and L-iduronic acid
+d) N-Acetyl glucosamine and L-iduronic acid
+e) Glucosamine and D-glucuronic acid
+Correct Option:
+Ans. N-Acetyl glucosamine sulphate and L-iduronic acid
+Explanation: Heparin is a highly sulfated glycosaminoglycan composed mainly of glucosamine sulfate and iduronic acid residues, giving it strong anticoagulant properties.
+Tags: Biochemistry
+
+Question: Glucose on oxidation yields:
+Options:
+a) Galacturonic acid
+b) Glucuronic acid
+c) Iduronic acid
+d) Mucic acid
+e) Glutamic acid
+Correct Option:
+Ans. Glucuronic acid
+Explanation: Oxidation of the primary alcohol group at carbon-6 of glucose forms glucuronic acid, which participates in detoxification reactions in the liver.
+Tags: Biochemistry
+
+Question: Which of the following is a keto-isomer of glucose:
+Options:
+a) Fructose
+b) Galactose
+c) Glucofuranose
+d) Glucopyranose
+e) Mannose
+Correct Option:
+Ans. Fructose
+Explanation: Glucose is an aldohexose, while fructose is a ketohexose with the carbonyl group at C-2, making it the keto-isomer of glucose.
+Tags: Biochemistry
+
+Question: Chitin, a homopolysaccharide, is polymer of:
+Options:
+a) N-Acetyl glucosamine
+b) N-Acetyl fructosamine
+c) Glucose
+d) Fructose
+e) Galactose
+Correct Option:
+Ans. N-Acetyl glucosamine
+Explanation: Chitin is a structural polysaccharide composed of β-1,4 linked N-acetyl-D-glucosamine units, found in fungal cell walls and arthropod exoskeletons.
+Tags: Biochemistry
+
+Question: A polysaccharide which acts as plasma expander:
+Options:
+a) Insulin
+b) Dextran
+c) Amylose
+d) Glycogen
+e) Cellulose
+Correct Option:
+Ans. Dextran
+Explanation: Dextran is a glucose polymer used clinically as a plasma volume expander. It increases oncotic pressure in blood, helping maintain circulating blood volume during shock or hemorrhage.
+Tags: Biochemistry
+
+Question: Which one of the following roles is NOT associated with carbohydrates:
+Options:
+a) Conjugated to many proteins and lipids
+b) Constituents of nucleic acids
+c) Major structural components of mammalian tissues
+d) Powerful inhibitor of blood clotting
+e) Serves as energy source
+Correct Option:
+Ans. Powerful inhibitor of blood clotting
+Explanation: Carbohydrates serve as energy sources, structural components, and parts of nucleic acids and glycoproteins. Heparin, a carbohydrate derivative, inhibits clotting, but this is not a general function of carbohydrates.
+Tags: Biochemistry
+
+Question: Carbohydrates that differ from one another only in configuration around a single carbon atom other than the carbonyl carbon are termed as:
+Options:
+a) Epimers
+b) Anomers
+c) Optical isomers
+d) Stereoisomers
+e) Enantiomers
+Correct Option:
+Ans. Epimers
+Explanation: Epimers are stereoisomers that differ in configuration at only one chiral carbon atom (excluding the carbonyl carbon). Example: Glucose and galactose (C-4 epimers).
+Tags: Biochemistry
+
+Question: The total number of isomers of glucose is:
+Options:
+a) 2
+b) 4
+c) 8
+d) 16
+e) 32
+Correct Option:
+Ans. 16
+Explanation: Glucose is an aldohexose with four chiral carbons, giving 2⁴ = 16 stereoisomers.
+Tags: Biochemistry
+
+Question: The carbohydrate of the blood group substances is:
+Options:
+a) Sucrose
+b) Fucose
+c) Arabinose
+d) Maltose
+e) Glucose
+Correct Option:
+Ans. Fucose
+Explanation: Fucose is an important sugar present in ABO blood group antigens, especially in the H antigen precursor on RBC membranes.
+Tags: Biochemistry
+
+Question: Agar is composed of sulphuric acid and:
+Options:
+a) Galactose
+b) Ribose
+c) Arabinose
+d) Xylose
+e) Erythrose
+Correct Option:
+Ans. Galactose
+Explanation: Agar is a polysaccharide composed mainly of sulfated galactose residues obtained from red algae.
+Tags: Biochemistry
+
+Question: A heteropolysaccharide among the following is:
+Options:
+a) Insulin
+b) Cellulose
+c) Dihydroxyacetone
+d) Heparin
+e) Dextrin
+Correct Option:
+Ans. Heparin
+Explanation: Heparin is a heteropolysaccharide (GAG) composed of repeating disaccharide units of glucosamine and uronic acid.
+Tags: Biochemistry
+
+Question: All glycosaminoglycans have sulphate EXCEPT:
+Options:
+a) Chondroitin sulphate
+b) Heparin
+c) Hyaluronic acid
+d) Chondroitin
+e) None of the above
+Correct Option:
+Ans. Hyaluronic acid
+Explanation: Hyaluronic acid is the only glycosaminoglycan that does not contain sulfate groups.
+Tags: Biochemistry
+
+Question: Glycerol is the alcohol present in all the following EXCEPT:
+Options:
+a) Plasmalogens
+b) Lecithin
+c) Sphingomyelin
+d) Cardiolipin
+e) Cephalin
+Correct Option:
+Ans. Sphingomyelin
+Explanation: Sphingomyelin contains sphingosine instead of glycerol, whereas lecithin, cephalin, cardiolipin, and plasmalogens are glycerophospholipids i.e. contain Glycerol.
+Tags: Biochemistry
+
+Question: Keratan sulphate is found in abundance in:
+Options:
+a) Heart muscle
+b) Liver
+c) Adrenal cortex
+d) Cornea
+e) Intestine
+Correct Option:
+Ans. Cornea
+Explanation: Keratan sulfate is abundant in the cornea, where it contributes to corneal transparency and extracellular matrix structure.
+Tags: Biochemistry
+
+Question: The repeating unit of hyaluronic acid is:
+Options:
+a) Glucosamine and galactosamine
+b) Glucuronic acid and galactosamine
+c) Glucuronic acid and glucosamine
+d) Glucuronic acid and N-acetyl galactosamine
+e) Glucuronic acid and N-acetyl glucosamine
+Correct Option:
+Ans. Glucuronic acid and N-acetyl glucosamine
+Explanation: Hyaluronic acid is composed of repeating disaccharide units of glucuronic acid and N-acetylglucosamine.
+Tags: Biochemistry
+
+Question: Which one of the sugars is present in nucleotides:
+Options:
+a) Glucose
+b) Fructose
+c) Ribose
+d) Galactose
+e) Mannose
+Correct Option:
+Ans. Ribose
+Explanation: Ribose is the pentose sugar in RNA and many nucleotides, while deoxyribose is present in DNA.
+Tags: Biochemistry
+
+Question: Which of the following are aldohexoses:
+Options:
+a) Erythrose and ribose
+b) Erythrose and glucose
+c) Ribulose and xylulose
+d) Fructose and xylulose
+e) Glucose and mannose
+Correct Option:
+Ans. Glucose and mannose
+Explanation: Aldohexoses are six-carbon sugars with an aldehyde group, such as glucose, galactose, and mannose.
+Tags: Biochemistry
+
+Question: Polysaccharide used in assessing glomerular filtration rate (GFR) is:
+Options:
+a) Glycogen
+b) Agar
+c) Inulin
+d) Hyaluronic acid
+e) Glucuronic acid
+Correct Option:
+Ans. Inulin
+Explanation: Inulin is a fructose polymer used to measure GFR because it is freely filtered in the glomerulus and neither reabsorbed nor secreted by the renal tubules.
+Tags: Biochemistry
+
+Question: A homopolysaccharide among the following is:
+Options:
+a) Heparin
+b) Hyaluronic acid
+c) Dermatan sulphate
+d) Keratan sulphate
+e) Cellulose
+Correct Option:
+Ans. Cellulose
+Explanation: Cellulose is a homopolysaccharide composed entirely of β-D-glucose units linked by β-1,4 glycosidic bonds, forming the structural component of plant cell walls.
+Tags: Biochemistry
+
+Question: The predominant form of glucose in solution is:
+Options:
+a) Acyclic form
+b) Hydrated acyclic form
+c) Glucofuranose
+d) Glucopyranose
+e) Open chain
+Correct Option:
+Ans. Glucopyranose
+Explanation: In aqueous solution, glucose predominantly exists in the cyclic pyranose form (six-membered ring). The open-chain form is present in very small amounts.
+Tags: Biochemistry
+
+Question: Which of the following is not an epimeric pair:
+Options:
+a) Glucose and galactose
+b) Glucose and mannose
+c) Erythrose and threose
+d) Ribose and xylose
+e) Ribose and lyxose
+Correct Option:
+Ans. Ribose and lyxose
+Explanation: Epimers differ at only one chiral carbon atom.
+Glucose & galactose → C-4 epimers
+Glucose & mannose → C-2 epimers
+Erythrose & threose → epimers
+Ribose and lyxose differ at more than one carbon, so they are not epimers.
+Tags: Biochemistry
+
+Question: Invertase catalyses the hydrolysis of:
+Options:
+a) Sucrose
+b) Maltose
+c) Lactose
+d) Trehalose
+e) Galactose
+Correct Option:
+Ans. Sucrose
+Explanation: Invertase (sucrase) hydrolyses sucrose into glucose and fructose, producing invert sugar.
+Tags: Biochemistry
+
+Question: Mucopolysaccharides are also known as:
+Options:
+a) Complex carbohydrates
+b) Glycoproteins
+c) Glycosaminoglycans
+d) Homopolysaccharides
+e) Mucoproteins
+Correct Option:
+Ans. Glycosaminoglycans
+Explanation: Mucopolysaccharides is the older term for glycosaminoglycans (GAGs), long unbranched polysaccharides composed of repeating disaccharide units containing amino sugars.
+Tags: Biochemistry
+
+Question: Synovial fluid primarily contains:
+Options:
+a) Heparin
+b) Hyaluronic acid
+c) Chondroitin sulphate
+d) Keratan sulphate
+e) Dermatan sulphate
+Correct Option:
+Ans. Hyaluronic acid
+Explanation: Hyaluronic acid is a major component of synovial fluid, giving it viscosity and lubricating properties in joints.
+Tags: Biochemistry
+
+Question: Homopolysaccharide which consists of fructose is:
+Options:
+a) Starch
+b) Inulin
+c) Dextrin
+d) Glycogen
+e) Cellulose
+Correct Option:
+Ans. Inulin
+Explanation: Inulin is a homopolysaccharide composed of fructose units and is found in plants such as chicory and dahlia.
+Tags: Biochemistry
+
+Question: The repeating units of N-Acetyl glucosamine and iduronic acid are present in:
+Options:
+a) Chondroitin sulfate
+b) Dermatan sulfate
+c) Heparin
+d) Hyaluronate
+e) Keratan sulfate
+Correct Option:
+Ans. Heparin
+Explanation: Heparin is a highly sulfated glycosaminoglycan composed mainly of glucosamine sulfate and iduronic acid residues, giving it strong anticoagulant properties.
+Tags: Biochemistry
+
+Question: Which of the following statements is NOT true for glycogen:
+Options:
+a) A homopolysaccharide with variable molecular weight
+b) Liver glycogen helps to maintain blood glucose levels
+c) Gives blue color with iodine solution
+d) Deposits in large amounts in inherited disorders
+e) Hydrolysed by alpha-amylase
+Correct Option:
+Ans. Gives blue color with iodine solution
+Explanation: Starch gives a blue color with iodine, whereas glycogen gives a reddish-brown color. Glycogen gives a reddish-brown color with iodine because it is highly branched, producing short helices. Iodine binds weakly to these short helices, giving a reddish-brown color instead of the deep blue color seen with starch (amylose), which has long unbranched helices that bind iodine strongly.
+Tags: Biochemistry
+
+Question: The smallest monosaccharide having furanose ring is:
+Options:
+a) Erythrose
+b) Fructose
+c) Glyceraldehyde
+d) Heptulose
+e) Ribose
+Correct Option:
+Ans. Ribose
+Explanation: Ribose (a pentose sugar) commonly forms a furanose (five-membered) ring structure in solution.
+Tags: Biochemistry
+
+Question: Hyaluronic acid is an example of which type of mucopolysaccharide:
+Options:
+a) Acidic MPH
+b) Basic MPH
+c) Neutral MPH
+d) Racemic mixture
+e) Compound mixture
+Correct Option:
+Ans. Acidic MPH
+Explanation: Hyaluronic acid is an acidic mucopolysaccharide (glycosaminoglycan) because it contains uronic acid groups, which give it a negative charge and high water-binding capacity.
+Tags: Biochemistry
+
+Question: A pair of isomers which are mirror images of each other with exactly same optical rotation but in opposite directions are:
+Options:
+a) Anomers
+b) Epimers
+c) Enantiomers
+d) Diastereomers
+e) Enediol form
+Correct Option:
+Ans. Enantiomers
+Explanation: Enantiomers are stereoisomers that are non-superimposable mirror images of each other and rotate plane-polarized light equally but in opposite directions.
+Tags: Biochemistry
+
+Question: Sugar present in DNA is:
+Options:
+a) Ribose
+b) Xylulose
+c) Inulin
+d) Deoxyribose
+e) Xylose
+Correct Option:
+Ans. Deoxyribose
+Explanation: DNA contains 2-deoxyribose, a pentose sugar lacking an oxygen atom at the 2′ carbon, whereas RNA contains ribose.
+Tags: Biochemistry
+
+Question: Chitin is a homopolysaccharide polymer of:
+Options:
+a) N-Acetyl glucosamine
+b) N-Acetyl fructosamine
+c) Glucose
+d) Fructose
+e) Galactose
+Correct Option:
+Ans. N-Acetyl glucosamine
+Explanation: Chitin consists of β-1,4 linked N-acetyl-D-glucosamine units and forms the structural component of fungal cell walls and arthropod exoskeletons.
+Tags: Biochemistry
+
+Question: Heparin is:
+Options:
+a) Glycoprotein
+b) Phospholipid
+c) Cholesterol derivative
+d) Glycosaminoglycan
+e) True hormone
+Correct Option:
+Ans. Glycosaminoglycan
+Explanation: Heparin is a highly sulfated glycosaminoglycan (GAG) composed of glucosamine and uronic acid residues, functioning as a natural anticoagulant.
+Tags: Biochemistry
+
+Question: Lactose sugar is a combination of:
+Options:
+a) Glucose & Glucose
+b) Glucose & Galactose
+c) Glucose & Fructose
+d) Glucose & Sucrose
+e) None of them
+Correct Option:
+Ans. Glucose & Galactose
+Explanation: Lactose is a disaccharide composed of glucose and galactose linked by a β-1,4 glycosidic bond.
+Tags: Biochemistry
+
+Question: Glucose on oxidation yields:
+Options:
+a) Galacturonic acid
+b) Glucuronic acid
+c) Iduronic acid
+d) Mucic acid
+e) Glutamic acid
+Correct Option:
+Ans. Glucuronic acid
+Explanation: Oxidation of the C-6 primary alcohol group of glucose produces glucuronic acid, important in detoxification and conjugation reactions in the liver. For reference oxidation at C-1 (aldehyde group) gives gluconic acid.
+Tags: Biochemistry
+
+Question: Mutarotation of a sugar can be best described as:
+Options:
+a) Interconversion of pyranose and furanose forms
+b) Interconversion of dextrorotatory and levorotatory forms
+c) Interconversion of aldose and ketose forms
+d) Interconversion of D- and L- forms
+e) Rearrangement of groups at the anomeric carbon via the open-chain form
+Correct Option:
+Ans. Rearrangement of groups at the anomeric carbon via the open-chain form
+Explanation: Mutarotation is the interconversion between α and β anomers of a sugar, occurring through the open-chain form and involving the anomeric carbon.
+Tags: Biochemistry
+
+Question: Starch and glycogen are polymers of:
+Options:
+a) Mannose
+b) α-D-glucose
+c) β-D-glucose
+d) Fructose
+e) Glucose-1-phosphate
+Correct Option:
+Ans. α-D-glucose
+Explanation: Both starch and glycogen are homopolysaccharides of α-D-glucose, linked mainly by α-1,4 bonds with α-1,6 branching (especially abundant in glycogen).
+Tags: Biochemistry

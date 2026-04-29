@@ -1,0 +1,263 @@
+Question: Type of emphysema commonly associated with cigarette smoking:
+Options:
+a) Centriacinar
+b) Panacinar
+c) Distal acinar
+d) Irregular
+Correct Option:
+Ans. Centriacinar
+Explanation: Centriacinar emphysema affects the respiratory bronchioles and is strongly linked to smoking. It predominantly involves the upper lobes. Smoking increases neutrophils and macrophages → elastase release → destruction of alveolar walls.
+Tags: Auxiliary Subjects, Minors
+
+Question: When IgE on a mast cell Fcε receptor is cross linked by an allergen, the mast cell responds by:
+Options:
+a) Undergoing apoptosis
+b) Presenting antigen to Th cells
+c) Secreting more IgE
+d) Secreting histamine
+Correct Option:
+Ans. Secreting histamine
+Explanation: Cross-linking of IgE on mast cells triggers immediate degranulation. Histamine is released causing bronchoconstriction, vasodilation, and increased vascular permeability. This is a classic type I hypersensitivity reaction.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following does not cause airway narrowing in an asthma attack:
+Options:
+a) Mucus hypersecretion
+b) Airway edema
+c) Bronchospasm
+d) Destruction of airways
+Correct Option:
+Ans. Destruction of airways
+Explanation: Asthma causes reversible airway obstruction due to bronchospasm, mucus plugging, and edema. Structural destruction is not typical. Airway damage occurs in emphysema, not asthma.
+Tags: Auxiliary Subjects, Minors
+
+Question: Honeycomb appearance of lung is a characteristic finding of:
+Options:
+a) Idiopathic pulmonary fibrosis
+b) Silicosis
+c) Anthracosis
+d) Sarcoidosis
+Correct Option:
+Ans. Idiopathic pulmonary fibrosis
+Explanation: Honeycomb lung represents end-stage fibrosis with cystic airspaces. It is characteristic of idiopathic pulmonary fibrosis. Leads to restrictive lung disease with decreased compliance.
+Tags: Auxiliary Subjects, Minors
+
+Question: What happens to FEV1/FVC in obstructive lung diseases:
+Options:
+a) Decreases
+b) Increases
+c) Remains same
+d) May increase or decrease
+Correct Option:
+Ans. Decreases
+Explanation: In obstructive diseases (e.g., asthma, emphysema), airway narrowing reduces FEV1 more than FVC. • This causes a decreased FEV1/FVC ratio • Reflects difficulty in expelling air • Key diagnostic feature in COPD
+Tags: Auxiliary Subjects, Minors
+
+Question: Panacinar emphysema commonly involves which part of lung:
+Options:
+a) Lower lung zone
+b) Middle lung zone
+c) Upper lung zone
+d) Whole lung
+Correct Option:
+Ans. Lower lung zone
+Explanation: Panacinar emphysema is classically seen in alpha-1 antitrypsin deficiency. • Affects entire acinus uniformly • Predominantly involves lower lobes • Differs from smoking-related centriacinar type
+Tags: Auxiliary Subjects, Minors
+
+Question: Initial mediator of asthma:
+Options:
+a) Histamine
+b) Prostaglandin
+c) Neutrophils
+d) Leukotrienes
+Correct Option:
+Ans. Histamine
+Explanation: Early phase of asthma is mediated by mast cell degranulation. • Histamine is released immediately • Causes bronchoconstriction and vasodilation • Later phase involves leukotrienes and eosinophils
+Tags: Auxiliary Subjects, Minors
+
+Question: Reid index used as a criterion of quantitation in chronic bronchitis is the ratio of thickness of:
+Options:
+a) Bronchial mucosa to bronchial wall
+b) Bronchial cartilage to bronchial wall
+c) Submucosal glands to bronchial wall
+d) Inflammatory infiltrate to bronchial wall
+Correct Option:
+Ans. Submucosal glands to bronchial wall
+Explanation: Reid index measures gland enlargement in chronic bronchitis. • Normal <40% • Increased in chronic bronchitis due to mucus hypersecretion • Reflects glandular hypertrophy
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the normal value of Reid index:
+Options:
+a) 40%
+b) 50%
+c) 30%
+d) 70%
+Correct Option:
+Ans. 40%
+Explanation: Reid index is normally less than 40%. • Measures proportion of mucous glands • Increased (>50%) in chronic bronchitis • Indicates excessive mucus production
+Tags: Auxiliary Subjects, Minors
+
+Question: Curshmann spirals are seen in sputum in:
+Options:
+a) Bronchial asthma
+b) Tuberculosis
+c) Bronchiectasis
+d) Bronchopneumonia
+Correct Option:
+Ans. Bronchial asthma
+Explanation: Curschmann spirals are mucus plugs from bronchioles. • Seen in asthma sputum • Associated with airway obstruction • Often accompanied by eosinophils
+Tags: Auxiliary Subjects, Minors
+
+Question: Which one of the following is associated with increased lung compliance:
+Options:
+a) Emphysema
+b) Pulmonary edema
+c) Pulmonary fibrosis
+d) Kyphosis
+Correct Option:
+Ans. Emphysema
+Explanation: Emphysema destroys elastic tissue of lungs. • Leads to increased compliance (easy inflation) • But poor recoil → air trapping • Opposite in fibrosis (stiff lungs)
+Tags: Auxiliary Subjects, Minors
+
+Question: A 55-year-old heavy smoker presents with severe dyspnea, dry cough, barrel chest, prolonged expiration, and decreased FEV1. What is the principal pathogenetic mechanism:
+Options:
+a) Production of autoantibodies against alveolar basement membrane
+b) Type IV hypersensitivity
+c) Protease production by neutrophils and macrophages
+d) Squamous metaplasia of bronchial epithelium
+Correct Option:
+Ans. Protease production by neutrophils and macrophages
+Explanation: Smoking causes inflammation → protease release. • Elastase destroys alveolar walls • Imbalance of protease-antiprotease system • Leads to emphysema and airspace enlargement
+Tags: Auxiliary Subjects, Minors
+
+Question: Bronchogenic carcinoma has increased incidence in pneumoconiosis. Most likely association is with:
+Options:
+a) Asbestosis
+b) Silicosis
+c) Berylliosis
+d) Bagassosis
+Correct Option:
+Ans. Asbestosis
+Explanation: Asbestos exposure increases cancer risk. • Strongly associated with bronchogenic carcinoma • Also causes mesothelioma • Risk increases with smoking
+Tags: Auxiliary Subjects, Minors
+
+Question: In the pathogenesis of bronchiectasis, susceptibility to infection is due to:
+Options:
+a) Progressive fibrosis of lung parenchyma
+b) Accumulation of thick and viscid secretions obstructing airways
+c) Chronic inflammation causing epithelial sloughing
+d) Immunodeficient status
+Correct Option:
+Ans. Accumulation of thick and viscid secretions obstructing airways
+Explanation: Obstruction leads to infection in bronchiectasis. • Thick mucus traps bacteria • Causes chronic infection and inflammation • Leads to permanent bronchial dilation
+Tags: Auxiliary Subjects, Minors
+
+Question: Hunched-over posture with “pink puffer” appearance is characteristic of:
+Options:
+a) Emphysema
+b) Bronchitis
+c) Asthma
+d) Bronchiectasis
+Correct Option:
+Ans. Emphysema
+Explanation: “Pink puffers” are emphysema patients. • Maintain oxygenation by hyperventilation • Thin, dyspneic, barrel chest • Contrast: “blue bloater” in chronic bronchitis
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following are obstructive lung diseases except:
+Options:
+a) Cystic fibrosis
+b) Pulmonary fibrosis
+c) COPD
+d) Bronchiectasis
+Correct Option:
+Ans. Pulmonary fibrosis
+Explanation: Pulmonary fibrosis is a restrictive disease. • Causes stiff lungs and ↓ compliance • Obstructive diseases cause airflow limitation • Key distinction in PFTs
+Tags: Auxiliary Subjects, Minors
+
+Question: A 4-year-old child has seasonal breathing difficulty with eosinophilia and Charcot-Leyden crystals in sputum. Which mediator is responsible for bronchospasm:
+Options:
+a) Leukotrienes
+b) Interleukins
+c) Histamine
+d) Prostaglandins
+Correct Option:
+Ans. Leukotrienes
+Explanation: Leukotrienes are potent bronchoconstrictors. • Released in late-phase asthma • Cause sustained bronchospasm • Also increase mucus and edema
+Tags: Auxiliary Subjects, Minors
+
+Question: A 28-year-old man presents with infertility, bronchiectasis, and dextrocardia. What is the diagnosis:
+Options:
+a) Kartagener syndrome
+b) Situs inversus
+c) Caplan syndrome
+d) Idiopathic pulmonary fibrosis
+Correct Option:
+Ans. Kartagener syndrome
+Explanation: Kartagener = primary ciliary dyskinesia. • Triad: bronchiectasis, sinusitis, situs inversus • Defective ciliary movement • Leads to infertility and infections
+Tags: Auxiliary Subjects, Minors
+
+Question: A 22-year-old female develops sudden dyspnea with wheezing. Sputum shows Curschmann spirals and Charcot-Leyden crystals with eosinophils. What is the diagnosis:
+Options:
+a) Atelectasis
+b) Bronchiectasis
+c) Bronchial asthma
+d) Chronic bronchitis
+Correct Option:
+Ans. Bronchial asthma
+Explanation: Classic findings of asthma. • Eosinophils + Charcot-Leyden crystals • Curschmann spirals (mucus plugs) • Reversible airway obstruction
+Tags: Auxiliary Subjects, Minors
+
+Question: A 50-year-old man with progressive dyspnea shows restrictive pattern on pulmonary function tests and interstitial linear opacities on X-ray. Which pathology is most likely:
+Options:
+a) Chronic inflammation with eosinophils in bronchi
+b) Hyperplasia of mucous glands in bronchi
+c) Uniform dilation of air spaces distal to bronchioles
+d) Honeycomb lung with alveolar fibrosis
+Correct Option:
+Ans. Honeycomb lung with alveolar fibrosis
+Explanation: Restrictive disease → fibrosis. • Interstitial fibrosis causes stiff lungs • Honeycomb pattern on imaging • Seen in idiopathic pulmonary fibrosis
+Tags: Auxiliary Subjects, Minors
+
+Question: A 60-year-old man presents with chronic productive cough and copious purulent sputum. CT shows bronchial dilatation and wall thickening. What is the diagnosis:
+Options:
+a) COPD
+b) Tuberculosis
+c) Bronchiectasis
+d) Pneumonia
+Correct Option:
+Ans. Bronchiectasis
+Explanation: Bronchiectasis = permanent bronchial dilation. • Chronic infection + obstruction • Copious foul sputum • Seen on CT as dilated bronchi
+Tags: Auxiliary Subjects, Minors
+
+Question: A 61-year-old man presents with shortness of breath and chest X-ray shows diffuse pulmonary infiltrates with patchy interstitial fibrosis. What is the diagnosis:
+Options:
+a) COPD
+b) Idiopathic pulmonary fibrosis
+c) Bronchiectasis
+d) Pneumonia
+Correct Option:
+Ans. Idiopathic pulmonary fibrosis
+Explanation: IPF causes progressive fibrosis. • Restrictive lung disease • Interstitial infiltrates on imaging • Leads to honeycomb lung
+Tags: Auxiliary Subjects, Minors
+
+Question: A newborn of a diabetic mother presents with respiratory distress and ground glass opacity on chest X-ray. What is the diagnosis:
+Options:
+a) Respiratory distress syndrome
+b) Bronchiolitis
+c) Bronchitis
+d) Asthma
+Correct Option:
+Ans. Respiratory distress syndrome
+Explanation: Due to surfactant deficiency. • Common in infants of diabetic mothers • Causes alveolar collapse • “Ground glass” appearance on X-ray
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the common cause of panacinar emphysema:
+Options:
+a) Alpha-1 antitrypsin deficiency
+b) Production of elastase enzyme
+c) Smoking
+d) Alcoholism
+Correct Option:
+Ans. Alpha-1 antitrypsin deficiency
+Explanation: A1AT deficiency → loss of antiprotease activity. • Leads to unchecked elastase activity • Causes panacinar emphysema • Predominantly affects lower lobes
+Tags: Auxiliary Subjects, Minors

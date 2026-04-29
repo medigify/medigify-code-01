@@ -1,0 +1,252 @@
+Question: Which vitamin is known to help prevent respiratory tract infections:
+Options:
+a) Vitamin K
+b) Vitamin B12
+c) Vitamin B9
+d) Vitamin D
+Correct Option:
+Ans. Vitamin D
+Explanation: Vitamin D enhances innate immunity in the respiratory tract. It stimulates production of antimicrobial peptides such as cathelicidin in respiratory epithelium. These peptides help destroy bacteria and viruses entering the airways. Deficiency is associated with increased risk of respiratory infections.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is NOT a common vaccine for prevention of respiratory infection:
+Options:
+a) Influenza vaccine
+b) COVID-19 vaccine
+c) Measles vaccine
+d) Chickenpox vaccine
+Correct Option:
+Ans. Chickenpox vaccine
+Explanation: Vaccines like influenza, COVID-19, and measles vaccines prevent infections affecting the respiratory system. Chickenpox mainly causes a skin rash disease though it spreads through respiratory droplets. It is not primarily targeted for prevention of respiratory tract infections. Therefore, it is not considered a common respiratory infection vaccine.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the main risk factor for COPD:
+Options:
+a) Smoking
+b) Air pollution
+c) Occupational exposure to dust and chemicals
+d) Genetic factors
+Correct Option:
+Ans. Smoking
+Explanation: Chronic Obstructive Pulmonary Disease is strongly linked with cigarette smoking. Smoking causes chronic inflammation and destruction of lung tissue. This leads to chronic bronchitis and emphysema. Thus, smoking is the most important preventable risk factor.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a definitive risk factor for acute respiratory infections:
+Options:
+a) Overcrowding
+b) Fatty food
+c) Cold weather
+d) Vitamin B deficiency
+Correct Option:
+Ans. Overcrowding
+Explanation: Overcrowding facilitates rapid spread of respiratory pathogens through droplets. Close contact increases exposure to infected individuals. Children living in crowded houses have higher ARI incidence. Therefore, overcrowding is a major epidemiological risk factor.
+Tags: Auxiliary Subjects, Minors
+
+Question: What are some psychosocial factors that can lead to dyspnea:
+Options:
+a) Anxiety and depression
+b) Stress and fatigue
+c) social isolation
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Dyspnea is not only caused by physical lung disease. Psychological conditions such as anxiety, depression, stress, and social isolation can worsen breathlessness. These factors affect perception of breathing discomfort. Hence psychosocial factors significantly influence respiratory symptoms.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which age group is most vulnerable to acute respiratory infections:
+Options:
+a) Children under 5 years old
+b) Adults over 65 years old
+c) Teenagers
+d) young adults in their 20s and 30s
+Correct Option:
+Ans. Children under 5 years old
+Explanation: Young children have immature immune systems. Their airways are narrower and more susceptible to obstruction. In developing countries, ARI is a major cause of illness and death in this age group. Thus, children under five are most vulnerable.
+Tags: Auxiliary Subjects, Minors
+
+Question: What are some of the long-term effects of smoking on the respiratory system:
+Options:
+a) Chronic bronchitis
+b) Emphysema
+c) Lung cancer
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Smoking damages respiratory tissues over time. It causes Chronic bronchitis, Emphysema, and Lung cancer. These diseases result from chronic irritation and inflammation of airways. Therefore, smoking produces multiple severe respiratory disorders.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the role of vitamin A in protecting the respiratory tract:
+Options:
+a) It helps maintain the integrity of the respiratory tract lining
+b) It helps produce mucus
+c) It helps regulate the immune system
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Vitamin A maintains integrity of epithelial tissues including respiratory mucosa. It supports mucus secretion, which traps pathogens. It also regulates immune responses. Thus, vitamin A helps protect against respiratory infections.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the effect of ozone on the respiratory system:
+Options:
+a) It can cause lung cancer
+b) It can cause COPD
+c) It can reduce lung function
+d) It can cause asthma
+Correct Option:
+Ans. It can reduce lung function
+Explanation: Ozone is a strong oxidizing air pollutant. Inhalation irritates airway epithelium and causes inflammation. This leads to temporary reduction in lung function and breathing difficulty. Long-term exposure worsens respiratory diseases.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the most common acute respiratory infection caused by a virus:
+Options:
+a) Pneumonia
+b) Bronchitis
+c) Influenza
+d) Tuberculosis
+Correct Option:
+Ans. Influenza
+Explanation: Influenza is a highly contagious viral infection of the respiratory tract. It spreads through respiratory droplets during coughing or sneezing. Symptoms include fever, cough, sore throat, and body aches. Seasonal outbreaks occur worldwide each year.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the most common acute respiratory infection caused by a bacterium:
+Options:
+a) Pneumonia
+b) Bronchitis
+c) Influenza
+d) Tuberculosis
+Correct Option:
+Ans. Pneumonia
+Explanation: Pneumonia is often caused by bacteria such as Streptococcus pneumoniae. It produces inflammation and consolidation of lung tissue. Symptoms include fever, cough, chest pain, and difficulty breathing. It is a major cause of mortality in children and elderly.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the leading cause of death due to respiratory disease worldwide:
+Options:
+a) COPD
+b) Asthma
+c) Lung cancer
+d) Pneumonia
+Correct Option:
+Ans. COPD
+Explanation: Chronic Obstructive Pulmonary Disease ranks among the top global causes of death. It results mainly from long-term smoking and air pollution exposure. The disease causes progressive airway obstruction and respiratory failure. Prevention focuses on tobacco control and pollution reduction.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the impact of respiratory diseases on quality of life:
+Options:
+a) Reduced physical activity
+b) social isolation
+c) Depression and anxiety
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Chronic respiratory diseases reduce exercise tolerance. Patients often experience social isolation due to activity limitation. Persistent symptoms may cause anxiety and depression. Thus, respiratory illness significantly affects physical and mental well-being.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a common respiratory disease related to the coal mining occupation:
+Options:
+a) Anthracosis
+b) Asbestosis
+c) Bagassosis
+d) Siderosis
+Correct Option:
+Ans. Anthracosis
+Explanation: Anthracosis is caused by inhalation of coal dust. Coal particles accumulate in lung tissues. Over time this may cause pneumoconiosis and fibrosis. It is common among workers in coal mining industries.
+Tags: Auxiliary Subjects, Minors
+
+Question: A person working in gasket industry is most likely to develop which lung disease:
+Options:
+a) Anthracosis
+b) Asbestosis
+c) Bagassosis
+d) Siderosis
+Correct Option:
+Ans. Asbestosis
+Explanation: Gasket manufacturing commonly involves asbestos exposure. Inhalation of asbestos fibers causes Asbestosis. This leads to progressive lung fibrosis and breathlessness. It also increases the risk of lung cancer and mesothelioma.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the impact of dyspnea on quality of life:
+Options:
+a) Reduced physical activity
+b) social isolation
+c) Depression and anxiety
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Dyspnea limits physical activity and exercise capacity. Patients may withdraw from social activities. Chronic breathlessness also contributes to anxiety and depression. Hence dyspnea markedly reduces overall quality of life.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the role of cognitive-behavioral therapy (CBT) in managing dyspnea:
+Options:
+a) It can help patients cope with anxiety and depression
+b) It can improve physical activity and quality of life
+c) It can reduce the sensation of dyspnea
+d) All of the above
+Correct Option:
+Ans. All of the above
+Explanation: Cognitive Behavioral Therapy helps patients manage anxiety related to breathlessness. It teaches coping strategies and relaxation techniques. This can reduce perception of dyspnea and improve activity levels. Thus, CBT improves quality of life and psychological well-being.
+Tags: Auxiliary Subjects, Minors
+
+Question: An important preventive measure against acute respiratory infection is vaccination. This preventive measure is an example of:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Primary prevention aims to stop disease before it occurs. Vaccination stimulates immunity against infectious agents. This prevents infection and reduces disease incidence. Therefore, vaccination is a classic primary prevention measure.
+Tags: Auxiliary Subjects, Minors
+
+Question: A particulate dust which is inhaled into the respiratory tract is called respirable dust. It is mainly responsible for causing pneumoconiosis if its size comes in which of the following range:
+Options:
+a) Less than 0.1 microns
+b) Less than 5 microns
+c) More than 5 microns
+d) More than 100 microns
+Correct Option:
+Ans. Less than 5 microns
+Explanation: Particles smaller than 5 microns can reach the alveoli of lungs. Such particles are called respirable dust. They accumulate in lung tissue and may cause Pneumoconiosis. Larger particles are usually trapped in upper airways.
+Tags: Auxiliary Subjects, Minors
+
+Question: Respiratory diseases are commonly acquired by aerosolized droplets spread by sneezing and coughing. Which one of the following types of respiratory disease outnumbers others in global mortality ranking:
+Options:
+a) Pneumonia
+b) Tuberculosis
+c) Measles
+d) Pertussis
+Correct Option:
+Ans. Tuberculosis
+Explanation: Tuberculosis remains one of the leading infectious causes of death globally. It spreads through airborne droplets from infected individuals. The disease mainly affects lungs but can involve other organs. Control requires early detection, treatment, and vaccination.
+Tags: Auxiliary Subjects, Minors
+
+Question: What is the impact of smoking on the respiratory system:
+Options:
+a) It causes the lungs to produce more mucus
+b) It weakens the immune system
+c) It damages the cilia in the respiratory tract
+d) It has no impact on the respiratory system
+Correct Option:
+Ans. It damages the cilia in the respiratory tract
+Explanation: Cigarette smoke damages cilia lining the respiratory tract. Cilia normally remove mucus and trapped pathogens. When damaged, mucus accumulates and infection risk increases. This contributes to chronic bronchitis and airway obstruction.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is NOT considered a high-risk group for respiratory infection:
+Options:
+a) Crowding
+b) Flu
+c) Malnutrition
+d) Lack of measles vaccine
+Correct Option:
+Ans. Flu
+Explanation: High-risk conditions include overcrowding, malnutrition, and lack of immunization. These factors weaken immunity or increase pathogen exposure. Influenza itself is a disease, not a risk factor group. Therefore, it is not considered a risk category.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a glass factory some workers have developed silicosis. What measure would you recommend preventing this problem:
+Options:
+a) Pre-placement examination
+b) Rigorous dust control
+c) Periodic X-ray
+d) Substitution
+Correct Option:
+Ans. Rigorous dust control
+Explanation: Silicosis occurs from inhalation of silica dust. The most effective prevention is engineering control of dust exposure. Methods include ventilation systems and wet drilling techniques. Reducing dust in the workplace prevents lung damage.
+Tags: Auxiliary Subjects, Minors

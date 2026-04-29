@@ -1,0 +1,219 @@
+Question: A 12-year-old girl, known patient of asthma, presents to the emergency room with complaints of cough, dyspnea & wheezing after visiting a riding stable. Which is the most appropriate drug to rapidly reverse her bronchoconstriction:
+Options:
+a) Inhaled fluticasone
+c) IV propranolol
+b) Inhaled albuterol
+d) Inhaled beclomethasone
+Correct Option:
+Ans. Inhaled albuterol
+Explanation: A 12-year-old girl with asthma experiencing acute bronchoconstriction after allergen exposure should be treated with inhaled albuterol, a short-acting β2 agonist, because it rapidly relaxes bronchial smooth muscle. Inhaled corticosteroids like fluticasone or beclomethasone act slowly and are preventive, not for immediate relief, while IV propranolol is a β-blocker and would worsen bronchospasm.
+Tags: Auxiliary Subjects, Minors
+
+Question: Theophylline is believed to benefit asthma patients by exerting the following actions except:
+Options:
+a) Bronchodilatation
+c) Reduced mediator release
+b) Augmentation of diaphragmatic contractility
+d) Inhibition of antigen-antibody reaction
+Correct Option:
+Ans. Inhibition of antigen-antibody reaction
+Explanation: Theophylline benefits asthma by causing bronchodilation, improving diaphragmatic contractility, and reducing mediator release, but it does not inhibit antigen-antibody reactions—this is not its mechanism.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is an inhibitor of leukotriene receptors:
+Options:
+a) Albuterol
+c) Ipratropium
+b) Aminophylline
+d) Montelukast
+Correct Option:
+Ans. Montelukast
+Explanation: Montelukast inhibits leukotriene receptors, preventing bronchoconstriction and inflammation. Albuterol (beta agonist), aminophylline, and ipratropium do not act on leukotriene pathways.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following pharmacologic agents antagonizes adenosine:
+Options:
+a) Terbutaline
+b) Glucocorticoids
+c) Cromolyn sodium
+d) Theophylline
+Correct Option:
+Ans. Theophylline
+Explanation: Theophyline works by blocking adenosine receptors in bronchial smooth muscle. Adenosine normally promotes bronchoconstriction and release of inflammatory mediators, so when theophylline blocks these receptors, it leads to bronchodilation and improved airflow. Terbutaline is a β2 agonist that causes bronchodilation by increasing cAMP, not by blocking adenosine. Glucocorticoids reduce inflammation by altering gene expression; they do not act on adenosine receptors. Cromolyn sodium stabilizes mast cells and prevents mediator release but does not block adenosine.
+Tags: Auxiliary Subjects, Minors
+
+Question: The following antiasthma drug is not a bronchodilator:
+Options:
+a) Ipratropium bromide
+b) Theophylline
+c) Formoterol
+d) Sodium cromoglycate
+Correct Option:
+Ans.Sodium cromoglycate (Glucocorticoid)
+Explanation: Glucocorticoids reduce inflammation, hyperreactivity, and are prophylactic, but they are not bronchodilators—they do not relax smooth muscle directly. Ipratropium bromide is antimuscurinic drug, Formoterol is a beta agonist and Theophyline all cause bronchodilation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Because of its anti-inflammatory mechanism of action, which drug requires regular administration for treatment of asthma:
+Options:
+a) Inhaled fluticasone
+c) Inhaled ipratropium
+b) Inhaled albuterol
+d) Oral zafirlukast
+Correct Option:
+Ans. Inhaled fluticasone
+Explanation: Inhaled fluticasone is correct because it is a corticosteroid with anti-inflammatory action that requires regular use to control asthma. It does not act immediately. In contrast, inhaled albuterol and ipratropium are bronchodilators used for quick relief, not long-term inflammation control, and oral zafirlukast is also preventive but the question emphasizes the classic inhaled anti-inflammatory mainstay.
+Tags: Auxiliary Subjects, Minors
+
+Question: Cromolyn is useful in many patients with asthma because it inhibits:
+Options:
+a) COX 2
+b) Blocks adenosine receptors in bronchiolar smooth muscle
+c) Prevents antigen-induced degranulation of mast cells
+d) Inhibits phosphodiesterase
+Correct Option:
+Ans. Prevents antigen-induced degranulation of mast cells
+Explanation: Cromolyn prevents mast cell degranulation (correct), thereby stopping release of histamine and other mediators. It does not inhibit COX-2, does not block adenosine receptors, and does not inhibit phosphodiesterase—those are unrelated mechanisms
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following in its parenteral form is lifesaving in severe status asthmaticus and acts, at least in part, by inhibiting phospholipase A2:
+Options:
+a) Aminophylline
+c) Ipratropium
+b) Epinephrine
+d) Prednisone
+Correct Option:
+Ans. Epinephrine
+Explanation: Epinephrine is correct because in severe status asthmaticus it rapidly bronchodilates and also reduces mediator release, partly via phospholipase A2 inhibition. Aminophylline and ipratropium are bronchodilators but less lifesaving in emergencies, while prednisone is slower acting and not useful for immediate reversal.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a direct bronchodilator that is most often used in asthma by the oral route and is capable of causing insomnia and seizures:
+Options:
+a) Cromolyn
+c) Ipratropium
+b) Epinephrine
+d) Theophylline
+Correct Option:
+Ans. Theophylline
+Explanation: Theophylline is correct because it is an oral bronchodilator and can cause CNS stimulation, leading to insomnia and even seizures at high levels. Cromolyn and ipratropium do not cause such CNS toxicity, and epinephrine is not typically used orally.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following statements about the use of glucocorticoids in asthma is true, except:
+Options:
+a) Reduces bronchial inflammation and hyperactivity to stimuli
+b) Have delayed onset of action
+c) Given as prophylactic medications, used alone or combined with ß-agonists
+d) They are bronchodilators
+Correct Option:
+Ans. They are bronchodilators
+Explanation: “They are bronchodilators” is false (correct answer) because glucocorticoids do not directly relax bronchial smooth muscle; they reduce inflammation and airway hyperreactivity over time. The other statements are true—they reduce inflammation, have delayed onset, and are used prophylactically.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which drug inhibits the effects of leukotrienes by blocking their receptors:
+Options:
+a) Fluticasone
+c) Zileuton
+b) Albuterol
+d) Zafirlukast
+Correct Option:
+Ans. Zafirlukas
+Explanation: Zafirlukast is correct because it blocks leukotriene receptors. Fluticasone is a steroid, zileuton inhibits leukotriene synthesis (not receptors), and albuterol is a β2 agonist.
+Tags: Auxiliary Subjects, Minors
+
+Question: A child suffering from asthma is to be treated with a drug that blocks the synthesis of leukotrienes. What drug would be an appropriate choice:
+Options:
+a) Cromolyn
+b) Montelukast
+c) Zileuton
+d) Theophylline
+Correct Option:
+Ans. Zileuton
+Explanation: Zileuton is correct because it inhibits leukotriene synthesis (5-lipoxygenase pathway). Montelukast blocks receptors instead, while cromolyn stabilizes mast cells and theophylline works via PDE inhibition and adenosine blockade.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following has a slow onset but long duration of action and is always used in combination with a corticosteroid by inhalation:
+Options:
+a) Aminophylline
+b) Epinephrine
+c) Ipratropium
+d) Salmeterol
+Correct Option:
+Ans. Salmeterol
+Explanation: Salmeterol is correct because it is a long-acting β2 agonist with slow onset and must be used with corticosteroids. Aminophylline, epinephrine, and ipratropium do not fit this profile.
+Tags: Auxiliary Subjects, Minors
+
+Question: Drug of choice for acute asthma attack:
+Options:
+a) Short acting ß2 agonist
+b) Long acting ß2 agonist
+c) Antihistamine
+d) Corticosteroid
+Correct Option:
+Ans. Short acting ß2 agonist
+Explanation: Short-acting β2 agonists are correct because they provide rapid bronchodilation in acute attacks. Long acting β2 agonists are not for acute relief, antihistamines are ineffective, and corticosteroids act too slowly.
+Tags: Auxiliary Subjects, Minors
+
+Question: Drug of choice for status asthmaticus:
+Options:
+a) Short acting ß2 agonist
+b) Antihistamine
+c) IV Corticosteroid
+d) Inhalation Corticosteroid
+Correct Option:
+Ans.  IV Corticosteroid
+Explanation: IV corticosteroids are correct in status asthmaticus because they reduce severe airway inflammation. Short-acting β2 agonists are still used, but steroids are essential for sustained control; inhaled steroids act too slowly, and antihistamines have no role.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not an established prophylactic strategy for asthma:
+Options:
+a) Avoidance of antigen exposure
+c) Blockade of leukotriene receptors
+b) Blockade of histamine receptors
+d) Inhibition of phospholipase A2
+Correct Option:
+Ans. Blockade of histamine receptors
+Explanation: Blockade of histamine receptors is not correct (so it’s the answer) because antihistamines are not effective prophylaxis in asthma. Avoiding allergens, blocking leukotrienes, and inhibiting phospholipase A2 (via steroids) are established strategies.
+Tags: Auxiliary Subjects, Minors
+
+Question: All of the following combinations of drug and their mechanism of action is correct, except:
+Options:
+a) Salbutamol: stimulation of ß2 receptor causing bronchodilation
+b) Sodium cromoglicate: mast cell stabilization
+c) Zafirlukast: leukotriene modulators
+d) Theophylline: non-selective ß2 receptor stimulation causing bronchodilation
+Correct Option:
+Ans.  Theophylline: non-selective ß2 receptor stimulation causing bronchodilation
+Explanation: Theophylline acting as a β2 agonist is incorrect (correct answer) because it actually works by phosphodiesterase inhibition and adenosine antagonism. The other pairings are correct: salbutamol is a β2 agonist, cromoglycate stabilizes mast cells, and zafirlukast blocks leukotrienes.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs does not have a direct bronchodilator effect:
+Options:
+a) Epinephrine
+c) Theophylline
+b) Prednisone
+d) Ipratropium
+Correct Option:
+Ans. Prednisone
+Explanation: Prednisone (oral glucocorticoid) is correct as the drug without direct bronchodilator effect because it is an anti-inflammatory steroid. Epinephrine, theophylline, and ipratropium all directly cause bronchodilation
+Tags: Auxiliary Subjects, Minors
+
+Question: A 9-year-old girl that required three hospitalizations in the past year is now receiving therapy that has greatly reduced the frequency of severe attacks. Which drug is most likely responsible for this patient:
+Options:
+a) Inhaled fluticasone
+c) Inhaled ipratropium
+b) Inhaled albuterol
+d) Oral zafirlukast
+Correct Option:
+Ans. Inhaled fluticasone
+Explanation: Inhaled fluticasone is correct because long-term corticosteroid use reduces frequency of severe asthma attacks by controlling inflammation. Albuterol is only for acute relief; ipratropium is less effective for maintenance and zafirlukast is less potent compared to inhaled steroids.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following inhibits acetylcholine-mediated bronchospasm:
+Options:
+a) Theophylline
+c) Ipratropium
+b) Ephedrine
+d) Salmeterol
+Correct Option:
+Ans. Ipratropium
+Explanation: Ipratropium is correct because it blocks muscarinic receptors, preventing acetylcholine-mediated bronchoconstriction. Theophylline works via PDE inhibition, ephedrine is a sympathomimetic, and salmeterol is a β2 agonist.
+Tags: Auxiliary Subjects, Minors

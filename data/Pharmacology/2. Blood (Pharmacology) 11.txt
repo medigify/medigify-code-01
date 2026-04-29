@@ -1,0 +1,120 @@
+Question: A 23-year-old pregnant lady presented with Hb 10 g/dL (normal 12–16 g/dL), macrocytic anemia, an increased serum concentration of transferrin, and a normal serum concentration of vitamin B12. The most likely cause of her anemia is deficiency of which of the following:
+Options:
+a) Cobalamin
+b) Iron
+c) Folic acid
+d) Intrinsic factor
+Correct Option:
+Ans. Folic acid
+Explanation: During pregnancy, there is a high fetal demand for folate to support rapid DNA synthesis. In contrast, if the anemia is normocytic or microcytic, it is typically treated with ferrous sulfate tablets to address the increased iron requirements of both the mother and the developing fetus. Iron deficiency would result in microcytic cells rather than macrocytic ones.
+Tags: Auxiliary Subjects, Minors
+
+Question: Toxicity associated with acute iron poisoning usually includes which of the following:
+Options:
+a) Dizziness, hypertension, and cerebral hemorrhage
+b) Hyperthermia, delirium, and coma
+c) Hypotension, cardiac arrhythmias, and seizures
+d) Necrotizing gastroenteritis, shock, and metabolic acidosis
+Correct Option:
+Ans. Necrotizing gastroenteritis, shock, and metabolic acidosis
+Explanation: Acute iron poisoning is a medical emergency characterized by necrotizing gastroenteritis, shock, and metabolic acidosis resulting from the direct corrosive action of iron on the gut and its interference with cellular respiration.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a patient who requires filgrastim (G-CSF) after being treated with anticancer drugs, the therapeutic objective is to prevent which of the following:
+Options:
+a) Allergic reactions
+b) Cancer recurrence
+c) Hypoxia
+d) Systemic infection
+Correct Option:
+Ans. Systemic infection
+Explanation: Filgrastim stimulates the bone marrow to produce and release neutrophils. Its primary therapeutic objective following chemotherapy is to shorten the period of neutropenia and prevent life-threatening systemic infections. Additionally, it is used in clinical settings to mobilize peripheral blood stem cells, so they can be harvested for transplantation.
+Tags: Auxiliary Subjects, Minors
+
+Question: The child ingested iron-containing supplements in large amount & presented with acute iron poisoning. What immediate treatment is necessary? Correction of acid-base and electrolyte abnormalities and:
+Options:
+a) Activated charcoal
+b) Oral deferasirox
+c) Parenteral deferoxamine
+d) Parenteral dantrolene
+Correct Option:
+Ans. Parenteral deferoxamine
+Explanation: This agent is a specific iron-chelating drug that binds to ferric iron in the blood to form ferrioxamine, which is then safely excreted by the kidneys. Activated charcoal is ineffective because it does not bind well to metals like iron, and other agents like dantrolene are used for entirely different conditions like malignant hyperthermia.
+Tags: Auxiliary Subjects, Minors
+
+Question: Treatment of Hemochromatosis due to frequent blood transfusion is:
+Options:
+a) Parenteral deferoxamine
+b) Activated charcoal
+c) Iron dextran
+d) Ferumoxytol
+Correct Option:
+Ans. Parenteral deferoxamine
+Explanation: Patients requiring frequent blood transfusions are at high risk for iron overload (hemochromatosis) because the body has no physiological mechanism to excrete the excess iron provided by the donor cells. Parenteral deferoxamine is the established treatment because it effectively chelates the systemic iron deposits and promotes their removal through the urine. Using iron supplements like iron dextran or ferumoxytol would be dangerous in this scenario as they would further exacerbate the toxic iron accumulation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is most likely to be required by a 5-year-old boy with chronic renal insufficiency:
+Options:
+a) Cyanocobalamin
+b) Deferoxamine
+c) Erythropoietin
+d) Filgrastim (G-CSF)
+Correct Option:
+Ans. Erythropoietin
+Explanation: A child with chronic renal failure likely suffers from anemia because the kidneys are the primary site for the production of erythropoietin. Erythropoietin is the hormone responsible for stimulating the bone marrow to produce red blood cells; thus, its deficiency leads to a significant reduction in RBC production.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following drugs is most likely to be used to mobilize the peripheral blood stem cells needed for the patient's autologous stem cell transplantation:
+Options:
+a) Erythropoietin
+b) Filgrastim (G-CSF)
+c) Folic acid
+d) Oprelvekin (interleukin-11)
+Correct Option:
+Ans. Filgrastim (G-CSF)
+Explanation: Before an autologous stem cell transplant, clinicians must move (mobilize) hematopoietic stem cells from the bone marrow into the peripheral blood so they can be harvested. Filgrastim (G-CSF) is the primary drug used for this purpose because it stimulates the proliferation and migration of these cells into the systemic circulation.
+Tags: Auxiliary Subjects, Minors
+
+Question: Optimal treatment of normocytic or mild microcytic anemia associated with pregnancy uses which of the following:
+Options:
+a) A high-fiber diet
+b) Erythropoietin injections
+c) Ferrous sulfate tablets
+d) Folic acid supplements
+Correct Option:
+Ans. Ferrous sulfate tablets
+Explanation: While macrocytic anemia in pregnancy is usually due to folate deficiency, a normocytic or mild microcytic presentation is typically indicative of iron deficiency. The optimal treatment in this case is the administration of ferrous sulfate tablets to restore maternal and fetal iron stores. Erythropoietin is rarely necessary for standard pregnancy-related anemia.
+Tags: Auxiliary Subjects, Minors
+
+Question: Contraindications of iron therapy is:
+Options:
+a) Pregnancy
+b) Microcytic hypochromic anemia
+c) Blood loss anemia
+d) Hemolytic anemia
+Correct Option:
+Ans. Hemolytic anemia
+Explanation: Iron therapy is strictly contraindicated in hemolytic anemia. This is because the premature destruction of red blood cells releases their internal iron back into the systemic circulation, meaning the body is already saturated with recycled iron. Providing supplemental iron in this state can lead to rapid iron toxicity and organ damage.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a granulocyte colony stimulating factor:
+Options:
+a) Erythropoietin
+b) Filgrastim (G-CSF)
+c) Oprelvekin (interleukin-11)
+d) Sargramostim
+Correct Option:
+Ans. Filgrastim (G-CSF)
+Explanation: Filgrastim is the clinical name for recombinant human granulocyte colony-stimulating factor (G-CSF). It works specifically to increase the production of neutrophils, a type of white blood cell, in the bone marrow. Other options like sargramostim are GM-CSF (affecting both granulocytes and macrophages), and oprelvekin is an interleukin that specifically targets platelet production rather than granulocytes.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 45-year-old male stomach cancer patient underwent tumor removal surgery. After surgery, he developed megaloblastic anemia. His anemia is caused by a deficiency of X and can be treated with Y:
+Options:
+a) X = intrinsic factor; Y = folic acid
+b) X = intrinsic factor; Y = vitamin B12
+c) X = extrinsic factor; Y = parenteral iron
+d) X = extrinsic factor; Y = sargramostim
+Correct Option:
+Ans. X = intrinsic factor; Y = vitamin B12
+Explanation: Patients who undergo surgical removal of the stomach (gastrectomy) lose the parietal cells that secrete intrinsic factor. Since intrinsic factor is essential for the absorption of vitamin B12 in the small intestine, its absence leads to a specific type of megaloblastic anemia. This condition is treated by bypassing the GI tract with parenteral Vitamin B12.
+Tags: Auxiliary Subjects, Minors

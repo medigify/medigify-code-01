@@ -1,0 +1,153 @@
+Question: The oesophagus is lined by:
+Options:
+a) Simple columnar epithelium
+b) Simple cuboidal epithelium
+c) Stratified squamous keratinized epithelium
+d) Stratified squamous non-keratinized epithelium
+Correct Option:
+Ans. Stratified squamous non-keratinized epithelium
+Explanation: The oesophagus requires a "tough but moist" lining to handle the friction of food boluses. Stratified squamous non-keratinized epithelium provides multiple layers of protection against abrasion while remaining lubricated by mucus, unlike the dry, keratinized version found in your skin.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: An example of the stratified squamous non-keratinized epithelium is constituted by the lining epithelium of:
+Options:
+a) Trachea
+b) Urinary bladder
+c) Oesophagus
+d) Stomach
+Correct Option:
+Ans. Oesophagus
+Explanation: The oesophagus requires a "tough but moist" lining to handle the friction of food boluses. Stratified squamous non-keratinized epithelium provides multiple layers of protection against abrasion while remaining lubricated by mucus, unlike the dry, keratinized version found in your skin.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Which example is false regarding the transitional epithelium:
+Options:
+a) Renal pelvis
+b) Ureter
+c) Urinary bladder
+d) Collecting ducts
+Correct Option:
+Ans. Collecting ducts
+Explanation: While the renal pelvis, ureter, and bladder are lined by transitional epithelium (urothelium) to handle urine volume changes, collecting ducts are strictly transport tubes. They are lined by simple cuboidal to columnar epithelium, which focuses on water reabsorption rather than stretching.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Dome cells are a characteristic of which type of epithelium:
+Options:
+a) Simple columnar epithelium
+b) Transitional epithelium
+c) Simple squamous epithelium
+d) Stratified squamous keratinized epithelium
+Correct Option:
+Ans. Transitional epithelium
+Explanation: Transitional epithelium is the "shape-shifter" of the body. Its most superficial layer consists of large, dome-shaped or umbrella cells that flatten out when the bladder is full. In a contracted (empty) bladder, these cells bulge upward, giving them their characteristic histological "dome" appearance.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: One type of epithelium may change into another by a process called:
+Options:
+a) Regeneration
+b) Amitosis
+c) Metaplasia
+d) Meiosis
+Correct Option:
+Ans. Metaplasia
+Explanation: Metaplasia is a reversible process where one mature epithelial type is replaced by another to better withstand stress. In smokers, the delicate pseudostratified ciliated columnar respiratory epithelium turns into stratified squamous epithelium; it’s tougher, but losing those cilia means you lose the "mucus elevator" that keeps lungs clean.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Epithelial lining of palatine tonsil:
+Options:
+a) Simple cuboidal
+b) Pseudostratified columnar
+c) Stratified squamous non-keratinized
+d) Stratified squamous keratinized
+Correct Option:
+Ans. Stratified squamous non-keratinized
+Explanation: Located in the oropharynx, the palatine tonsils are subjected to the same mechanical wear-and-tear as the mouth and oesophagus. Therefore, they are covered by stratified squamous non-keratinized epithelium, which often dips into the tonsillar tissue to form deep, protective crypts.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: The superficial cells in transitional epithelium of a contracted bladder are:
+Options:
+a) Umbrella shape
+b) Fusiform
+c) Polygonal
+d) Cuboidal
+Correct Option:
+Ans. Umbrella shape
+Explanation: Transitional epithelium is the "shape-shifter" of the body. Its most superficial layer consists of large, dome-shaped or umbrella cells that flatten out when the bladder is full. In a contracted (empty) bladder, these cells bulge upward, giving them their characteristic histological "dome" appearance.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Pseudostratified ciliated columnar epithelium doesn't line:
+Options:
+a) Larynx
+b) Trachea
+c) Bronchi
+d) Respiratory bronchiole
+Correct Option:
+Ans. Respiratory bronchiole
+Explanation: As we move deeper into the lungs, the epithelium thins out to facilitate gas exchange. While the trachea and bronchi use pseudostratified ciliated columnar, the respiratory bronchioles drop the "pseudo" and the "columnar" for a simpler ciliated cuboidal lining as they transition toward the alveoli.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: The effect of smoking on respiratory epithelium is described by a phenomenon known as:
+Options:
+a) Metaplasia
+b) Hyperplasia
+c) Hypertrophy
+d) Atrophy
+Correct Option:
+Ans. Metaplasia
+Explanation: Metaplasia is a reversible process where one mature epithelial type is replaced by another to better withstand stress. In smokers, the delicate pseudostratified ciliated columnar respiratory epithelium turns into stratified squamous epithelium; it’s tougher, but losing those cilia means you lose the "mucus elevator" that keeps lungs clean.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Epithelial basement membrane contain which type of collagen fibrils:
+Options:
+a) Collagen type I
+b) Collagen type II
+c) Collagen type III
+d) Collagen type IV
+Correct Option:
+Ans. Collagen type IV
+Explanation: The basement membrane acts as the "velcro" between epithelium and connective tissue. It is histologically unique because it contains Type IV collagen, which does not form thick fibers like Type I, but instead creates a specialized, non-fibrillar meshwork that acts as a selective physical filter.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Which of the following is true about the structure of cilia:
+Options:
+a) Cilia are composed of microtubules arranged in a 9+2 pattern
+b) Cilia are composed of microfilaments arranged in a 9+2 pattern.
+c) Cilia are composed of intermediate filaments arranged in a 9+2 pattern.
+d) Cilia are composed of microtubules arranged in a 8+2 pattern.
+Correct Option:
+Ans. Cilia are composed of microtubules arranged in a 9+2 pattern
+Explanation: Cilia (Kinocilia) are motile projections designed to move fluid or particles. Their core, known as the axoneme, has a highly organized 9+2 pattern: nine peripheral doublets of microtubules surrounding two central singletons. This arrangement is the "engine" that allows them to beat in a coordinated wave.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Kinocilia are made up of:
+Options:
+a) Microtubules
+b) Microbodies
+c) Microfilaments
+d) Ribosomes
+Correct Option:
+Ans. Microtubules
+Explanation: Cilia (Kinocilia) are motile projections designed to move fluid or particles. Their core, known as the axoneme, has a highly organized 9+2 pattern: nine peripheral doublets of microtubules surrounding two central singletons. This arrangement is the "engine" that allows them to beat in a coordinated wave.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: Celiac disease is one of the malabsorptive disorder that leads to diarrhea in children. Keeping in view the functions of the following structures, which one is affected in Celiac disease:
+Options:
+a) Cilia
+b) Kinocilia
+c) Microvilli
+d) Villi
+Correct Option:
+Ans. Microvilli
+Explanation: Microvilli are microscopic, finger-like extensions of the cell membrane that form the brush border to maximize surface area for absorption. In Celiac disease, an autoimmune reaction leads to "villous atrophy"—the flattening of these structures—which effectively wipes out the microvilli and leaves the gut unable to absorb nutrients.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium
+
+Question: An 11-month-old girl is referred to a pediatric gastroenterology clinic due to a history of generalized weakness, slow growth, and refractory diarrhea. For the past month she has been hospitalized regularly to receive parenteral nutrition. Examination of the epithelium lining her small intestine confirms that the failure to absorb nutrients is most likely due to a significant decrease in which of the following:
+Options:
+a) Microvilli
+b) Gap junctions
+c) Cilia
+d) Cell layers
+Correct Option:
+Ans. Microvilli
+Explanation: Microvilli are microscopic, finger-like extensions of the cell membrane that form the brush border to maximize surface area for absorption. In Celiac disease, an autoimmune reaction leads to "villous atrophy"—the flattening of these structures—which effectively wipes out the microvilli and leaves the gut unable to absorb nutrients.
+Tags: Histology, Block 1, Epithelium, Histology of epithelium

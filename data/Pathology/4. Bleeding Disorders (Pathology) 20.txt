@@ -1,0 +1,219 @@
+Question: Which one of the following is not a cause of coagulation defects:
+Options:
+a) Platelet deficiency
+b) Liver disease
+c) Vitamin K deficiency
+d) Hemophilia
+Correct Option:
+Ans. Platelet deficiency
+Explanation: Platelet deficiency is a platelet disorder, not a coagulation factor defect. Coagulation defects involve abnormalities in clotting factors, such as in liver disease, vitamin K deficiency, or hemophilia. Platelets are part of primary hemostasis.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not a cause of hemophilia A:
+Options:
+a) Abnormal clotting factors
+b) Genetic defect
+c) Vitamin K deficiency
+d) Absence of clotting factors
+Correct Option:
+Ans. Vitamin K deficiency
+Explanation: Hemophilia A is caused by deficiency of factor VIII due to a genetic defect (X-linked recessive). Vitamin K deficiency affects multiple clotting factors but does not cause hemophilia A.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hemophilia is due to deficiency of:
+Options:
+a) Platelets
+b) Platelet functions
+c) Factor VIII
+d) Blood vessels
+Correct Option:
+Ans. Factor VIII
+Explanation: Hemophilia A is caused by deficiency of factor VIII. It leads to impaired intrinsic pathway of coagulation. Results in prolonged bleeding, especially into joints and muscles.
+Tags: Auxiliary Subjects, Minors
+
+Question: In hemophilia A which factor is deficient:
+Options:
+a) Factor VII
+b) Factor V
+c) Factor VIII
+d) Factor IX
+Correct Option:
+Ans. Factor VIII
+Explanation: Hemophilia A is due to deficiency of factor VIII. It is inherited in an X-linked recessive pattern. Leads to prolonged aPTT.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following factors are involved in extrinsic pathway:
+Options:
+a) Factor I
+b) Factor II
+c) Factor III
+d) Factor X
+Correct Option:
+Ans. Factor III
+Explanation: The extrinsic pathway is initiated by tissue factor (Factor III). It activates factor VII, leading to clot formation. It is tested by PT (prothrombin time).
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a vitamin K dependent factor:
+Options:
+a) Factor V
+b) Factor VII
+c) Factor VIII
+d) Factor XIII
+Correct Option:
+Ans. Factor VII
+Explanation: Vitamin K is required for synthesis of factors II, VII, IX, and X. Factor VII is part of the extrinsic pathway. Deficiency leads to bleeding disorders.
+Tags: Auxiliary Subjects, Minors
+
+Question: In liver disease the first factor to be affected is:
+Options:
+a) Factor I
+b) Factor II
+c) Factor VII
+d) Factor X
+Correct Option:
+Ans. Factor VII
+Explanation: Factor VII has the shortest half-life among clotting factors. Therefore, it is the first to decrease in liver disease. Leads to prolonged PT.
+Tags: Auxiliary Subjects, Minors
+
+Question: The bleeding disorder associated with mucocutaneous bleeding is:
+Options:
+a) Hemophilia
+b) Vitamin K deficiency
+c) Platelet disorder
+d) Liver disease
+Correct Option:
+Ans. Platelet disorder
+Explanation: Platelet disorders cause mucocutaneous bleeding such as petechiae, purpura, and epistaxis. Hemophilia causes deep tissue bleeding, not mucosal bleeding.
+Tags: Auxiliary Subjects, Minors
+
+Question: Hemophilia is inherited in:
+Options:
+a) Autosomal dominant pattern
+b) Autosomal recessive pattern
+c) X-linked dominant pattern
+d) X-linked recessive pattern
+Correct Option:
+Ans. X-linked recessive pattern
+Explanation: Hemophilia A and B are inherited as X-linked recessive disorders. They primarily affect males, while females are carriers.
+Tags: Auxiliary Subjects, Minors
+
+Question: Prolonged bleeding time is seen in:
+Options:
+a) Hemophilia
+b) Platelet disorders
+c) Liver disease
+d) Vitamin K deficiency
+Correct Option:
+Ans. Platelet disorders
+Explanation: Bleeding time measures platelet function. It is prolonged in platelet disorders. It is normal in hemophilia, which affects coagulation factors.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following causes prolonged PT and aPTT:
+Options:
+a) Vitamin K deficiency
+b) Platelet deficiency
+c) Hemophilia A
+d) Von Willebrand disease
+Correct Option:
+Ans. Vitamin K deficiency
+Explanation: Vitamin K deficiency affects multiple clotting factors (II, VII, IX, X). This leads to prolongation of both PT and aPTT. It causes generalized bleeding tendency.
+Tags: Auxiliary Subjects, Minors
+
+Question: Von Willebrand disease is due to deficiency of:
+Options:
+a) Platelets
+b) Factor VIII
+c) Von Willebrand factor
+d) Factor IX
+Correct Option:
+Ans. Von Willebrand factor
+Explanation: Von Willebrand disease is caused by deficiency of vWF. It leads to defective platelet adhesion and decreased factor VIII levels. Causes mucosal bleeding.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is associated with DIC:
+Options:
+a) Increased platelets
+b) Increased clotting factors
+c) Increased fibrin degradation products
+d) Decreased fibrin degradation products
+Correct Option:
+Ans. Increased fibrin degradation products
+Explanation: DIC involves widespread clotting followed by fibrinolysis. This leads to increased fibrin degradation products. Platelets and clotting factors are consumed.
+Tags: Auxiliary Subjects, Minors
+
+Question: In DIC, which of the following is decreased:
+Options:
+a) Platelets
+b) Fibrin degradation products
+c) PT
+d) aPTT
+Correct Option:
+Ans. Platelets
+Explanation: In DIC, platelets are consumed due to widespread clot formation. This leads to thrombocytopenia. PT and aPTT are prolonged, and FDPs are increased.
+Tags: Auxiliary Subjects, Minors
+
+Question: The most common inherited bleeding disorder is:
+Options:
+a) Hemophilia
+b) Von Willebrand disease
+c) Thrombocytopenia
+d) Leukemia
+Correct Option:
+Ans. Von Willebrand disease
+Explanation: Von Willebrand disease is the most common inherited bleeding disorder. It affects both platelet function and coagulation due to decreased vWF.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which test is prolonged in hemophilia A:
+Options:
+a) PT
+b) Bleeding time
+c) aPTT
+d) Platelet count
+Correct Option:
+Ans. aPTT
+Explanation: Hemophilia A affects the intrinsic pathway. Therefore, aPTT is prolonged while PT remains normal. Bleeding time is also normal.
+Tags: Auxiliary Subjects, Minors
+
+Question: In hemophilia, bleeding typically occurs in:
+Options:
+a) Skin
+b) Mucosa
+c) Joints
+d) Superficial tissues
+Correct Option:
+Ans. Joints
+Explanation: Hemophilia causes deep tissue bleeding such as hemarthrosis (bleeding into joints). This is a key clinical feature. Unlike platelet disorders, mucosal bleeding is not typical.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a platelet function disorder:
+Options:
+a) Hemophilia A
+b) Von Willebrand disease
+c) Factor V deficiency
+d) Factor VIII deficiency
+Correct Option:
+Ans. Von Willebrand disease
+Explanation: Von Willebrand disease affects platelet adhesion. It is considered a platelet function disorder as well as a coagulation defect. Leads to prolonged bleeding time.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is increased in liver disease:
+Options:
+a) Platelets
+b) Clotting factors
+c) Bleeding tendency
+d) Vitamin K levels
+Correct Option:
+Ans. Bleeding tendency
+Explanation: Liver disease leads to decreased synthesis of clotting factors. This results in increased bleeding tendency. Both PT and aPTT are prolonged.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a feature of vitamin K deficiency:
+Options:
+a) Increased clotting factors
+b) Decreased PT
+c) Increased PT
+d) Increased platelets
+Correct Option:
+Ans. Increased PT
+Explanation: Vitamin K deficiency decreases synthesis of clotting factors II, VII, IX, and X. This leads to prolonged PT first due to factor VII deficiency. Bleeding tendency increases.
+Tags: Auxiliary Subjects, Minors

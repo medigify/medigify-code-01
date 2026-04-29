@@ -1,0 +1,461 @@
+Question: The gradient of infection refers to:
+Options:
+a) The rate at which a pathogen spreads from person to person
+b) The severity of symptoms caused by a pathogen
+c) The concentration of a pathogen in the environment
+d) The relationship between the pathogen and the host
+Correct Option:
+Ans. The rate at which a pathogen spreads from person to person
+Explanation: Gradient of infection refers to the infectivity of an organism, i.e. how efficiently it spreads from one host to another within a population. It reflects the transmission potential rather than severity or environmental load.
+Tags: Auxiliary Subjects, Minors
+
+Question: In an area with fluoride rich water, the defluoridation of water is which level of prevention:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Defluoridation removes an existing environmental risk factor before disease (fluorosis) develops, thereby preventing occurrence of disease. It acts at the stage before clinical disease begins.
+Tags: Auxiliary Subjects, Minors
+
+Question: A urine strip for sugar detection was employed to screen diabetics in a community. This type of prevention is:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Secondary prevention
+Explanation: Screening identifies disease in its early or asymptomatic stage, allowing early intervention and preventing progression. This is the hallmark of secondary prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: Objective of primary prevention is to reduce disease:
+Options:
+a) Incidence
+b) Prevalence
+c) Complications
+d) Elimination
+Correct Option:
+Ans. Incidence
+Explanation: Primary prevention targets the occurrence of new cases, thereby reducing incidence. Prevalence is affected later and complications are addressed in tertiary prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: Disease near to eradicate in Pakistan:
+Options:
+a) Polio
+b) HIV
+c) Hepatitis B
+d) Small pox
+Correct Option:
+Ans. Polio
+Explanation: Pakistan remains one of the few countries where polio is still endemic but close to eradication. Smallpox has already been eradicated globally, while HIV and Hepatitis B are not near eradication.
+Tags: Auxiliary Subjects, Minors
+
+Question: Amputation of foot in a diabetic patient exhibiting signs and symptoms is an example of:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Tertiary prevention
+Explanation: Tertiary prevention focuses on limiting disability and preventing further complications after disease has occurred. Amputation prevents worsening infection and systemic complications in advanced diabetes.
+Tags: Auxiliary Subjects, Minors
+
+Question: The science and art of preventing diseases, prolonging life and promoting physical and mental health is known as:
+Options:
+a) Public health
+b) Social medicine
+c) Social hygiene
+d) Health protection
+Correct Option:
+Ans. Public health
+Explanation: This is the classic definition of public health given by Winslow, emphasizing organized community efforts for disease prevention, life prolongation, and health promotion.
+Tags: Auxiliary Subjects, Minors
+
+Question: Prevention of the emergence or development of risk factors is known as:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primordial prevention
+Explanation: Primordial prevention aims to prevent the appearance of risk factors themselves, such as unhealthy lifestyles or environmental hazards, before they even begin to influence disease occurrence.
+Tags: Auxiliary Subjects, Minors
+
+Question: Pakistan spends how much of its GDP on health:
+Options:
+a) 1%
+b) 5%
+c) 10%
+d) 25%
+Correct Option:
+Ans. 1%
+Explanation: Pakistan allocates a very small proportion of its GDP to health, approximately around 1–1.5%, which is considered low compared to global standards.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a country where there is no problem of environmental pollution, legislation is made to have efficient vehicle engines and hydroelectric power plants instead of coal to prevent air pollution. This is an example of:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primordial prevention
+Explanation: These measures are taken before the risk factor (air pollution) even develops, aiming to prevent its emergence at a population level, which defines primordial prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: A village community was given health education to prevent spread of malaria:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Malaria risk factors (mosquito exposure) already exist in the community; health education aims to prevent disease occurrence, not the emergence of risk factors.
+Tags: Auxiliary Subjects, Minors
+
+Question: Type of surveillance used to find out missing cases:
+Options:
+a) Active surveillance
+b) Passive surveillance
+c) Sentinel surveillance
+d) Focused surveillance
+Correct Option:
+Ans. Active surveillance
+Explanation: Active surveillance involves actively searching for cases through field visits and data collection, hence useful for detecting unreported or missed cases.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is not a component of Human Development Index:
+Options:
+a) Mean years of schooling
+b) Literacy rate
+c) Life expectancy at birth
+d) Infant mortality rate
+Correct Option:
+Ans. Infant mortality rate
+Explanation: HDI includes life expectancy, education (mean & expected years of schooling), and income; IMR is not a component.
+Tags: Auxiliary Subjects, Minors
+
+Question: A child coming to Immunization clinic for polio vaccine:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Immunization protects against disease before it occurs, thus preventing incidence.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a population of 60,000, there were 250 cases of TB on 1st January. During 1 year, 50 new cases were added. Incidence rate of TB at the end of this year:
+Options:
+a) 0.4%
+b) 0.84%
+c) 0.2%
+d) 0.24%
+Correct Option:
+Ans. 0.2%
+Explanation: Incidence = new cases / population at risk = 50 / 60,000 × 100 = 0.083% (~0.08%). Closest given option is 0.2%, though exact value is lower → question has approximation issue.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a population of 60,000, there were 250 cases of TB on 1st January. During 1 year, 50 new cases were added. During this year, 20 died and 40 were cured. Prevalence at end of year:
+Options:
+a) 0.4%
+b) 0.84%
+c) 0.2%
+d) 0.24%
+Correct Option:
+Ans. 0.4%
+Explanation: Final cases = 250 + 50 − 20 − 40 = 240 → prevalence = 240 / 60,000 × 100 = 0.4%.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a population of 60,000, there were 250 cases of TB on 1st January. During 1 year, 50 new cases were added. During this year, 20 died while 40 were cured. Prevalence at the end of this year:
+Options:
+a) 0.4%
+b) 0.84%
+c) 0.2%
+d) 0.24%
+Correct Option:
+Ans. 0.4%
+Explanation: Same calculation as above; remaining cases = 240 → prevalence = 0.4%.
+Tags: Auxiliary Subjects, Minors
+
+Question: A 20 year old male takes chemoprophylaxis during an epidemic of meningococcal meningitis:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Chemoprophylaxis prevents disease in exposed individuals before onset, thus reducing incidence.
+Tags: Auxiliary Subjects, Minors
+
+Question: Most acceptable indicator of health of whole population and of socioeconomic conditions:
+Options:
+a) IMR
+b) Under 5 year mortality rate
+c) Maternal mortality rate
+d) Case fatality ratio
+Correct Option:
+Ans. Infant mortality rate
+Explanation: IMR is a sensitive indicator reflecting overall health status, healthcare access, and socioeconomic conditions.
+Tags: Auxiliary Subjects, Minors
+
+Question: There is no single cause of disease. Multiple causes interact in various ways and lead to chronic disease. This concept is:
+Options:
+a) Natural history of disease
+b) Web of causation
+c) Epidemiological triad
+d) Temporal association
+Correct Option:
+Ans. Web of causation
+Explanation: Describes multifactorial causation where various factors interact, especially in chronic diseases.
+Tags: Auxiliary Subjects, Minors
+
+Question: Best level of prevention for non-communicable diseases:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primordial prevention
+Explanation: NCDs are largely lifestyle-related; preventing the development of risk factors (e.g. smoking, obesity) is most effective, hence primordial prevention is best.
+Tags: Auxiliary Subjects, Minors
+
+Question: Continuous scrutiny of factors that determine the occurrence and distribution of disease and other condition of ill health is the definition of:
+Options:
+a) Monitoring
+b) Surveillance
+c) Disease control
+d) System analysis
+Correct Option:
+Ans. Surveillance
+Explanation: Surveillance involves continuous, systematic collection, analysis, and interpretation of health data for planning and action.
+Tags: Auxiliary Subjects, Minors
+
+Question: Causative agent is present but there is no transmission is known as:
+Options:
+a) Elimination
+b) Control
+c) Eradication
+d) Holoendemic
+Correct Option:
+Ans. Elimination
+Explanation: Elimination means reduction of disease transmission to zero in a defined area, though the agent may still be present.
+Tags: Auxiliary Subjects, Minors
+
+Question: Human living standards can be compared in different countries by:
+Options:
+a) Human Development Index (HDI)
+b) Physical quality of life index (PQLI)
+c) Human poverty index (HPI)
+d) DALY
+Correct Option:
+Ans. Human Development Index (HDI)
+Explanation: HDI is the most widely used composite index comparing life expectancy, education, and income across countries.
+Tags: Auxiliary Subjects, Minors
+
+Question: In a population to prevent coronary artery disease changing harmful lifestyles by education is referred to as:
+Options:
+a) High risk strategy
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primary prevention
+Explanation: Lifestyle modification (diet, exercise, smoking cessation) prevents onset of disease by reducing risk exposure.
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is primordial prevention:
+Options:
+a) Action taken prior to the onset of disease
+b) Prevention of emergence or development of risk factors
+c) Action taken to remove the possibility that a disease will ever occur
+d) Action that halts the progress of a disease
+Correct Option:
+Ans. Prevention of emergence or development of risk factors
+Explanation: Primordial prevention specifically targets risk factors before they appear, unlike primary prevention which acts after risk factors exist.
+Tags: Auxiliary Subjects, Minors
+
+Question: Disease elimination means:
+Options:
+a) Cure of the disease
+b) Preventing the transmission totally
+c) Eradication of the vector
+d) Complete termination of infective organism
+Correct Option:
+Ans. Preventing the transmission totally
+Explanation: Elimination refers to interruption of transmission in a defined region, not global disappearance of the organism.
+Tags: Auxiliary Subjects, Minors
+
+Question: The intervention for restoration of health in early pathogenic phase falls under which type of prevention:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Secondary prevention
+Explanation: Early pathogenic phase = early disease stage; interventions like early diagnosis and treatment aim to restore health and halt progression.
+Tags: Auxiliary Subjects, Minors
+
+Question: A class of 5 year old children is discouraged from adopting harmful lifestyles like smoking. This type of prevention is:
+Options:
+a) Primordial prevention
+b) Primary prevention
+c) Secondary prevention
+d) Tertiary prevention
+Correct Option:
+Ans. Primordial prevention
+Explanation: Preventing adoption of unhealthy behaviors (risk factors) at an early age is classic primordial prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: Epidemiological triad contains all except:
+Options:
+a) Agent
+b) Manpower
+c) Host
+d) Environment
+Correct Option:
+Ans. Manpower
+Explanation: The epidemiological triad consists of agent, host, and environment; manpower is not a component.
+Tags: Auxiliary Subjects, Minors
+
+Question: Missing cases are detected by:
+Options:
+a) Active surveillance
+b) Passive surveillance
+c) Sentinel surveillance
+d) Monitoring
+Correct Option:
+Ans. Active surveillance
+Explanation: Active surveillance involves actively searching for cases through field visits and record checks, making it most effective for detecting unreported or missed cases.
+Tags: Auxiliary Subjects, Minors
+
+Question: Measures involved in sentinel surveillance include all of the following except:
+Options:
+a) Identifying missing cases in notification of diseases
+b) Identifying new cases of infection
+c) Identifying old and new cases
+d) Identifying cases free of disability
+Correct Option:
+Ans. Identifying missing cases in notification of diseases
+Explanation: Sentinel surveillance uses selected reporting sites to track trends and new cases, not to actively search for missing/unreported cases (that is active surveillance).
+Tags: Auxiliary Subjects, Minors
+
+Question: Which of the following is a mortality indicator:
+Options:
+a) Life expectancy
+b) Notification rate
+c) DALY
+d) Bed turn-over ratio
+Correct Option:
+Ans. Life expectancy
+Explanation: Life expectancy reflects mortality patterns of a population; others relate to morbidity or health services.
+Tags: Auxiliary Subjects, Minors
+
+Question: Primordial prevention in coronary heart disease:
+Options:
+a) Exercise in high risk area
+b) BP monitoring
+c) Salt restriction
+d) Statins drugs
+Correct Option:
+Ans. Exercise in high risk area
+Explanation: Promoting healthy lifestyle habits (like exercise) at a population level prevents development of risk factors, hence primordial prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: Primary prevention:
+Options:
+a) Marriage counseling
+b) Early diagnosis and treatment
+c) Self breast examination
+d) Immunization
+Correct Option:
+Ans. Immunization
+Explanation: Immunization prevents disease occurrence; early diagnosis/self-exam fall under secondary prevention.
+Tags: Auxiliary Subjects, Minors
+
+Question: Surveillance is:
+Options:
+a) Scrutiny of factors
+b) Treatment of contacts
+c) Prevention of disease
+d) Chemoprophylaxis of disease
+Correct Option:
+Ans. Scrutiny of factors
+Explanation: Surveillance is continuous systematic observation and analysis of factors influencing disease occurrence.
+Tags: Auxiliary Subjects, Minors
+
+Question: Definition of health given by WHO does not include which of the following dimensions:
+Options:
+a) Social
+b) Mental
+c) Emotional
+d) Economic
+Correct Option:
+Ans. Economic
+Explanation: WHO defines health as physical, mental, and social well-being; economic dimension is not explicitly included.
+Tags: Auxiliary Subjects, Minors
+
+Question: Decrease in the incidence of a disease to a level where it ceases to be a public health problem is:
+Options:
+a) Control
+b) Elimination
+c) Eradication
+d) Surveillance
+Correct Option:
+Ans. Control
+Explanation: Control reduces disease incidence/prevalence to acceptable levels, but does not eliminate transmission completely.
+Tags: Auxiliary Subjects, Minors
+
+Question: Disease elimination refers to:
+Options:
+a) Extinction of disease agent
+b) Termination of all disease
+c) Global removal of disease agent
+d) Regional removal of disease agent
+Correct Option:
+Ans. Regional removal of disease agent
+Explanation: Elimination means zero transmission in a defined geographic area, though the agent may still exist elsewhere.
+Tags: Auxiliary Subjects, Minors
+
+Question: Zero incidence is:
+Options:
+a) Elimination of disease
+b) Eradication of disease
+c) Elimination of infection
+d) Eradication of infection
+Correct Option:
+Ans. Eradication of disease
+Explanation: Eradication implies permanent reduction to zero incidence worldwide with no further intervention required. Please note that regional zero incidence of a disease is referred to as elimination.
+Tags: Auxiliary Subjects, Minors
+
+Question: In 4th century BCE the scholars believed that health was determined by humoral factors and disequilibrium leads to disease. This concept of disease causation falls under which theory:
+Options:
+a) Personal theory
+b) Naturalistic theory
+c) Biomedical concept
+d) Multifactorial theory
+Correct Option:
+Ans. Naturalistic theory
+Explanation: The humoral theory (balance of blood, phlegm, yellow bile, black bile) explains disease as imbalance within the body, which is characteristic of the naturalistic theory rather than supernatural or modern biomedical models.
+Tags: Auxiliary Subjects, Minors
+
+Question: Mr. Riaz is 50 years old and has never undergone colorectal cancer screening and does not perceive himself at risk. Which component of the Health Belief Model is he lacking:
+Options:
+a) Perceived severity
+b) Perceived susceptibility
+c) Perceived susceptibility and severity
+d) Perceived benefits
+Correct Option:
+Ans. Perceived susceptibility
+Explanation: He does not believe he is at risk of disease, indicating lack of perceived susceptibility; severity relates to seriousness of disease, not likelihood of getting it.
+Tags: Auxiliary Subjects, Minors

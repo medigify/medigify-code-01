@@ -1,0 +1,208 @@
+Question: Which of the following type of cells is a component of Blood-Air barrier:
+Options:
+a) Type I pneumocyte
+b) Type II pneumocytes
+c) Clara cells
+d) Goblet cells
+Correct Option:
+Ans. Type I pneumocyte
+Explanation: The Type I pneumocyte is an extremely thin, attenuated squamous cell that forms a major part of the blood-air barrier. This barrier, which gas must cross, consists of the pneumocyte, a fused basal lamina, and the endothelial cell of the adjacent capillary.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Regulation of the size of the lumen of bronchioles is controlled by:
+Options:
+a) Collagen
+b) Smooth muscle and elastic fibers
+c) Cartilage
+d) Elastic fibers and cartilage
+Correct Option:
+Ans. Smooth muscle and elastic fibers
+Explanation: Because bronchioles lack the rigid support of cartilage, they rely on a circular layer of smooth muscle and elastic fibers to maintain their patency. The autonomic nervous system regulates this muscle to control the volume of air reaching the lungs.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: A medical student while examining the slide of a terminal bronchiole found a dome-shaped cell with extensive RER, well developed Golgi complex, abundant mitochondria and some profiles of SER. The cell is:
+Options:
+a) Basal
+b) Clara
+c) Goblet
+d) Type I pneumocytes
+Correct Option:
+Ans. Clara
+Explanation: Clara cells are the "protectors" of the bronchioles. These dome-shaped cells are packed with SER and mitochondria, allowing them to detoxify inhaled harmful substances and secrete a surface-active agent that keeps the small airways from sticking together.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Surfactant is secreted by which cells:
+Options:
+a) Type II pneumocytes
+b) Type I pneumocytes
+c) Clara cells
+d) Goblet cells
+Correct Option:
+Ans. Type II pneumocytes
+Explanation: Type II pneumocytes function as the lung’s chemical factories. They contain multi-lamellar bodies, which are specialized organelles that store and eventually secrete pulmonary surfactant to reduce surface tension and prevent alveolar collapse.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which of the following structure is not a part of conducting zone of respiratory system:
+Options:
+a) Larynx
+b) Alveoli
+c) Trachea
+d) Nose
+Correct Option:
+Ans. Alveoli
+Explanation: The conducting zone (nose to terminal bronchioles) acts as a specialized hallway to filter and warm air. The alveoli are excluded from this zone because they are the functional units of the "respiratory zone," where gas actually enters the blood.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which of the following is a Cartilage containing structure in respiratory system:
+Options:
+a) Trachea
+b) Alveoli
+c) Respiratory bronchioles
+d) Terminal bronchioles
+Correct Option:
+Ans. Trachea
+Explanation: The trachea is characterized by C-shaped rings of hyaline cartilage. This rigid framework prevents the airway from collapsing during the pressure changes of breathing, a feature that is gradually lost as the airways branch smaller.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: All the following about the olfactory epithelium are true EXCEPT:
+Options:
+a) Sustentacular cells have microvilli
+b) Bowman's glands are present underneath
+c) The neuro-epithelium have olfactory vesicles
+d) Basal cells rest on Descemet’s membrane
+Correct Option:
+Ans. Basal cells rest on Descemet’s membrane
+Explanation: The olfactory epithelium features specialized sensory neurons and supporting cells. Descemet’s membrane is a distractor here—it is a thick basement membrane found exclusively in the cornea of the eye, not in the nasal cavity.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: The brush cells in the respiratory epithelium are characterized by the presence of:
+Options:
+a) Flagella
+b) Cilia
+c) Secretory granules
+d) Microvilli
+Correct Option:
+Ans. Microvilli
+Explanation: Brush cells are part of the general respiratory epithelium. They are named for the thick, blunt microvilli on their apical surface, which act as chemoreceptors that sense air quality and trigger protective reflexes.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Multi-lamellar bodies are present in:
+Options:
+a) Type I pneumocytes
+b) Type II pneumocytes
+c) Clara cells
+d) Brush cells
+Correct Option:
+Ans. Type II pneumocytes
+Explanation: Type II pneumocytes function as the lung’s chemical factories. They contain multi-lamellar bodies, which are specialized organelles that store and eventually secrete pulmonary surfactant to reduce surface tension and prevent alveolar collapse.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: The lining epithelium of true vocal cords:
+Options:
+a) Simple squamous
+b) Pseudostratified columnar
+c) Simple columnar
+d) Stratified squamous
+Correct Option:
+Ans. Stratified squamous
+Explanation: The true vocal cords (vocal folds) are lined by stratified squamous epithelium. This tough, multi-layered lining is necessary to protect the folds from the extreme mechanical stress and vibration caused by high-velocity airflow during speech.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Epithelial lining of respiratory bronchioles:
+Options:
+a) Simple cuboidal
+b) Columnar
+c) Pseudo-columnar
+d) Stratified squamous
+Correct Option:
+Ans. Simple cuboidal
+Explanation: As we approach the gas-exchange area, the epithelium thins out. The respiratory bronchioles are lined by simple cuboidal epithelium, which may be partially ciliated in the upper segments but becomes smooth as it reaches the alveolar ducts.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Most of the lung surface is covered with which cells:
+Options:
+a) Type I pneumocytes
+b) Type II pneumocytes
+c) Clara cells
+d) Brush cells
+Correct Option:
+Ans. Type I pneumocytes
+Explanation: Although Type II cells are more numerous in count, Type I pneumocytes cover roughly 95% of the alveolar surface. Their incredibly broad, flat shape allows a small number of cells to create the massive surface area required for rapid gas diffusion.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which cells serve as stem cells to regenerate alveolar cells:
+Options:
+a) Type I pneumocytes
+b) Type II pneumocytes
+c) Dust cells
+d) Brush cells
+Correct Option:
+Ans. Type II pneumocytes
+Explanation: Type II pneumocytes act as the stem cells for the alveolar lining. If the delicate Type I cells are damaged (by toxins or infection), the Type II cells divide and differentiate into new Type I cells to restore the barrier.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which type of junctions present between type I pneumocytes and type II pneumocytes:
+Options:
+a) Gap junction
+b) Occluding junction
+c) Anchoring junction
+d) Communicating junction
+Correct Option:
+Ans. Occluding junction
+Explanation: To keep the air spaces "dry," occluding junctions seal the boundaries between pneumocytes. This prevents interstitial fluid and plasma from leaking out of the capillaries and flooding the alveoli, which would impair gas exchange.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which of the following components increase(s) as a proportion of the respiratory tract wall from trachea to alveoli:
+Options:
+a) Cilia
+b) Elastic fibers
+c) Smooth muscle
+d) Cartilage
+Correct Option:
+Ans. Elastic fibers
+Explanation: From the trachea down to the alveoli, there is a progressive increase in elastic fibers. While cartilage provides rigid support in the large pipes, elastic fibers provide the recoil necessary to push air out of the tiny alveoli during expiration.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which structural feature distinguishes between terminal and respiratory bronchioles:
+Options:
+a) Alveoli
+b) Cilia
+c) Exocrine bronchiolar cells (Clara cells)
+d) Smooth muscle
+Correct Option:
+Ans. Alveoli
+Explanation: A respiratory bronchiole is histologically distinguished from a terminal bronchiole by the presence of alveoli budding from its walls. This "interrupted" wall marks the official start of the gas-exchange portion of the lung.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: Which of the following features distinguishes a bronchus within a lung from the primary bronchus:
+Options:
+a) Glands in the submucosa
+b) Pseudostratified ciliated columnar epithelium
+c) Smooth muscle in the wall
+d) Irregular plates of cartilage
+Correct Option:
+Ans. Irregular plates of cartilage
+Explanation: Once a primary bronchus enters the lung (becoming an intrapulmonary bronchus), the continuous C-shaped rings are replaced by irregular plates of cartilage. This allows the airway to remain open while the lung tissue expands and contracts around it.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: The pulmonary (functional) and bronchial (nutritive) arterial systems enter the lungs separately at the hilum but anastomose into a single system at which level:
+Options:
+a) Bronchi
+b) Terminal bronchioles
+c) Segmental bronchioles
+d) Respiratory bronchioles
+Correct Option:
+Ans. Respiratory bronchioles
+Explanation: The respiratory bronchioles are the site of a critical anastomosis between the functional pulmonary system and the nutritive bronchial system. This ensures that the delicate tissues at the transition zone receive oxygenated blood from both sources.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
+
+Question: A young teacher has developed hoarseness of voice for 1 month which is not resolving. Most probable diagnosis:
+Options:
+a) Chronic Laryngitis
+b) Vocal nodules
+c) Laryngeal cancer
+d) Tuberculosis
+Correct Option:
+Ans. Chronic Laryngitis
+Explanation: In a teacher, persistent hoarseness is most likely chronic laryngitis due to vocal abuse. This leads to chronic inflammation and potentially "vocal nodules," where the stratified squamous epithelium of the vocal cords thickens in response to stress.
+Tags: Histology, Block 3, Respiratory System, Histology of Respiratory System, Respiration
