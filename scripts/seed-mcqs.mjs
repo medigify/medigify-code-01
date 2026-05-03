@@ -35,6 +35,7 @@ const SUBJECT_MAP = {
   'Histo': 'Histology',
   'Pathology': 'Pathology',
   'Pharmacology': 'Pharmacology',
+  'Physiology': 'Physiology',
 };
 
 const ID_PREFIX = {
@@ -45,6 +46,7 @@ const ID_PREFIX = {
   'Histology': 'histo',
   'Pathology': 'path',
   'Pharmacology': 'pharm',
+  'Physiology': 'phys',
 };
 
 // ── CLI args ────────────────────────────────────────────────

@@ -47,3 +47,6 @@ public/swe-worker-*.js
 
 # claude code
 .claude/
+
+# local content data
+data/

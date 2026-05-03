@@ -1,8 +1,8 @@
 export default function TrustBar() {
   const metrics = [
     { value: '10,000+', label: 'MCQs' },
-    { value: '5+', label: 'Subjects' },
-    { value: 'UHS', label: 'Past Papers' },
+    { value: 'Smart', label: 'Flash Cards' },
+    { value: 'High Yield', label: 'Notes' },
   ];
 
   const badges = [
@@ -24,24 +24,6 @@ export default function TrustBar() {
               </p>
               <p className="text-sm text-text-secondary mt-1">{metric.label}</p>
             </div>
-          ))}
-        </div>
-        {/* Examining Body Badges */}
-        <div className="flex flex-wrap items-center justify-center gap-4 mt-8">
-          {badges.map((badge) => (
-            <span
-              key={badge.name}
-              className={`px-4 py-2 rounded-md text-sm font-medium border ${
-                badge.available
-                  ? 'border-accent/30 text-accent bg-accent/5'
-                  : 'border-border text-text-secondary'
-              }`}
-            >
-              {badge.name}
-              {!badge.available && (
-                <span className="text-xs ml-1 opacity-50">Soon</span>
-              )}
-            </span>
           ))}
         </div>
       </div>

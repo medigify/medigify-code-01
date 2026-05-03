@@ -11,8 +11,6 @@ const FREE_FEATURES = [
   '5 MCQs per subject per session',
   'Access to all 7 subjects',
   'Instant explanations & feedback',
-  'Study streak tracking',
-  'Flashcard saving',
 ];
 
 const PRO_FEATURES = [
@@ -130,17 +128,17 @@ export default function PricingPage() {
         <div className="flex flex-col items-center gap-2">
           <Shield className="w-7 h-7 text-accent" />
           <h3 className="font-heading font-semibold text-text-primary">Secure & Private</h3>
-          <p className="text-text-secondary text-sm">Your data is encrypted and never shared.</p>
+          <p className="text-text-secondary text-sm">Your data is fully encrypted and securely stored, ensuring complete privacy and protection</p>
         </div>
         <div className="flex flex-col items-center gap-2">
           <FlaskConical className="w-7 h-7 text-accent" />
           <h3 className="font-heading font-semibold text-text-primary">Exam-Focused</h3>
-          <p className="text-text-secondary text-sm">Questions curated specifically for UHS, NUMS & AKU.</p>
+          <p className="text-text-secondary text-sm">Carefully curated, high-yield questions designed specifically according to UHS exam patterns, helping you study smarter</p>
         </div>
         <div className="flex flex-col items-center gap-2">
           <BarChart3 className="w-7 h-7 text-accent" />
           <h3 className="font-heading font-semibold text-text-primary">Track Progress</h3>
-          <p className="text-text-secondary text-sm">See exactly where you stand and what to fix.</p>
+          <p className="text-text-secondary text-sm">Get detailed insights into your performance, identify weak areas, and continuously improve with a clear, data-driven view.</p>
         </div>
       </div>
     </div>
