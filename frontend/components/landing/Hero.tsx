@@ -15,14 +15,12 @@ export default function Hero() {
               Ace Your Medical Exams, One Question at a Time
             </h1>
             <p className="mt-6 text-lg md:text-xl text-text-secondary leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              Pakistan&apos;s smartest question bank. UHS past papers,
-              spaced-repetition flashcards, and mock tests. Built for how you
-              actually study.
+              Pakistan's smartest question bank, past papers, spaced-repetition flashcards, and high-yield mock tests, built around how you actually study.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
               <Link href="/practice">
                 <Button variant="filled" size="lg">
-                  Try Practice Mode. It&apos;s Free
+                  Try Practice Mode, It is Free!
                 </Button>
               </Link>
               <a href="#how-it-works">

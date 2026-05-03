@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { Mail, Lock, AlertCircle, Loader2, User, Building, BookOpen, GraduationCap, CheckCircle2, ChevronRight, ChevronLeft } from 'lucide-react';
+import { Mail, Lock, AlertCircle, Loader2, User, BookOpen, GraduationCap, CheckCircle2, ChevronRight, ChevronLeft, Info, Eye, EyeOff } from 'lucide-react';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
 
@@ -20,6 +20,7 @@ export default function SignupPage() {
   // Step 1 State
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
 
   // Step 2 State
   const [firstName, setFirstName] = useState('');
@@ -27,18 +28,22 @@ export default function SignupPage() {
   const [username, setUsername] = useState('');
   const [usernameAvailable, setUsernameAvailable] = useState<boolean | null>(null);
   const [examiningBody, setExaminingBody] = useState('');
-  const [college, setCollege] = useState('');
   const [academicYear, setAcademicYear] = useState('');
 
-  // Mock Dropdown Data
-  const examiningBodies = ['UHS', 'NUMS', 'AKU', 'UCMD', 'Other'];
-  const collegesMock: Record<string, string[]> = {
-    'UHS': ['King Edward Medical University', 'Allama Iqbal Medical College', 'Services Institute of Medical Sciences', 'Fatima Jinnah Medical University'],
-    'NUMS': ['Army Medical College', 'CMH Lahore', 'Foundation University'],
-    'AKU': ['Aga Khan University Medical College'],
-    'UCMD': ['University College of Medicine & Dentistry'],
-    'Other': ['Other College']
-  };
+  // Dropdown Data
+  const examiningBodies = [
+    'Faisalabad Medical University (FMU)',
+    'Fatima Jinnah Medical University (FJMU)',
+    'King Edward Medical University (KEMU)',
+    'National University Of Medical Sciences (NUMS)',
+    'Nishtar Medical University (NMU)',
+    'Rawalpindi Medical University (RMU)',
+    'University College of Medicine and Dentistry (UCMD)',
+    'University of Health Sciences (UHS)',
+    'Other'
+  ];
+
+
 
   const handleUsernameCheck = (val: string) => {
     setUsername(val);
@@ -91,7 +96,6 @@ export default function SignupPage() {
             last_name: lastName,
             username,
             examining_body_id: examiningBody,
-            college_id: college,
             academic_year: parseInt(academicYear)
           }
         }
@@ -211,14 +215,27 @@ export default function SignupPage() {
                     <input
                       id="password"
                       name="password"
-                      type="password"
+                      type={showPassword ? "text" : "password"}
                       required
                       minLength={8}
                       value={password}
                       onChange={(e) => setPassword(e.target.value)}
-                      className="block w-full rounded-md border-0 py-2.5 pl-10 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm sm:leading-6"
+                      className="block w-full rounded-md border-0 py-2.5 pl-10 pr-10 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm sm:leading-6"
                       placeholder="••••••••"
                     />
+                    <div className="absolute inset-y-0 right-0 flex items-center pr-3">
+                      <button
+                        type="button"
+                        onClick={() => setShowPassword(!showPassword)}
+                        className="text-text-secondary hover:text-text-primary focus:outline-none transition-colors"
+                      >
+                        {showPassword ? (
+                          <EyeOff className="h-5 w-5" aria-hidden="true" />
+                        ) : (
+                          <Eye className="h-5 w-5" aria-hidden="true" />
+                        )}
+                      </button>
+                    </div>
                   </div>
                 </div>
 
@@ -280,7 +297,16 @@ export default function SignupPage() {
                 </div>
 
                 <div>
-                  <label className="block text-sm font-medium leading-6 text-text-primary">Examining Body</label>
+                  <div className="flex items-center gap-2">
+                    <label className="block text-sm font-medium leading-6 text-text-primary">Examining Body</label>
+                    <div className="group relative flex items-center">
+                      <Info className="w-4 h-4 text-text-secondary cursor-help" />
+                      <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-2 bg-bg-surface-hover text-text-primary text-xs rounded-md border border-border shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-10 text-center pointer-events-none">
+                        Medigify is currently optimized for the UHS curriculum. You are welcome to proceed if you would like to explore our resources and tools using this framework.
+                        <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface-hover"></div>
+                      </div>
+                    </div>
+                  </div>
                   <div className="relative mt-2">
                     <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
                       <BookOpen className="h-5 w-5 text-text-secondary" />
@@ -288,10 +314,7 @@ export default function SignupPage() {
                     <select
                       required
                       value={examiningBody}
-                      onChange={(e) => {
-                        setExaminingBody(e.target.value);
-                        setCollege(''); // Reset cascading dropdown
-                      }}
+                      onChange={(e) => setExaminingBody(e.target.value)}
                       className="block w-full rounded-md border-0 py-2.5 pl-10 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm appearance-none"
                     >
                       <option value="" disabled>Select your examining body</option>
@@ -302,30 +325,19 @@ export default function SignupPage() {
                   </div>
                 </div>
 
-                {examiningBody && (
-                  <div className="animate-slideDown">
-                    <label className="block text-sm font-medium leading-6 text-text-primary">College</label>
-                    <div className="relative mt-2">
-                      <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                        <Building className="h-5 w-5 text-text-secondary" />
-                      </div>
-                      <select
-                        required
-                        value={college}
-                        onChange={(e) => setCollege(e.target.value)}
-                        className="block w-full rounded-md border-0 py-2.5 pl-10 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm appearance-none"
-                      >
-                        <option value="" disabled>Select your college</option>
-                        {collegesMock[examiningBody]?.map(c => (
-                          <option key={c} value={c}>{c}</option>
-                        ))}
-                      </select>
-                    </div>
-                  </div>
-                )}
+
 
                 <div>
-                  <label className="block text-sm font-medium leading-6 text-text-primary">Academic Year</label>
+                  <div className="flex items-center gap-2">
+                    <label className="block text-sm font-medium leading-6 text-text-primary">Academic Year</label>
+                    <div className="group relative flex items-center">
+                      <Info className="w-4 h-4 text-text-secondary cursor-help" />
+                      <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-2 bg-bg-surface-hover text-text-primary text-xs rounded-md border border-border shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-10 text-center pointer-events-none">
+                        We are currently perfecting our First Year content library. Feel free to sign up and take a look around, we’re working hard to bring more years to the platform soon!
+                        <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface-hover"></div>
+                      </div>
+                    </div>
+                  </div>
                   <div className="relative mt-2">
                     <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
                       <GraduationCap className="h-5 w-5 text-text-secondary" />

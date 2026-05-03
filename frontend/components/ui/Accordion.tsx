@@ -3,9 +3,11 @@
 import { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 
+import { ReactNode } from 'react';
+
 interface AccordionItem {
   question: string;
-  answer: string;
+  answer: ReactNode;
 }
 
 interface AccordionProps {

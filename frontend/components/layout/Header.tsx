@@ -7,12 +7,14 @@ import { Menu, X, LogOut, User, BookOpen, Zap } from 'lucide-react';
 import ThemeToggle from '@/components/ui/ThemeToggle';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
+import { useUserPlan } from '@/hooks/useUserPlan';
 
 export default function Header() {
   const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [userInitial, setUserInitial] = useState('');
+  const { isPro } = useUserPlan();
 
   useEffect(() => {
     const isMockMode = process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
@@ -58,9 +60,9 @@ export default function Header() {
   };
 
   const navLinks = [
-    { label: 'Features', href: '#features' },
-    { label: 'How It Works', href: '#how-it-works' },
-    { label: 'Pricing', href: '/pricing' },
+    { label: 'How It Works', href: '/#how-it-works' },
+    { label: 'Features', href: '/#features' },
+    { label: 'Contact Us', href: 'mailto:support@medigify.com' },
   ];
 
   return (
@@ -68,11 +70,8 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href={isLoggedIn ? '/dashboard' : '/'} className="flex items-center gap-2 shrink-0">
-            <span className="font-heading text-xl font-bold">
-              <span className="text-accent">M</span>
-              <span className="text-text-primary">edigify</span>
-            </span>
+          <Link href={isLoggedIn ? '/dashboard' : '/'} className="flex items-center gap-2 shrink-0 overflow-visible">
+            <img src="/logo.svg" alt="Medigify Logo" className="w-32 md:w-48 h-auto -my-8 object-contain" />
           </Link>
 
           {/* Desktop Nav */}
@@ -99,10 +98,12 @@ export default function Header() {
                 <BookOpen className="w-4 h-4" />
                 Practice
               </Link>
-              <Link href="/pricing" className="text-text-secondary hover:text-accent transition-colors duration-150 text-sm font-medium flex items-center gap-1.5">
-                <Zap className="w-4 h-4" />
-                Upgrade
-              </Link>
+              {!isPro && (
+                <Link href="/pricing" className="text-text-secondary hover:text-accent transition-colors duration-150 text-sm font-medium flex items-center gap-1.5">
+                  <Zap className="w-4 h-4" />
+                  Upgrade
+                </Link>
+              )}
             </nav>
           )}
 
@@ -111,6 +112,11 @@ export default function Header() {
             <ThemeToggle />
             {isLoggedIn ? (
               <div className="flex items-center gap-2">
+                {isPro && (
+                  <span className="hidden lg:flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded bg-gradient-to-r from-accent/20 to-accent/10 text-accent border border-accent/30 tracking-widest uppercase">
+                    <Zap className="w-3 h-3" /> Pro
+                  </span>
+                )}
                 <Link href="/profile">
                   <div className="w-8 h-8 rounded-full bg-accent/20 border border-accent/30 flex items-center justify-center text-accent text-sm font-bold cursor-pointer hover:bg-accent/30 transition-colors">
                     {userInitial || <User className="w-4 h-4" />}
@@ -162,7 +168,9 @@ export default function Header() {
               <>
                 <Link href="/dashboard" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">Dashboard</Link>
                 <Link href="/practice" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">Practice</Link>
-                <Link href="/pricing" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-accent font-medium">⚡ Upgrade to Pro</Link>
+                {!isPro && (
+                  <Link href="/pricing" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-accent font-medium">⚡ Upgrade to Pro</Link>
+                )}
                 <div className="pt-3 border-t border-border">
                   <button onClick={handleLogout} className="flex items-center gap-2 text-sm text-error font-medium">
                     <LogOut className="w-4 h-4" /> Logout

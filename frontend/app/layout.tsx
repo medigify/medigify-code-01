@@ -62,10 +62,6 @@ export const metadata: Metadata = {
     images: ['/og-image.png'],
   },
   manifest: '/manifest.json',
-  icons: {
-    icon: '/icons/icon-192.png',
-    apple: '/icons/icon-512.png',
-  },
 };
 
 export default function RootLayout({
@@ -77,6 +73,7 @@ export default function RootLayout({
     <html
       lang="en"
       className={`${spaceGrotesk.variable} ${inter.variable}`}
+      data-scroll-behavior="smooth"
       suppressHydrationWarning
     >
       <body className="min-h-screen flex flex-col">

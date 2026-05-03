@@ -10,12 +10,25 @@ export default function FAQ() {
     {
       question: 'Which exams do you cover?',
       answer:
-        "We're launching with UHS past papers across all major subjects. NUMS, AKU, and UCMD support is being added rapidly.",
+        'At launch, our platform features high-yield content specifically for the UHS curriculum. However, we are in the process of rapidly expanding our database to include other examining bodies to support more medical students.',
     },
     {
       question: 'Can I use it on my phone?',
-      answer:
-        'Absolutely. Medigify is built mobile-first as a Progressive Web App. Install it from your browser, no app store needed.',
+      answer: (
+        <>
+          Absolutely. Medigify is built mobile-first as a Progressive Web App. Install it from your browser, no app store needed.{" "}
+          <div className="group relative inline-block mt-1">
+            <span className="text-accent hover:text-accent-hover font-medium cursor-help transition-colors">
+              Learn more
+            </span>
+            <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-bg-surface-hover text-text-primary text-xs rounded-md border border-border shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-20 text-center pointer-events-none">
+              <p className="mb-2 text-text-primary"><strong>iOS:</strong> Tap Share in Safari, then 'Add to Home Screen'.</p>
+              <p className="text-text-primary"><strong>Android:</strong> Tap menu in Chrome, then 'Add to Home screen'.</p>
+              <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface-hover"></div>
+            </div>
+          </div>
+        </>
+      ),
     },
     {
       question: 'How do flashcards work?',
@@ -25,7 +38,7 @@ export default function FAQ() {
     {
       question: 'I found a mistake in a question.',
       answer:
-        'Use the Report button on any MCQ. Our team reviews every report and makes corrections quickly.',
+        'Use report button on any MCQ, Flashcard or Notes. Our team regularly reviews all reports and ensures they’re corrected timely.',
     },
     {
       question: 'Will my progress be saved?',

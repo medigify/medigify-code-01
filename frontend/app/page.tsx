@@ -3,8 +3,6 @@ import Hero from '@/components/landing/Hero';
 import TrustBar from '@/components/landing/TrustBar';
 import HowItWorks from '@/components/landing/HowItWorks';
 import Features from '@/components/landing/Features';
-import Audience from '@/components/landing/Audience';
-import Testimonials from '@/components/landing/Testimonials';
 import FAQ from '@/components/landing/FAQ';
 import FinalCTA from '@/components/landing/FinalCTA';
 
@@ -22,12 +20,6 @@ export default function HomePage() {
       </Reveal>
       <Reveal>
         <Features />
-      </Reveal>
-      <Reveal>
-        <Audience />
-      </Reveal>
-      <Reveal>
-        <Testimonials />
       </Reveal>
       <Reveal>
         <FAQ />

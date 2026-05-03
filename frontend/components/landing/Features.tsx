@@ -19,13 +19,26 @@ export default function Features() {
       icon: Layers,
       title: "Smart Flashcards",
       description:
-        "One tap creates a flashcard from any question. Our algorithm decides when you review it.",
+        "One tap turns any question into a flashcard. Our algorithm surfaces it when you need it most, targeting your weak concepts.",
     },
     {
       icon: Smartphone,
       title: "Works Everywhere",
-      description:
-        "Install as an app on your phone. Study on slow networks. No app store needed.",
+      description: (
+        <>
+          Install as an app on your phone. Study on slow networks. No app store needed.{" "}
+          <div className="group relative inline-block mt-1">
+            <span className="text-accent hover:text-accent-hover font-medium cursor-help transition-colors">
+              Learn more
+            </span>
+            <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-bg-surface border border-border shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-20 text-center pointer-events-none rounded-lg">
+              <p className="mb-2 text-text-primary"><strong>iOS:</strong> Tap Share in Safari, then 'Add to Home Screen'.</p>
+              <p className="text-text-primary"><strong>Android:</strong> Tap menu in Chrome, then 'Add to Home screen'.</p>
+              <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface"></div>
+            </div>
+          </div>
+        </>
+      ),
     },
   ];
 
@@ -49,9 +62,9 @@ export default function Features() {
                 <h3 className="mt-4 font-heading text-lg font-semibold text-text-primary">
                   {feature.title}
                 </h3>
-                <p className="mt-2 text-text-secondary leading-relaxed">
+                <div className="mt-2 text-text-secondary leading-relaxed text-base">
                   {feature.description}
-                </p>
+                </div>
               </Card>
             );
           })}
