@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Library, Timer, Layers, Smartphone } from 'lucide-react';
 import Card from '@/components/ui/Card';
 
@@ -27,15 +28,13 @@ export default function Features() {
       description: (
         <>
           Install as an app on your phone. Study on slow networks. No app store needed.{" "}
-          <div className="group relative inline-block mt-1">
-            <span className="text-accent hover:text-accent-hover font-medium cursor-help transition-colors">
+          <div className="inline-block mt-1">
+            <Link
+              href="/pwa-guide"
+              className="text-accent hover:text-accent-hover font-medium transition-colors"
+            >
               Learn more
-            </span>
-            <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-bg-surface border border-border shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-20 text-center pointer-events-none rounded-lg">
-              <p className="mb-2 text-text-primary"><strong>iOS:</strong> Tap Share in Safari, then 'Add to Home Screen'.</p>
-              <p className="text-text-primary"><strong>Android:</strong> Tap menu in Chrome, then 'Add to Home screen'.</p>
-              <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface"></div>
-            </div>
+            </Link>
           </div>
         </>
       ),

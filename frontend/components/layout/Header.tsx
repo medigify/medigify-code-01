@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { Menu, X, LogOut, User, BookOpen, Zap } from 'lucide-react';
+import { Menu, X, LogOut, User, BookOpen, Zap, Bookmark } from 'lucide-react';
 import ThemeToggle from '@/components/ui/ThemeToggle';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
@@ -20,11 +20,13 @@ export default function Header() {
     const isMockMode = process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
     if (isMockMode) {
-      const mockId = localStorage.getItem('mock_user_id');
-      if (mockId) {
-        setIsLoggedIn(true);
-        setUserInitial(mockId.charAt(0).toUpperCase());
-      }
+      Promise.resolve().then(() => {
+        const mockId = localStorage.getItem('mock_user_id');
+        if (mockId) {
+          setIsLoggedIn(true);
+          setUserInitial(mockId.charAt(0).toUpperCase());
+        }
+      });
       return;
     }
 
@@ -98,6 +100,10 @@ export default function Header() {
                 <BookOpen className="w-4 h-4" />
                 Practice
               </Link>
+              <Link href="/flashcards" className="text-text-secondary hover:text-text-primary transition-colors duration-150 text-sm font-medium flex items-center gap-1.5">
+                <Bookmark className="w-4 h-4" />
+                Flashcards
+              </Link>
               {!isPro && (
                 <Link href="/pricing" className="text-text-secondary hover:text-accent transition-colors duration-150 text-sm font-medium flex items-center gap-1.5">
                   <Zap className="w-4 h-4" />
@@ -168,6 +174,7 @@ export default function Header() {
               <>
                 <Link href="/dashboard" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">Dashboard</Link>
                 <Link href="/practice" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">Practice</Link>
+                <Link href="/flashcards" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-text-secondary hover:text-text-primary transition-colors duration-150 font-medium">Flashcards</Link>
                 {!isPro && (
                   <Link href="/pricing" onClick={() => setMobileMenuOpen(false)} className="block py-2 text-accent font-medium">⚡ Upgrade to Pro</Link>
                 )}

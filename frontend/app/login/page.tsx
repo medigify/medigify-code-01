@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { Mail, Lock, AlertCircle, Loader2, Eye, EyeOff } from 'lucide-react';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
+import { mapAuthErrorMessage, normalizeEmail } from '@/lib/auth';
 
 export default function LoginPage() {
   const router = useRouter();
@@ -13,12 +14,15 @@ export default function LoginPage() {
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [resettingPassword, setResettingPassword] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [resetMessage, setResetMessage] = useState<string | null>(null);
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
     setError(null);
+    const normalizedEmailValue = normalizeEmail(email);
 
     const isMockMode = process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
     
@@ -41,25 +45,69 @@ export default function LoginPage() {
     try {
       const supabase = createClient();
       const { error: authError } = await supabase.auth.signInWithPassword({
-        email,
+        email: normalizedEmailValue,
         password,
       });
 
       if (authError) {
-        // Give a friendlier message for the most common case
-        if (authError.message.toLowerCase().includes('email not confirmed')) {
-          setError('Please confirm your email first. Check your inbox for a verification link.');
-        } else {
-          setError(authError.message || 'Invalid email or password.');
-        }
+        setError(mapAuthErrorMessage(authError.message));
         return;
       }
       
-      router.push('/dashboard');
-    } catch (err: any) {
-      setError(err.message || 'An error occurred during login. Please try again.');
+      router.replace('/dashboard');
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : 'An error occurred during login. Please try again.';
+      setError(mapAuthErrorMessage(message));
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleForgotPassword = async () => {
+    const normalizedEmailValue = normalizeEmail(email);
+
+    if (!normalizedEmailValue) {
+      setError('Enter your email address first so we can send the reset link.');
+      setResetMessage(null);
+      return;
+    }
+
+    setResettingPassword(true);
+    setError(null);
+    setResetMessage(null);
+
+    const isMockMode =
+      process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
+
+    if (isMockMode) {
+      await new Promise((resolve) => setTimeout(resolve, 600));
+      setResetMessage('Mock mode: password recovery emails are not sent.');
+      setResettingPassword(false);
+      return;
+    }
+
+    try {
+      const supabase = createClient();
+      const { error: resetError } = await supabase.auth.resetPasswordForEmail(
+        normalizedEmailValue,
+        {
+          redirectTo: `${window.location.origin}/auth/callback?next=/reset-password`,
+        }
+      );
+
+      if (resetError) {
+        throw resetError;
+      }
+
+      setResetMessage('Reset link sent. Check your inbox and spam folder.');
+    } catch (err: unknown) {
+      const message =
+        err instanceof Error
+          ? err.message
+          : 'Could not send the password reset email. Please try again.';
+      setError(mapAuthErrorMessage(message));
+    } finally {
+      setResettingPassword(false);
     }
   };
 
@@ -70,7 +118,7 @@ export default function LoginPage() {
           Welcome back
         </h2>
         <p className="mt-2 text-center text-sm text-text-secondary">
-          Don't have an account?{' '}
+          Don&apos;t have an account?{' '}
           <Link href="/signup" className="font-semibold text-accent hover:text-accent-hover transition-colors">
             Sign up for free
           </Link>
@@ -84,6 +132,13 @@ export default function LoginPage() {
               <div className="rounded-md bg-error/10 p-4 border border-error/20 flex items-start gap-3">
                 <AlertCircle className="w-5 h-5 text-error shrink-0 mt-0.5" />
                 <p className="text-sm text-error">{error}</p>
+              </div>
+            )}
+
+            {resetMessage && (
+              <div className="rounded-md bg-success/10 p-4 border border-success/20 flex items-start gap-3">
+                <AlertCircle className="w-5 h-5 text-success shrink-0 mt-0.5" />
+                <p className="text-sm text-success">{resetMessage}</p>
               </div>
             )}
 
@@ -149,9 +204,16 @@ export default function LoginPage() {
                 {loading ? <Loader2 className="w-5 h-5 animate-spin" /> : 'Log in'}
               </Button>
             </div>
-            
-
-
+            <div className="flex justify-end">
+              <button
+                type="button"
+                onClick={handleForgotPassword}
+                disabled={resettingPassword}
+                className="text-sm font-medium text-accent hover:text-accent-hover transition-colors disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                {resettingPassword ? 'Sending reset link...' : 'Forgot password?'}
+              </button>
+            </div>
           </form>
         </div>
       </div>

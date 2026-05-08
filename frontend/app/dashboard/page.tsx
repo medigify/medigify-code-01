@@ -4,8 +4,8 @@ import { useEffect, useState, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import {
-  Flame, Play, Clock, Target, AlertCircle, Zap,
-  BookOpen, TrendingUp, Award, ChevronRight,
+  Flame, Play, Clock, Target, Zap,
+  BookOpen, TrendingUp, ChevronRight,
   BarChart3, CheckCircle2, RefreshCw, Lock
 } from 'lucide-react';
 import Button from '@/components/ui/Button';
@@ -33,21 +33,24 @@ interface Stats {
   correct: number;
   accuracy: number;
   streak: number;
+  uniqueAttempted: number;
 }
 
 interface SubjectStat {
   total: number;
   correct: number;
+  uniqueAttempted: number;
 }
 
-const ALL_SUBJECTS = [
-  { name: 'Anatomy',            color: 'bg-blue-400',   light: 'text-blue-400',   border: 'border-blue-400/20' },
-  { name: 'Embryology',         color: 'bg-purple-400', light: 'text-purple-400', border: 'border-purple-400/20' },
-  { name: 'Histology',          color: 'bg-pink-400',   light: 'text-pink-400',   border: 'border-pink-400/20' },
-  { name: 'Biochemistry',       color: 'bg-orange-400', light: 'text-orange-400', border: 'border-orange-400/20' },
-  { name: 'Pathology',          color: 'bg-red-400',    light: 'text-red-400',    border: 'border-red-400/20' },
-  { name: 'Pharmacology',       color: 'bg-yellow-400', light: 'text-yellow-400', border: 'border-yellow-400/20' },
-  { name: 'Community Medicine', color: 'bg-green-400',  light: 'text-green-400',  border: 'border-green-400/20' },
+const SUBJECT_STYLES = [
+  { color: 'bg-blue-400', border: 'border-blue-400/20' },
+  { color: 'bg-purple-400', border: 'border-purple-400/20' },
+  { color: 'bg-pink-400', border: 'border-pink-400/20' },
+  { color: 'bg-orange-400', border: 'border-orange-400/20' },
+  { color: 'bg-red-400', border: 'border-red-400/20' },
+  { color: 'bg-yellow-400', border: 'border-yellow-400/20' },
+  { color: 'bg-green-400', border: 'border-green-400/20' },
+  { color: 'bg-cyan-400', border: 'border-cyan-400/20' },
 ];
 
 const QUICK_ACTIONS = [
@@ -82,29 +85,64 @@ function calcStreak(attempts: Attempt[]): number {
   return streak;
 }
 
+function getGreeting(): string {
+  const hour = new Date().getHours();
+  if (hour < 12) return 'Good morning';
+  if (hour < 17) return 'Good afternoon';
+  return 'Good evening';
+}
+
 export default function DashboardPage() {
   const router  = useRouter();
-  const { isPro, plan } = useUserPlan();
+  const { isPro, plan, error: planError } = useUserPlan();
 
   const [profile,      setProfile]      = useState<Profile | null>(null);
-  const [stats,        setStats]        = useState<Stats>({ total: 0, correct: 0, accuracy: 0, streak: 0 });
+  const [stats,        setStats]        = useState<Stats>({ total: 0, correct: 0, accuracy: 0, streak: 0, uniqueAttempted: 0 });
   const [subjectStats, setSubjectStats] = useState<Record<string, SubjectStat>>({});
   const [loading,      setLoading]      = useState(true);
-  const [greeting,     setGreeting]     = useState('Good morning');
+  const [pageError,    setPageError]    = useState<string | null>(null);
 
-  // Build a lookup map of MCQ id → subject using local JSON
+  // Build a lookup map of MCQ id → question using local JSON
   const mcqMap = useMemo(() => {
-    const map = new Map<string, string>();
-    (mcqData as MCQ[]).forEach(q => map.set(q.id, q.subject));
+    const map = new Map<string, MCQ>();
+    (mcqData as MCQ[]).forEach(q => map.set(q.id, q));
     return map;
   }, []);
+  const academicYear = profile?.academic_year ?? null;
+
+  const availableBank = useMemo(() => {
+    const allMcqs = mcqData as MCQ[];
+    if (!academicYear) {
+      return allMcqs;
+    }
+
+    const filtered = allMcqs.filter(
+      (question) => question.academic_year === academicYear
+    );
+
+    return filtered.length > 0 ? filtered : allMcqs;
+  }, [academicYear]);
+
+  const availableCountsBySubject = useMemo(() => {
+    const counts = new Map<string, number>();
+    availableBank.forEach((question) => {
+      counts.set(question.subject, (counts.get(question.subject) ?? 0) + 1);
+    });
+    return counts;
+  }, [availableBank]);
+
+  const allSubjects = useMemo(() => {
+    return Array.from(availableCountsBySubject.keys())
+      .sort((a, b) => a.localeCompare(b))
+      .map((name, index) => ({
+        name,
+        ...SUBJECT_STYLES[index % SUBJECT_STYLES.length],
+      }));
+  }, [availableCountsBySubject]);
+
+  const greeting = getGreeting();
 
   useEffect(() => {
-    const hour = new Date().getHours();
-    if (hour < 12)      setGreeting('Good morning');
-    else if (hour < 17) setGreeting('Good afternoon');
-    else                setGreeting('Good evening');
-
     const fetchAll = async () => {
       const isMockMode = process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
 
@@ -134,6 +172,10 @@ export default function DashboardPage() {
           .eq('user_id', user.id),
       ]);
 
+      if (profileRes.error || attemptsRes.error) {
+        setPageError('Some dashboard data could not be loaded. Try refreshing the page.');
+      }
+
       if (profileRes.data) setProfile(profileRes.data);
 
       const attempts: Attempt[] = attemptsRes.data ?? [];
@@ -143,16 +185,26 @@ export default function DashboardPage() {
       const correct = attempts.filter(a => a.is_correct).length;
       const accuracy = total > 0 ? Math.round((correct / total) * 100) : 0;
       const streak  = calcStreak(attempts);
-      setStats({ total, correct, accuracy, streak });
+      const uniqueAttempted = new Set(attempts.map((attempt) => attempt.question_id)).size;
+      setStats({ total, correct, accuracy, streak, uniqueAttempted });
 
       // ── Per-subject breakdown using local MCQ map ──
       const bySubject: Record<string, SubjectStat> = {};
+      const attemptedBySubject = new Map<string, Set<string>>();
       attempts.forEach(a => {
-        const subject = mcqMap.get(a.question_id);
-        if (!subject) return;
-        if (!bySubject[subject]) bySubject[subject] = { total: 0, correct: 0 };
+        const question = mcqMap.get(a.question_id);
+        if (!question) return;
+        const subject = question.subject;
+        if (!bySubject[subject]) bySubject[subject] = { total: 0, correct: 0, uniqueAttempted: 0 };
+        if (!attemptedBySubject.has(subject)) {
+          attemptedBySubject.set(subject, new Set());
+        }
+        attemptedBySubject.get(subject)?.add(a.question_id);
         bySubject[subject].total++;
         if (a.is_correct) bySubject[subject].correct++;
+      });
+      Object.entries(bySubject).forEach(([subject, stat]) => {
+        stat.uniqueAttempted = attemptedBySubject.get(subject)?.size ?? 0;
       });
       setSubjectStats(bySubject);
 
@@ -174,8 +226,17 @@ export default function DashboardPage() {
   }
 
   const displayName  = profile?.first_name || profile?.username || 'Doctor';
-  const totalMcqs    = 10_000;
-  const progressPct  = Math.min((stats.total / totalMcqs) * 100, 100);
+  const totalMcqs    = availableBank.length;
+  const progressPct  =
+    totalMcqs > 0 ? Math.min((stats.uniqueAttempted / totalMcqs) * 100, 100) : 0;
+  const showingScopedBank =
+    !profile?.academic_year ||
+    availableBank.some((question) => question.academic_year === profile.academic_year);
+  const profileDetails = [
+    profile?.college_id,
+    profile?.academic_year ? `Year ${profile.academic_year}` : null,
+    profile?.examining_body_id,
+  ].filter(Boolean);
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-10">
@@ -196,11 +257,14 @@ export default function DashboardPage() {
               {plan}
             </span>
           </div>
-          {profile?.college_id && (
+          {profileDetails.length > 0 && (
             <p className="text-text-secondary text-sm mt-1.5">
-              {profile.college_id}
-              {profile.academic_year  ? ` · Year ${profile.academic_year}` : ''}
-              {profile.examining_body_id ? ` · ${profile.examining_body_id}` : ''}
+              {profileDetails.join(' · ')}
+            </p>
+          )}
+          {!showingScopedBank && (
+            <p className="text-xs text-accent mt-2">
+              Current content coverage is still focused on first-year material, so progress is measured against the shared bank until your year-specific content is added.
             </p>
           )}
         </div>
@@ -212,6 +276,13 @@ export default function DashboardPage() {
           </Button>
         </Link>
       </div>
+
+      {(pageError || planError) && (
+        <div className="mb-8 rounded-lg border border-error/20 bg-error/10 p-4 text-sm text-error">
+          {pageError && <p>{pageError}</p>}
+          {planError && <p>{planError}</p>}
+        </div>
+      )}
 
       {/* ── Stats Row ── */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
@@ -275,7 +346,7 @@ export default function DashboardPage() {
               Subject Progress
             </h2>
             <span className="text-xs text-text-secondary">
-              {stats.total} / {totalMcqs.toLocaleString()} total
+              {stats.uniqueAttempted} / {totalMcqs.toLocaleString()} covered
             </span>
           </div>
 
@@ -289,10 +360,14 @@ export default function DashboardPage() {
             </div>
           ) : (
             <div className="space-y-4">
-              {ALL_SUBJECTS.map(({ name, color, light, border }) => {
+              {allSubjects.map(({ name, color, border }) => {
                 const s = subjectStats[name];
                 const attempted = s?.total ?? 0;
-                const pct = attempted > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+                const uniqueAttempted = s?.uniqueAttempted ?? 0;
+                const available = availableCountsBySubject.get(name) ?? 0;
+                const accuracy = attempted > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+                const completionPct =
+                  available > 0 ? Math.min((uniqueAttempted / available) * 100, 100) : 0;
                 return (
                   <div key={name}>
                     <div className="flex items-center justify-between mb-1.5">
@@ -302,13 +377,15 @@ export default function DashboardPage() {
                         {!isPro && <Lock className="w-3 h-3 text-text-secondary/40" />}
                       </div>
                       <span className="text-xs text-text-secondary">
-                        {attempted > 0 ? `${pct}% acc · ${attempted} done` : 'Not started'}
+                        {attempted > 0
+                          ? `${uniqueAttempted}/${available} covered · ${accuracy}% acc`
+                          : `${available} available`}
                       </span>
                     </div>
                     <div className="w-full bg-border rounded-full h-1.5">
                       <div
                         className={`h-1.5 rounded-full ${color} opacity-70 transition-all duration-500`}
-                        style={{ width: attempted > 0 ? `${Math.max(pct, 2)}%` : '0%' }}
+                        style={{ width: attempted > 0 ? `${Math.max(completionPct, 2)}%` : '0%' }}
                       />
                     </div>
                   </div>
@@ -343,6 +420,20 @@ export default function DashboardPage() {
                   </div>
                 </Link>
               ))}
+              <Link href="/flashcards">
+                <div className="flex items-center justify-between p-3 rounded-lg bg-bg-primary hover:bg-bg-surface-hover border border-transparent hover:border-border transition-all duration-150 group cursor-pointer">
+                  <div className="flex items-center gap-3">
+                    <div className="p-1.5 bg-border rounded-md">
+                      <BookOpen className="w-3.5 h-3.5 text-text-secondary group-hover:text-accent transition-colors" />
+                    </div>
+                    <div>
+                      <p className="text-sm font-medium text-text-primary">Flashcards</p>
+                      <p className="text-xs text-text-secondary">Review saved weak questions</p>
+                    </div>
+                  </div>
+                  <ChevronRight className="w-4 h-4 text-text-secondary/50 group-hover:text-accent group-hover:translate-x-0.5 transition-all" />
+                </div>
+              </Link>
             </div>
           </div>
 
@@ -376,7 +467,7 @@ export default function DashboardPage() {
           </h2>
           <div className="flex items-end gap-2 mb-3">
             <span className="text-4xl font-heading font-bold text-text-primary">
-              {stats.total.toLocaleString()}
+              {stats.uniqueAttempted.toLocaleString()}
             </span>
             <span className="text-text-secondary mb-1">/ {totalMcqs.toLocaleString()} MCQs</span>
           </div>
@@ -387,7 +478,7 @@ export default function DashboardPage() {
             />
           </div>
           <p className="text-xs text-text-secondary">
-            {stats.total === 0
+            {stats.uniqueAttempted === 0
               ? 'Start your first session to track progress.'
               : `${(100 - progressPct).toFixed(1)}% of content remaining`}
           </p>

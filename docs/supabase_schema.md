@@ -123,3 +123,98 @@ CREATE POLICY "Users can read own attempts"
 CREATE INDEX idx_attempts_user_id ON public.question_attempts(user_id);
 CREATE INDEX idx_attempts_created_at ON public.question_attempts(user_id, created_at DESC);
 ```
+
+## 4. Additional Production SQL Applied
+
+These commands were later applied to support plan display, flashcards, and safer username uniqueness.
+
+```sql
+ALTER TABLE public.profiles
+ADD COLUMN IF NOT EXISTS plan text NOT NULL DEFAULT 'free' CHECK (plan IN ('free', 'pro')),
+ADD COLUMN IF NOT EXISTS plan_expires_at timestamp with time zone DEFAULT NULL;
+
+UPDATE public.profiles
+SET plan = 'free'
+WHERE plan IS NULL;
+
+CREATE TABLE IF NOT EXISTS public.flashcards (
+  id uuid DEFAULT gen_random_uuid() PRIMARY KEY,
+  user_id uuid REFERENCES auth.users(id) ON DELETE CASCADE NOT NULL,
+  question_id text NOT NULL,
+  subject text NOT NULL,
+  topic text,
+  easiness_factor float DEFAULT 2.5,
+  interval_days integer DEFAULT 0,
+  repetitions integer DEFAULT 0,
+  next_review_date date DEFAULT current_date,
+  last_reviewed_at timestamp with time zone,
+  created_at timestamp with time zone DEFAULT timezone('utc', now()) NOT NULL
+);
+
+ALTER TABLE public.flashcards ENABLE ROW LEVEL SECURITY;
+
+CREATE POLICY "Users can read own flashcards"
+  ON public.flashcards
+  FOR SELECT
+  TO authenticated
+  USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can insert own flashcards"
+  ON public.flashcards
+  FOR INSERT
+  TO authenticated
+  WITH CHECK (auth.uid() = user_id);
+
+CREATE POLICY "Users can update own flashcards"
+  ON public.flashcards
+  FOR UPDATE
+  TO authenticated
+  USING (auth.uid() = user_id);
+
+CREATE POLICY "Users can delete own flashcards"
+  ON public.flashcards
+  FOR DELETE
+  TO authenticated
+  USING (auth.uid() = user_id);
+
+CREATE UNIQUE INDEX IF NOT EXISTS flashcards_user_question_unique
+  ON public.flashcards(user_id, question_id);
+
+CREATE UNIQUE INDEX IF NOT EXISTS profiles_username_lower_unique
+  ON public.profiles (lower(username));
+```
+
+## 5. Production `profiles` RLS / Grants
+
+Run this exact block so authenticated users can read their own profile and edit only safe fields, while `plan` and other protected columns stay locked down.
+
+```sql
+BEGIN;
+
+ALTER TABLE public.profiles ENABLE ROW LEVEL SECURITY;
+
+DROP POLICY IF EXISTS "Users can view own profile" ON public.profiles;
+DROP POLICY IF EXISTS "Users can update own profile" ON public.profiles;
+
+CREATE POLICY "Users can view own profile"
+  ON public.profiles
+  FOR SELECT
+  TO authenticated
+  USING (auth.uid() = id);
+
+CREATE POLICY "Users can update own profile"
+  ON public.profiles
+  FOR UPDATE
+  TO authenticated
+  USING (auth.uid() = id)
+  WITH CHECK (auth.uid() = id);
+
+REVOKE ALL PRIVILEGES ON TABLE public.profiles FROM public;
+REVOKE ALL PRIVILEGES ON TABLE public.profiles FROM anon;
+REVOKE ALL PRIVILEGES ON TABLE public.profiles FROM authenticated;
+
+GRANT SELECT ON TABLE public.profiles TO authenticated;
+GRANT UPDATE (first_name, last_name, academic_year) ON TABLE public.profiles TO authenticated;
+
+COMMIT;
+```
