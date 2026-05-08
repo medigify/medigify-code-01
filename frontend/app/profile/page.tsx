@@ -11,6 +11,7 @@ import Link from 'next/link';
 import Button from '@/components/ui/Button';
 import { createClient } from '@/lib/supabase/client';
 import { useUserPlan } from '@/hooks/useUserPlan';
+import { mapAuthErrorMessage, normalizeText } from '@/lib/auth';
 
 const ACADEMIC_YEARS = [1, 2, 3, 4, 5];
 
@@ -25,12 +26,13 @@ interface ProfileData {
 
 export default function ProfilePage() {
   const router = useRouter();
-  const { isPro } = useUserPlan();
+  const { isPro, error: planError } = useUserPlan();
 
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
   const [saveSuccess, setSaveSuccess] = useState(false);
   const [saveError, setSaveError] = useState<string | null>(null);
+  const [loadError, setLoadError] = useState<string | null>(null);
   const [isEditing, setIsEditing] = useState(false);
   const [userEmail, setUserEmail] = useState('');
 
@@ -78,18 +80,28 @@ export default function ProfilePage() {
         .eq('id', user.id)
         .single();
 
-      if (data) {
-        const p: ProfileData = {
-          first_name: data.first_name ?? '',
-          last_name: data.last_name ?? '',
-          username: data.username ?? '',
-          examining_body_id: data.examining_body_id ?? '',
-          college_id: data.college_id ?? '',
-          academic_year: data.academic_year ?? null,
-        };
-        setProfile(p);
-        setDraft(p);
+      if (error) {
+        setLoadError(mapAuthErrorMessage(error.message));
+        setLoading(false);
+        return;
       }
+
+      if (!data) {
+        setLoadError('We could not find your profile record.');
+        setLoading(false);
+        return;
+      }
+
+      const p: ProfileData = {
+        first_name: data.first_name ?? '',
+        last_name: data.last_name ?? '',
+        username: data.username ?? '',
+        examining_body_id: data.examining_body_id ?? '',
+        college_id: data.college_id ?? '',
+        academic_year: data.academic_year ?? null,
+      };
+      setProfile(p);
+      setDraft(p);
 
       setLoading(false);
     };
@@ -133,23 +145,31 @@ export default function ProfilePage() {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) throw new Error('Not logged in');
 
+      const normalizedFirstName = normalizeText(draft.first_name);
+      const normalizedLastName = normalizeText(draft.last_name);
+
       const { error } = await supabase
         .from('profiles')
         .update({
-          first_name: draft.first_name.trim(),
-          last_name: draft.last_name.trim(),
+          first_name: normalizedFirstName,
+          last_name: normalizedLastName,
           academic_year: draft.academic_year,
         })
         .eq('id', user.id);
 
       if (error) throw error;
 
-      setProfile({ ...draft });
+      setProfile({
+        ...draft,
+        first_name: normalizedFirstName,
+        last_name: normalizedLastName,
+      });
       setSaveSuccess(true);
       setIsEditing(false);
       setTimeout(() => setSaveSuccess(false), 3000);
-    } catch (err: any) {
-      setSaveError(err.message || 'Failed to save. Please try again.');
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : 'Failed to save. Please try again.';
+      setSaveError(mapAuthErrorMessage(message));
     } finally {
       setSaving(false);
     }
@@ -203,6 +223,15 @@ export default function ProfilePage() {
       </div>
 
       <div className="space-y-5">
+        {(loadError || planError) && (
+          <div className="rounded-lg border border-error/20 bg-error/10 p-4 text-sm text-error flex items-start gap-3">
+            <AlertCircle className="w-4 h-4 shrink-0 mt-0.5" />
+            <div>
+              {loadError && <p>{loadError}</p>}
+              {planError && <p>{planError}</p>}
+            </div>
+          </div>
+        )}
 
         {/* ── Avatar Card ── */}
         <div className="bg-bg-surface border border-border rounded-xl p-6 flex items-center gap-5">
@@ -337,7 +366,10 @@ export default function ProfilePage() {
                 </label>
                 <select
                   value={draft.academic_year ?? ''}
-                  onChange={e => setDraft(d => ({ ...d, academic_year: Number(e.target.value) }))}
+                  onChange={e => setDraft(d => ({
+                    ...d,
+                    academic_year: e.target.value ? Number(e.target.value) : null,
+                  }))}
                   className="block w-full rounded-lg border-0 py-2.5 px-3 bg-bg-primary text-text-primary shadow-sm ring-1 ring-inset ring-border focus:ring-2 focus:ring-inset focus:ring-accent sm:text-sm appearance-none"
                 >
                   <option value="" disabled>Select year</option>

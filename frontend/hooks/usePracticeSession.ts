@@ -4,17 +4,24 @@ import { useState, useCallback, useRef } from 'react';
 import { MCQ, Answer, PracticeSessionState } from '@/lib/types';
 import { createClient } from '@/lib/supabase/client';
 
-export function usePracticeSession(questions: MCQ[]) {
-  const [session, setSession] = useState<PracticeSessionState>({
+function createSessionState(questions: MCQ[]): PracticeSessionState {
+  const now = Date.now();
+  return {
     questions,
     currentIndex: 0,
     answers: new Map(),
-    sessionStartTime: Date.now(),
-    currentQuestionStartTime: Date.now(),
+    sessionStartTime: now,
+    currentQuestionStartTime: now,
     isComplete: false,
-  });
+  };
+}
 
-  const questionStartTimeRef = useRef(Date.now());
+export function usePracticeSession(questions: MCQ[]) {
+  const [session, setSession] = useState<PracticeSessionState>(() =>
+    createSessionState(questions)
+  );
+
+  const questionStartTimeRef = useRef(session.currentQuestionStartTime);
 
   const currentQuestion = session.questions[session.currentIndex];
   const currentAnswer = currentQuestion

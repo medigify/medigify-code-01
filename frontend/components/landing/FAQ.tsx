@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Accordion from '@/components/ui/Accordion';
 
 export default function FAQ() {
@@ -17,15 +18,13 @@ export default function FAQ() {
       answer: (
         <>
           Absolutely. Medigify is built mobile-first as a Progressive Web App. Install it from your browser, no app store needed.{" "}
-          <div className="group relative inline-block mt-1">
-            <span className="text-accent hover:text-accent-hover font-medium cursor-help transition-colors">
+          <div className="inline-block mt-1">
+            <Link
+              href="/pwa-guide"
+              className="text-accent hover:text-accent-hover font-medium transition-colors"
+            >
               Learn more
-            </span>
-            <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-64 p-3 bg-bg-surface-hover text-text-primary text-xs rounded-md border border-border shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-20 text-center pointer-events-none">
-              <p className="mb-2 text-text-primary"><strong>iOS:</strong> Tap Share in Safari, then 'Add to Home Screen'.</p>
-              <p className="text-text-primary"><strong>Android:</strong> Tap menu in Chrome, then 'Add to Home screen'.</p>
-              <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-bg-surface-hover"></div>
-            </div>
+            </Link>
           </div>
         </>
       ),

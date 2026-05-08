@@ -1,9 +1,9 @@
 'use client';
 
-import { useMemo, Suspense, useState } from 'react';
+import { useMemo, Suspense, useState, useEffect } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { CheckCircle2, XCircle, ChevronRight, RotateCcw, Home, Bookmark } from 'lucide-react';
+import { CheckCircle2, XCircle, ChevronRight, RotateCcw, Home, Bookmark, LayoutDashboard, Loader2 } from 'lucide-react';
 import Button from '@/components/ui/Button';
 import mcqData from '@/data/mcqs.json';
 import { MCQ, Answer } from '@/lib/types';
@@ -22,31 +22,13 @@ import { PLAN_LIMITS } from '@/lib/plans';
 import { createClient } from '@/lib/supabase/client';
 import PaywallBanner from '@/components/ui/PaywallBanner';
 
-function PracticeSessionContent() {
-  const searchParams = useSearchParams();
+function PracticeSessionStage({ questions, isPro }: { questions: MCQ[]; isPro: boolean }) {
   const router = useRouter();
-  const [flashcardSaved, setFlashcardSaved] = useState(false);
-  const { isPro, isLoading: planLoading } = useUserPlan();
-
-  const subjectsParam = searchParams.get('subjects') || 'all';
-  const countParam = parseInt(searchParams.get('count') || '10', 10);
-
-  const questions = useMemo(() => {
-    const allMcqs = mcqData as MCQ[];
-    let filtered: MCQ[];
-
-    if (subjectsParam === 'all') {
-      filtered = allMcqs;
-    } else {
-      const subjects = subjectsParam.split(',');
-      filtered = filterMCQsBySubjects(allMcqs, subjects);
-    }
-
-    const shuffled = shuffleArray(filtered);
-    // Gate by plan: free users get max 5 MCQs per session
-    const limit = isPro ? countParam : Math.min(countParam, PLAN_LIMITS.free.mcqsPerSubject);
-    return shuffled.slice(0, limit);
-  }, [subjectsParam, countParam, isPro]);
+  const [savedFlashcardIds, setSavedFlashcardIds] = useState<Set<string>>(
+    () => new Set()
+  );
+  const [savingFlashcardId, setSavingFlashcardId] = useState<string | null>(null);
+  const [flashcardError, setFlashcardError] = useState<string | null>(null);
 
   const {
     session,
@@ -61,15 +43,9 @@ function PracticeSessionContent() {
     avgTimeMs,
   } = usePracticeSession(questions);
 
-  // Show loading state while we fetch plan
-  if (planLoading) {
-    return (
-      <div className="max-w-2xl mx-auto px-4 py-16 text-center">
-        <div className="w-8 h-8 border-2 border-accent border-t-transparent rounded-full animate-spin mx-auto" />
-        <p className="mt-4 text-text-secondary">Loading your session...</p>
-      </div>
-    );
-  }
+  useEffect(() => {
+    setFlashcardError(null);
+  }, [currentQuestion?.id]);
 
   // Post-block summary
   if (session.isComplete) {
@@ -104,6 +80,12 @@ function PracticeSessionContent() {
             </p>
           </div>
         </div>
+
+        {!isPro && (
+          <div className="mb-8">
+            <PaywallBanner questionsRemaining={0} />
+          </div>
+        )}
 
         {/* Stats Grid */}
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
@@ -206,27 +188,26 @@ function PracticeSessionContent() {
         )}
 
         {/* Actions */}
-        <div className="flex flex-col sm:flex-row gap-3 justify-center">
+        <div className="grid gap-3 sm:grid-cols-3">
+          <Link href="/dashboard">
+            <Button variant="ghost" size="md" className="w-full justify-center">
+              <LayoutDashboard className="w-4 h-4 mr-2" />
+              Back to Dashboard
+            </Button>
+          </Link>
           <Link href="/practice">
-            <Button variant="filled" size="md">
+            <Button variant="filled" size="md" className="w-full justify-center">
               <RotateCcw className="w-4 h-4 mr-2" />
               Practice Again
             </Button>
           </Link>
           <Link href="/">
-            <Button variant="ghost" size="md">
+            <Button variant="ghost" size="md" className="w-full justify-center">
               <Home className="w-4 h-4 mr-2" />
-              Back to Home
+              Home
             </Button>
           </Link>
         </div>
-
-        {/* Paywall prompt for free users after completing their limited session */}
-        {!isPro && (
-          <div className="mt-10">
-            <PaywallBanner questionsRemaining={0} />
-          </div>
-        )}
       </div>
     );
   }
@@ -252,6 +233,57 @@ function PracticeSessionContent() {
   const optionKeys = Object.keys(currentQuestion.options) as Array<
     keyof typeof currentQuestion.options
   >;
+  const currentQuestionSaved = savedFlashcardIds.has(currentQuestion.id);
+
+  const handleSaveFlashcard = async () => {
+    setFlashcardError(null);
+
+    const isMockMode =
+      process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
+
+    if (isMockMode) {
+      const mockId = localStorage.getItem('mock_user_id');
+      if (!mockId) {
+        router.push('/login');
+        return;
+      }
+
+      setSavedFlashcardIds((prev) => new Set(prev).add(currentQuestion.id));
+      return;
+    }
+
+    setSavingFlashcardId(currentQuestion.id);
+
+    try {
+      const supabase = createClient();
+      const {
+        data: { user },
+      } = await supabase.auth.getUser();
+
+      if (!user) {
+        router.push('/login');
+        return;
+      }
+
+      const { error } = await supabase.from('flashcards').insert({
+        user_id: user.id,
+        question_id: currentQuestion.id,
+        subject: currentQuestion.subject,
+        topic: currentQuestion.topic,
+      });
+
+      if (error && error.code !== '23505') {
+        throw error;
+      }
+
+      setSavedFlashcardIds((prev) => new Set(prev).add(currentQuestion.id));
+    } catch (error) {
+      console.error('Failed to save flashcard:', error);
+      setFlashcardError('Could not add this question to your flashcards.');
+    } finally {
+      setSavingFlashcardId(null);
+    }
+  };
 
   return (
     <div className="max-w-2xl mx-auto px-4 sm:px-6 py-6 md:py-10">
@@ -360,42 +392,26 @@ function PracticeSessionContent() {
             {/* Add to Flashcards */}
             <div className="mt-3 pt-3 border-t border-border flex items-center justify-between">
               <button
-                onClick={async () => {
-                  const isMockMode = process.env.NEXT_PUBLIC_SUPABASE_URL === 'https://mock-project.supabase.co';
-                  if (isMockMode) {
-                    const mockId = localStorage.getItem('mock_user_id');
-                    if (mockId) {
-                      setFlashcardSaved(true);
-                      console.log('[Mock DB]: Flashcard added');
-                    } else {
-                      router.push('/login');
-                    }
-                  } else {
-                    try {
-                      const supabase = createClient();
-                      const { data: { user } } = await supabase.auth.getUser();
-                      if (user) {
-                        await supabase.from('flashcards').insert({
-                          user_id: user.id,
-                          question_id: currentQuestion.id,
-                          subject: currentQuestion.subject,
-                          topic: currentQuestion.topic,
-                        });
-                        setFlashcardSaved(true);
-                      } else {
-                        router.push('/login');
-                      }
-                    } catch (e) {
-                      console.error('Failed to save flashcard:', e);
-                    }
-                  }
-                }}
-                disabled={flashcardSaved}
-                className={`flex items-center gap-2 text-sm transition-colors duration-150 ${flashcardSaved ? 'text-success cursor-default' : 'text-text-secondary hover:text-accent cursor-pointer'}`}
+                onClick={handleSaveFlashcard}
+                disabled={currentQuestionSaved || savingFlashcardId === currentQuestion.id}
+                className={`flex items-center gap-2 text-sm transition-colors duration-150 ${
+                  currentQuestionSaved
+                    ? 'text-success cursor-default'
+                    : 'text-text-secondary hover:text-accent cursor-pointer'
+                }`}
               >
-                {flashcardSaved ? <CheckCircle2 className="w-4 h-4" /> : <Bookmark className="w-4 h-4" />}
-                {flashcardSaved ? 'Added to Flashcards' : 'Add to Flashcards'}
+                {savingFlashcardId === currentQuestion.id ? (
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                ) : currentQuestionSaved ? (
+                  <CheckCircle2 className="w-4 h-4" />
+                ) : (
+                  <Bookmark className="w-4 h-4" />
+                )}
+                {currentQuestionSaved ? 'Added to Flashcards' : 'Add to Flashcards'}
               </button>
+              {flashcardError && (
+                <p className="text-xs text-error">{flashcardError}</p>
+              )}
             </div>
           </div>
         </div>
@@ -416,6 +432,46 @@ function PracticeSessionContent() {
       )}
     </div>
   );
+}
+
+function PracticeSessionContent() {
+  const searchParams = useSearchParams();
+  const { isPro, isLoading: planLoading } = useUserPlan();
+
+  const subjectsParam = searchParams.get('subjects') || 'all';
+  const countParam = parseInt(searchParams.get('count') || '10', 10);
+
+  const questions = useMemo(() => {
+    const allMcqs = mcqData as MCQ[];
+    let filtered: MCQ[];
+
+    if (subjectsParam === 'all') {
+      filtered = allMcqs;
+    } else {
+      const subjects = subjectsParam.split(',');
+      filtered = filterMCQsBySubjects(allMcqs, subjects);
+    }
+
+    const shuffled = shuffleArray(filtered);
+    const limit = isPro ? countParam : Math.min(countParam, PLAN_LIMITS.free.mcqsPerSubject);
+    return shuffled.slice(0, limit);
+  }, [subjectsParam, countParam, isPro]);
+
+  const sessionKey = useMemo(
+    () => questions.map((question) => question.id).join('|'),
+    [questions]
+  );
+
+  if (planLoading) {
+    return (
+      <div className="max-w-2xl mx-auto px-4 py-16 text-center">
+        <div className="w-8 h-8 border-2 border-accent border-t-transparent rounded-full animate-spin mx-auto" />
+        <p className="mt-4 text-text-secondary">Loading your session...</p>
+      </div>
+    );
+  }
+
+  return <PracticeSessionStage key={sessionKey} questions={questions} isPro={isPro} />;
 }
 
 export default function PracticeSessionPage() {
